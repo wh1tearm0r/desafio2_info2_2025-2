@@ -4,18 +4,21 @@ CONFIG -= app_bundle
 CONFIG -= qt
 
 SOURCES += \
-        basedatosusuario.cpp \
-        baseplataforma.cpp \
+        basedatosusuarios.cpp \
         cancion.cpp \
         listareproduccion.cpp \
         main.cpp \
         publicidad.cpp \
+        reproductor.cpp \
         usuario.cpp
 
 HEADERS += \
-    basedatosusuario.h \
-    baseplataforma.h \
+    basedatosusuarios.h \
     cancion.h \
     listareproduccion.h \
     publicidad.h \
+    reproductor.h \
     usuario.h
+
+DISTFILES += \
+    data/usuarios.txt

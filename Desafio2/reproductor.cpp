@@ -1,3 +1,3 @@
-﻿#include "baseplataforma.h"
+﻿#include "reproductor.h"
 
 basePlataforma::basePlataforma() {}
