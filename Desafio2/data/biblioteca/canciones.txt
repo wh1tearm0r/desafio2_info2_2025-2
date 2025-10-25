@@ -1,0 +1,23 @@
+100010101|Moscow Mule|4:05|9.6|/users/storage/badbunny/audio/moscow_mule_128.ogg|/users/storage/badbunny/audio/moscow_mule_320.ogg|1438131979
+100010102|Después de la Playa|3:50|9.4|/users/storage/badbunny/audio/despues_de_la_playa_128.ogg|/users/storage/badbunny/audio/despues_de_la_playa_320.ogg|643577559
+100010103|Me Porto Bonito|3:58|9.8|/users/storage/badbunny/audio/me_porto_bonito_128.ogg|/users/storage/badbunny/audio/me_porto_bonito_320.ogg|2139076922
+100010104|Titi Me Preguntó|4:00|10.0|/users/storage/badbunny/audio/titi_me_pregunto_128.ogg|/users/storage/badbunny/audio/titi_me_pregunto_320.ogg|1838986610
+100010105|Un Ratito|2:56|9.2|/users/storage/badbunny/audio/un_ratito_128.ogg|/users/storage/badbunny/audio/un_ratito_320.ogg|616087604
+100010106|Yo No soy celoso|3:50|9.2|/users/storage/badbunny/audio/yo_no_soy_celoso_128.ogg|/users/storage/badbunny/audio/yo_no_soy_celoso_320.ogg|472740652
+100010107|Tarot|3:57|9.3|/users/storage/badbunny/audio/tarot_128.ogg|/users/storage/badbunny/audio/tarot_320.ogg|925690845
+100010108|Neverita|2:53|9.8|/users/storage/badbunny/audio/neverita_128.ogg|/users/storage/badbunny/audio/neverita_320.ogg|1000729890
+100010109|La Corriente|3:18|9.5|/users/storage/badbunny/audio/la_corriente_128.ogg|/users/storage/badbunny/audio/la_corriente_320.ogg|710017433
+100010110|Efecto|3:33|9.4|/users/storage/badbunny/audio/efecto_128.ogg|/users/storage/badbunny/audio/efecto_320.ogg|1558091243
+100010111|Party|3:47|7.0|/users/storage/badbunny/audio/party_128.ogg|/users/storage/badbunny/audio/party_320.ogg|853006529
+100010112|Aguacero|3:30|8.9|/users/storage/badbunny/audio/aguacero_128.ogg|/users/storage/badbunny/audio/aguacero_320.ogg|456840480
+100010113|Enseñame a Bailar|2:56|9.0|/users/storage/badbunny/audio/enseñame_a_bailar_128.ogg|/users/storage/badbunny/audio/enseñame_a_bailar_320.ogg|485961327
+100010114|Ojitos_Lindos|4:18|10.0|/users/storage/badbunny/audio/ojitos_lindos_128.ogg|/users/storage/badbunny/audio/ojitos_lindos_320.ogg|1773226523
+100010115|Dos Mil 16|3:28|9.1|/users/storage/badbunny/audio/dos_mil_16_128.ogg|/users/storage/badbunny/audio/dos_mil_16_320.ogg|561290041
+100010116|El Apagon|3:21|9.7|/users/storage/badbunny/audio/el_apagon_128.ogg|/users/storage/badbunny/audio/el_apagon_320.ogg|299992688
+100010117|Otro Atardecer|4:04|9.6|/users/storage/badbunny/audio/otro_atardecer_128.ogg|/users/storage/badbunny/audio/otro_atardecer_320.ogg|638801728
+100010118|Un Coco|3:16|9.2|/users/storage/badbunny/audio/un_coco_128.ogg|/users/storage/badbunny/audio/un_coco_320.ogg|732249149
+100010119|Andrea|5:39|9.8|/users/storage/badbunny/audio/andrea_128.ogg|/users/storage/badbunny/audio/andrea_320.ogg|589055191
+100010120|Me Fui de Vacaciones|3:00|9.6|/users/storage/badbunny/audio/me_fui_de_vacaciones_128.ogg|/users/storage/badbunny/audio/me_fui_de_vacaciones_320.ogg|470714782
+100010121|Un Verano Sin Ti|2:28|9.4|/users/storage/badbunny/audio/un_verano_sin_ti_128.ogg|/users/storage/badbunny/audio/un_verano_sin_ti_320.ogg|496191898
+100010122|Agosto|2:19|9.0|/users/storage/badbunny/audio/agosto_128.ogg|/users/storage/badbunny/audio/agosto_320.ogg|422457675
+100010123|Callaita|4:10|10.0|/users/storage/badbunny/audio/callaita_128.ogg|/users/storage/badbunny/audio/callaita_320.ogg|1699710172

@@ -102,7 +102,7 @@ void baseDatosUsuarios::listarUsuarios() const {
 
 // Cargar usuarios desde archivo
 void baseDatosUsuarios::cargarDesdeArchivo(string nombreArchivo) {
-    ifstream archivo(nombreArchivo.c_str());
+    ifstream archivo(nombreArchivo);
 
     if (!archivo.is_open()) {
         cout << "Error: No se pudo abrir el archivo: " << nombreArchivo << endl;
