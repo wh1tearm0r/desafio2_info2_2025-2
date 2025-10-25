@@ -1,0 +1,10 @@
+debug/GestorArchivos.o
+debug/album.o
+debug/artista.o
+debug/basedatosusuarios.o
+debug/cancion.o
+debug/listareproduccion.o
+debug/main.o
+debug/publicidad.o
+debug/reproductor.o
+debug/usuario.o

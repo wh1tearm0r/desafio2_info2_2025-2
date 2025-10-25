@@ -1,0 +1,10 @@
+release/GestorArchivos.o
+release/album.o
+release/artista.o
+release/basedatosusuarios.o
+release/cancion.o
+release/listareproduccion.o
+release/main.o
+release/publicidad.o
+release/reproductor.o
+release/usuario.o
