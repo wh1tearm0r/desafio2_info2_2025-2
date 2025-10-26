@@ -23,13 +23,15 @@ void listaFavoritos::setNombreUsuario(const string& usuario) {
     nombreUsuario = usuario;
 }
 
-bool listaFavoritos::agregarCancion(const string& idCancion) {
-    if(existeCancion(idCancion)) {
+bool listaFavoritos::agregarCancion(bool premium, const string& idCancion) {
+    if (!premium){
+        cout << "Esta funcion solo esta disponible para usuarios premium" << endl;
+    }
+    else if(existeCancion(idCancion)) {
         cout << "Esta cancion ya esta en tu lista" << endl;
         return false;
     }
-
-    if(cantidadCanciones >= MAX_CANCIONES) {
+    else if(cantidadCanciones >= MAX_CANCIONES) {
         cout << "Has alcanzado el limite de canciones" << endl;
         return false;
     }
@@ -40,29 +42,34 @@ bool listaFavoritos::agregarCancion(const string& idCancion) {
     return true;
 }
 
-bool listaFavoritos::eliminarCancion(const string& idCancion) {
-    int posicion = -1;
-
-    for(int i = 0; i < cantidadCanciones; i++) {
-        if(canciones[i] == idCancion) {
-            posicion = i;
-            break;
-        }
-    }
-
-    if(posicion == -1) {
+bool listaFavoritos::eliminarCancion(bool premium, const string& idCancion) {
+    if (!premium){
+        cout << "Esta funcion solo esta disponible para usuarios premium" << endl;
         return false;
     }
+    else{
+        int posicion = -1;
+        for(int i = 0; i < cantidadCanciones; i++) {
+            if(canciones[i] == idCancion) {
+                posicion = i;
+                break;
+            }
+        }
 
-    // Desplazar elementos
-    for(int i = posicion; i < cantidadCanciones - 1; i++) {
-        canciones[i] = canciones[i + 1];
+        if(posicion == -1) {
+            return false;
+        }
+
+        // Desplazar elementos
+        for(int i = posicion; i < cantidadCanciones - 1; i++) {
+            canciones[i] = canciones[i + 1];
+        }
+
+        canciones[cantidadCanciones - 1] = "";
+        cantidadCanciones--;
+        actualizarArchivo();
+        return true;
     }
-
-    canciones[cantidadCanciones - 1] = "";
-    cantidadCanciones--;
-    actualizarArchivo();
-    return true;
 }
 
 bool listaFavoritos::existeCancion(const string& idCancion) const {
@@ -75,7 +82,6 @@ bool listaFavoritos::existeCancion(const string& idCancion) const {
 }
 
 void listaFavoritos::mostrarLista(bool premium) const {
-
     if (!premium){
         cout << "Esta funcion solo esta disponible para usuarios premium" << endl;
     }
