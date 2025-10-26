@@ -33,6 +33,7 @@ bool listaFavoritos::agregarCancion(bool premium, const string& idCancion) {
     }
     else if(cantidadCanciones >= MAX_CANCIONES) {
         cout << "Has alcanzado el limite de canciones" << endl;
+        cout << "En este momento hay " << cantidadCanciones << " canciones en tu lista y se consumieron " << sizeof(canciones)/sizeof(canciones[0]) << " espacios en total." << endl;
         return false;
     }
 
@@ -51,6 +52,7 @@ bool listaFavoritos::eliminarCancion(bool premium, const string& idCancion) {
         int posicion = -1;
         for(int i = 0; i < cantidadCanciones; i++) {
             if(canciones[i] == idCancion) {
+                cout << "Se hicieron " << i + 1 << " comparaciones para encontrar la cancion." << endl;
                 posicion = i;
                 break;
             }
@@ -63,6 +65,7 @@ bool listaFavoritos::eliminarCancion(bool premium, const string& idCancion) {
         // Desplazar elementos
         for(int i = posicion; i < cantidadCanciones - 1; i++) {
             canciones[i] = canciones[i + 1];
+            cout << "Se hicieron " << i + 1 << " desplazamientos para eliminar la cancion." << endl;
         }
 
         canciones[cantidadCanciones - 1] = "";
@@ -75,6 +78,7 @@ bool listaFavoritos::eliminarCancion(bool premium, const string& idCancion) {
 bool listaFavoritos::existeCancion(const string& idCancion) const {
     for(int i = 0; i < cantidadCanciones; i++) {
         if(canciones[i] == idCancion) {
+            cout << "Se hicieron " << i + 1 << " comparaciones para verificar la existencia de la cancion." << endl;
             return true;
         }
     }
@@ -109,6 +113,7 @@ void listaFavoritos::mostrarLista(bool premium) const {
                 cout << "ID: " << canciones[i] << " (no encontrada)" << endl;
             }
         }
+        cout << "Los espacios de memoria que consume la lista es de " << sizeof(canciones) << " bytes." << endl;
     }
 }
 
@@ -129,7 +134,6 @@ void listaFavoritos::actualizarArchivo() const{
         return;
     }
 
-
     string nombreArchivo = "..\\..\\data\\lista_" + nombreUsuario + ".txt";
     ofstream archivo(nombreArchivo);
 
@@ -142,6 +146,7 @@ void listaFavoritos::actualizarArchivo() const{
 
     for(int i = 0; i < cantidadCanciones; i++) {
         archivo << canciones[i] << endl;
+        cout << "Se usaron " << i + 1 << " escrituras para actualizar la lista." << endl;"
     }
 
     archivo.close();
@@ -169,6 +174,7 @@ void listaFavoritos::cargarDesdeArchivo(){
 
     for(int i = 0; i < cantidadCanciones; i++) {
         archivo >> canciones[i];
+        cout << "Se usaron " << i + 1 << " lecturas para cargar la lista." << endl;
     }
 
     archivo.close();

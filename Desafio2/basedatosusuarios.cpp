@@ -30,6 +30,7 @@ baseDatosUsuarios::~baseDatosUsuarios() {
 Usuario* baseDatosUsuarios::buscarUsuario(const string& nickname) {
     for (short int i = 0; i < cantidadUsuarios; i++) {
         if (usuarios[i].getNickname() == nickname) {
+            cout << "Se hicieron " << i + 1 << " comparaciones para encontrar el usuario." << endl;
             return &usuarios[i];
         }
     }
@@ -83,4 +84,5 @@ void baseDatosUsuarios::cargarDesdeArchivo(string nombreArchivo) {
 
     archivo.close();
     cout << "Usuarios cargados exitosamente: " << cantidadUsuarios << endl;
+    cout << "La memoria consumida por la base de datos de usuarios es de " << sizeof(usuarios) + (sizeof(Usuario) * cantidadUsuarios) << " bytes." << endl;
 }
