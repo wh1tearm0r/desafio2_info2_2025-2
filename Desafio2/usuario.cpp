@@ -1,4 +1,5 @@
 ﻿#include "Usuario.h"
+#include "listaFavoritos.h"
 #include <iostream>
 #include <ctime>
 
@@ -28,6 +29,9 @@ Usuario::Usuario(string nick, string pass, string c, string p, bool premium, int
     } else {
         fechaInscripcion = fecha;
     }
+
+    miLista.setNombreUsuario(nick);
+    miLista.cargarDesdeArchivo();
 }
 
 // Método de autenticación
@@ -54,6 +58,7 @@ void Usuario::verPerfil() {
 }
 
 // Getters
+
 string Usuario::getNickname() const {
     return nickname;
 }
@@ -76,6 +81,10 @@ string Usuario::getPais() const {
 
 int Usuario::getFechaInscripcion() const {
     return fechaInscripcion;
+}
+
+listaFavoritos &Usuario::getListaFavoritos() {
+    return miLista;
 }
 
 // Setters

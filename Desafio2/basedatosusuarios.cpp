@@ -37,7 +37,7 @@ Usuario* baseDatosUsuarios::buscarUsuario(const string& nickname) {
 }
 
 // Iniciar sesión
-void baseDatosUsuarios::iniciarSesion() {
+/*void baseDatosUsuarios::iniciarSesion() {
     string nickname;
     string password;
 
@@ -70,34 +70,11 @@ void baseDatosUsuarios::iniciarSesion() {
         cout << "\n Contrasena incorrecta." << endl;
         cout << "Por favor, intente nuevamente." << endl;
     }
-}
+}*/
 
 // Obtener cantidad de usuarios
 short int baseDatosUsuarios::getCantidadUsuarios() const {
     return cantidadUsuarios;
-}
-
-// Listar todos los usuarios
-void baseDatosUsuarios::listarUsuarios() const {
-    cout << "\n========================================" << endl;
-    cout << "         LISTA DE USUARIOS" << endl;
-    cout << "========================================" << endl;
-    cout << "Total de usuarios registrados: " << cantidadUsuarios << endl;
-    cout << "----------------------------------------" << endl;
-
-    if (cantidadUsuarios == 0) {
-        cout << "No hay usuarios registrados." << endl;
-    } else {
-        for (short int i = 0; i < cantidadUsuarios; i++) {
-            cout << (i + 1) << ". " << usuarios[i].getNickname();
-            if (usuarios[i].getEsPremium()) {
-                cout << " [PREMIUM]";
-            }
-            cout << " - " << usuarios[i].getCiudad()
-                 << ", " << usuarios[i].getPais() << endl;
-        }
-    }
-    cout << "========================================\n" << endl;
 }
 
 // Cargar usuarios desde archivo
