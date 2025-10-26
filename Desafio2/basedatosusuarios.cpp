@@ -36,68 +36,9 @@ Usuario* baseDatosUsuarios::buscarUsuario(const string& nickname) {
     return nullptr;
 }
 
-// Iniciar sesión
-void baseDatosUsuarios::iniciarSesion() {
-    string nickname;
-    string password;
-
-    cout << "\n========================================" << endl;
-    cout << "         INICIO DE SESION" << endl;
-    cout << "========================================" << endl;
-
-    cout << "Nickname: ";
-    cin >> nickname;
-
-    cout << "Contrasena: ";
-    cin >> password;
-
-    // Buscar el usuario
-    Usuario* usuario = buscarUsuario(nickname);
-
-    if (usuario == nullptr) {
-        cout << "\n Usuario no encontrado." << endl;
-        cout << "Por favor, verifique el nickname ingresado." << endl;
-        return;
-    }
-
-    // Autenticar
-    if (usuario->autenticarUsuario(password)) {
-        cout << "\n Inicio de sesion exitoso!" << endl;
-        cout << "Bienvenido/a, " << nickname << "!" << endl;
-        cout << "========================================\n" << endl;
-        usuario->verPerfil();
-    } else {
-        cout << "\n Contrasena incorrecta." << endl;
-        cout << "Por favor, intente nuevamente." << endl;
-    }
-}
-
 // Obtener cantidad de usuarios
 short int baseDatosUsuarios::getCantidadUsuarios() const {
     return cantidadUsuarios;
-}
-
-// Listar todos los usuarios
-void baseDatosUsuarios::listarUsuarios() const {
-    cout << "\n========================================" << endl;
-    cout << "         LISTA DE USUARIOS" << endl;
-    cout << "========================================" << endl;
-    cout << "Total de usuarios registrados: " << cantidadUsuarios << endl;
-    cout << "----------------------------------------" << endl;
-
-    if (cantidadUsuarios == 0) {
-        cout << "No hay usuarios registrados." << endl;
-    } else {
-        for (short int i = 0; i < cantidadUsuarios; i++) {
-            cout << (i + 1) << ". " << usuarios[i].getNickname();
-            if (usuarios[i].getEsPremium()) {
-                cout << " [PREMIUM]";
-            }
-            cout << " - " << usuarios[i].getCiudad()
-                 << ", " << usuarios[i].getPais() << endl;
-        }
-    }
-    cout << "========================================\n" << endl;
 }
 
 // Cargar usuarios desde archivo

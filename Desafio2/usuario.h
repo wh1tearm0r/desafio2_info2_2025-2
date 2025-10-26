@@ -2,6 +2,7 @@
 #define USUARIO_H
 
 #include <string>
+#include "listaFavoritos.h"
 using namespace std;
 
 class Usuario {
@@ -12,7 +13,8 @@ private:
     string ciudad;
     string pais;
     int fechaInscripcion;
-    string contrasena;
+
+    listaFavoritos miLista;
 
 public:
     // Constructores
@@ -29,6 +31,8 @@ public:
     string getCiudad() const;
     string getPais() const;
     int getFechaInscripcion() const;
+
+    listaFavoritos& getListaFavoritos();
 
     // Setters (opcional)
     void setEsPremium(bool premium);
