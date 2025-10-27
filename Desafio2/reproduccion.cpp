@@ -75,6 +75,8 @@ int cargarAnuncios(Anuncio anuncios[], const string &archivoPublicidad){
         totalAnuncios++;
     }
 
+    cout << "La cantidad de memoria utilizada para cargar los anuncios es de " << sizeof(Anuncio) * totalAnuncios << " bytes." << endl;"
+
     archivo.close();
     return totalAnuncios;
 }
@@ -101,6 +103,8 @@ int seleccionarAnuncioAleatorio(Anuncio anuncios[], int totalAnuncios, int ultim
             }
 
             cantDisponibles++;
+            cout << "Se utilizaron " << cantDisponibles << " espacios de memoria para anuncios disponibles." << endl;
+            cout << "Se hicieron " << i + 1 << " comparaciones para excluir el ultimo anuncio mostrado." << endl;
         }
     }
 
@@ -113,9 +117,12 @@ int seleccionarAnuncioAleatorio(Anuncio anuncios[], int totalAnuncios, int ultim
             case 'B': pesos[i] = 3; break;
             case 'C': pesos[i] = 1; break;
             default: pesos[i] = 1;
+            cout << "Se utilizaron " << i + 1 << " espacios de memoria para anuncios disponibles." << endl;
+            cout << "Se hicieron " << i + 1 << " comparaciones para incluir todos los anuncios." << endl;
             }
         }
         cantDisponibles = totalAnuncios;
+
     }
 
     // Calcular peso total
@@ -137,6 +144,8 @@ int seleccionarAnuncioAleatorio(Anuncio anuncios[], int totalAnuncios, int ultim
             return indicesDisponibles[i];
         }
     }
+
+    cout << "La cantidad de memoria utilizada para la seleccion del anuncio es de " << sizeof(indicesDisponibles) + sizeof(pesos) << " bytes." << endl;"
 
     // Fallback
     return indicesDisponibles[0];
