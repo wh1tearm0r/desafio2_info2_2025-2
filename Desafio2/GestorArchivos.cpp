@@ -2,7 +2,7 @@
 /* Nota: pendiente cambiar las rutas de los archivos a rutas relativas */
 
 Artista* GestorArchivos::buscarArtista(int idArtista) {
-    ifstream archivo("C:\\Users\\eeval\\Desktop\\informatica ii\\desafio2_info2_2025-2\\Desafio2\\data\\biblioteca\\artistas.txt");
+    ifstream archivo("C:/Users/Andres Felipe/OneDrive/Escritorio/informatica II Andres Lafaurie/INFORMATICA 2/desafio2_info2_2025-2/Desafio2/data/biblioteca/artistas.txt");
     if (!archivo.is_open()) {
         cout << "Error: no se pudo abrir artistas.txt" << endl;
         return nullptr;
@@ -43,7 +43,7 @@ Artista* GestorArchivos::buscarArtista(int idArtista) {
 }
 
 Album* GestorArchivos::buscarAlbum(int idArtista, int idAlbum) {
-    ifstream archivo("C:\\Users\\eeval\\Desktop\\informatica ii\\desafio2_info2_2025-2\\Desafio2\\data\\biblioteca\\albumes.txt");
+    ifstream archivo("C:/Users/Andres Felipe/OneDrive/Escritorio/informatica II Andres Lafaurie/INFORMATICA 2/desafio2_info2_2025-2/Desafio2/data/biblioteca/albumes.txt");
     if (!archivo.is_open()) {
         cout << "Error: no se pudo abrir albumes.txt" << endl;
         return nullptr;
@@ -117,7 +117,7 @@ Cancion* GestorArchivos::buscarCancionCompleta(int idCancion, bool premium) {
     Artista* artista = buscarArtista(idArtista);
     Album* album = buscarAlbum(idArtista, idAlbum);
 
-    ifstream archivo("C:\\Users\\eeval\\Desktop\\informatica ii\\desafio2_info2_2025-2\\Desafio2\\data\\biblioteca\\canciones.txt");
+    ifstream archivo("C:/Users/Andres Felipe/OneDrive/Escritorio/informatica II Andres Lafaurie/INFORMATICA 2/desafio2_info2_2025-2/Desafio2/data/biblioteca/canciones.txt");
     if (!archivo.is_open()) {
         cout << "Error: no se pudo abrir canciones.txt"<< endl;
         return nullptr;

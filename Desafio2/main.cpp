@@ -1,8 +1,10 @@
-﻿#include <iostream>
+#include <iostream>
 #include "usuario.h"
 #include "basedatosusuarios.h"
 #include "listaFavoritos.h"
 #include "GestorArchivos.h"
+#include "reproduccion.h"
+#include <string>
 
 using namespace std;
 

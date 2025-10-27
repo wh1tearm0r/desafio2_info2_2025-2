@@ -12,6 +12,7 @@ SOURCES += \
         listaFavoritos.cpp \
         main.cpp \
         publicidad.cpp \
+        reproduccion.cpp \
         reproductor.cpp \
         usuario.cpp
 
@@ -23,6 +24,7 @@ HEADERS += \
     cancion.h \
     listaFavoritos.h \
     publicidad.h \
+    reproduccion.h \
     reproductor.h \
     usuario.h
 
