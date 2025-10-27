@@ -23,13 +23,12 @@ public:
     bool eliminarCancion(bool premium, const string &idCancion, baseDatosUsuarios *bd);
     bool existeCancion(const string &idCancion) const;
     void mostrarLista(bool premium) const;
-
-    int getCantidadCanciones() const;
-    string getCancionEn(int posicion) const;
-
     void actualizarArchivo() const;
     void cargarDesdeArchivo();
+
     void setNombreUsuario(const string& usuario);
+    int getCantidadCanciones() const;
+    string getCancionEn(int posicion) const;
 };
 
 #endif // LISTAFAVORITOS_H

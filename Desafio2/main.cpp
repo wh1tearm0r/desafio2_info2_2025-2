@@ -1,4 +1,4 @@
-#include <iostream>
+﻿#include <iostream>
 #include "usuario.h"
 #include "basedatosusuarios.h"
 #include "listaFavoritos.h"
@@ -42,7 +42,7 @@ int main()
             usuario->verPerfil();
             break;
         case 2:
-            //Implementar Reproduccion Aleatoria
+            //Implementar reproduccion aleatoria
             break;
         case 3:
             usuario->getListaFavoritos().mostrarLista(usuario->getEsPremium());
