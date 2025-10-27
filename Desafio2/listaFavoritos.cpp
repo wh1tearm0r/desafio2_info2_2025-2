@@ -1,4 +1,5 @@
 ﻿#include "listaFavoritos.h"
+#include "baseDatosUsuarios.h"
 #include "GestorArchivos.h"
 
 listaFavoritos::listaFavoritos()
@@ -23,15 +24,44 @@ void listaFavoritos::setNombreUsuario(const string& usuario) {
     nombreUsuario = usuario;
 }
 
-bool listaFavoritos::agregarCancion(bool premium, const string& idCancion) {
-    if (!premium){
+bool listaFavoritos::agregarCancion(bool premium, const string& idCancion, baseDatosUsuarios *bd) {
+    if (!premium) {
         cout << "Esta funcion solo esta disponible para usuarios premium" << endl;
+        return false;
     }
-    else if(existeCancion(idCancion)) {
+
+    // Validar que el ID sea numérico
+    for (char c : idCancion) {
+        if (!isdigit(c)) {
+            cout << "Error: El ID de la cancion debe ser numerico" << endl;
+            return false;
+        }
+    }
+
+    // Validar que la canción exista en la base de datos
+    try {
+        int id = stoi(idCancion);
+        GestorArchivos gestor;
+        Cancion* cancionValidacion = gestor.buscarCancionCompleta(id, premium);
+
+        if (cancionValidacion == nullptr) {
+            cout << "Error: La cancion con ID " << idCancion << " no existe en la base de datos" << endl;
+            return false;
+        }
+
+        cout << "Cancion encontrada: " << cancionValidacion->getNombre() << endl;
+        delete cancionValidacion;
+    } catch (...) {
+        cout << "Error: ID de cancion invalido" << endl;
+        return false;
+    }
+
+    if(existeCancion(idCancion)) {
         cout << "Esta cancion ya esta en tu lista" << endl;
         return false;
     }
-    else if(cantidadCanciones >= MAX_CANCIONES) {
+
+    if(cantidadCanciones >= MAX_CANCIONES) {
         cout << "Has alcanzado el limite de canciones" << endl;
         cout << "En este momento hay " << cantidadCanciones << " canciones en tu lista y se consumieron " << sizeof(canciones)/sizeof(canciones[0]) << " espacios en total." << endl;
         return false;
@@ -40,39 +70,101 @@ bool listaFavoritos::agregarCancion(bool premium, const string& idCancion) {
     canciones[cantidadCanciones] = idCancion;
     cantidadCanciones++;
     actualizarArchivo();
-    return true;
-}
 
-bool listaFavoritos::eliminarCancion(bool premium, const string& idCancion) {
-    if (!premium){
-        cout << "Esta funcion solo esta disponible para usuarios premium" << endl;
-        return false;
-    }
-    else{
-        int posicion = -1;
-        for(int i = 0; i < cantidadCanciones; i++) {
-            if(canciones[i] == idCancion) {
-                cout << "Se hicieron " << i + 1 << " comparaciones para encontrar la cancion." << endl;
-                posicion = i;
-                break;
+    cout << "Cancion agregada exitosamente!" << endl;
+
+    // Propagar a seguidores si se proporciona la base de datos
+    if (bd != nullptr && !nombreUsuario.empty()) {
+        int cantidadUsuarios = bd->getCantidadUsuarios();
+        int seguidoresActualizados = 0;
+
+        cout << "Buscando seguidores para propagar la cancion..." << endl;
+
+        for (int i = 0; i < cantidadUsuarios; i++) {
+            Usuario* usuario = bd->getUsuarioEn(i);
+            if (usuario != nullptr && usuario->sigueA(nombreUsuario)) {
+                cout << "Propagando cancion a " << usuario->getNickname() << "..." << endl;
+                listaFavoritos& listaDelSeguidor = usuario->getListaFavoritos();
+                if (!listaDelSeguidor.existeCancion(idCancion)) {
+                    // Agregar sin propagación recursiva (nullptr)
+                    if (listaDelSeguidor.agregarCancion(true, idCancion, nullptr)) {
+                        seguidoresActualizados++;
+                    }
+                }
             }
         }
 
-        if(posicion == -1) {
-            return false;
+        if (seguidoresActualizados > 0) {
+            cout << "La cancion se agrego tambien a " << seguidoresActualizados << " seguidores" << endl;
+        } else {
+            cout << "No hay seguidores activos para propagar" << endl;
         }
-
-        // Desplazar elementos
-        for(int i = posicion; i < cantidadCanciones - 1; i++) {
-            canciones[i] = canciones[i + 1];
-            cout << "Se hicieron " << i + 1 << " desplazamientos para eliminar la cancion." << endl;
-        }
-
-        canciones[cantidadCanciones - 1] = "";
-        cantidadCanciones--;
-        actualizarArchivo();
-        return true;
     }
+
+    return true;
+}
+
+bool listaFavoritos::eliminarCancion(bool premium, const string& idCancion, baseDatosUsuarios* bd) {
+    if (!premium) {
+        cout << "Esta funcion solo esta disponible para usuarios premium" << endl;
+        return false;
+    }
+
+    int posicion = -1;
+    for(int i = 0; i < cantidadCanciones; i++) {
+        if(canciones[i] == idCancion) {
+            cout << "Se hicieron " << i + 1 << " comparaciones para encontrar la cancion." << endl;
+            posicion = i;
+            break;
+        }
+    }
+
+    if(posicion == -1) {
+        cout << "La cancion no se encuentra en tu lista" << endl;
+        return false;
+    }
+
+    // Desplazar elementos
+    for(int i = posicion; i < cantidadCanciones - 1; i++) {
+        canciones[i] = canciones[i + 1];
+        cout << "Se hicieron " << i + 1 << " desplazamientos para eliminar la cancion." << endl;
+    }
+
+    canciones[cantidadCanciones - 1] = "";
+    cantidadCanciones--;
+    actualizarArchivo();
+
+    cout << "Cancion eliminada exitosamente!" << endl;
+
+    // Propagar eliminación a seguidores si se proporciona la base de datos
+    if (bd != nullptr && !nombreUsuario.empty()) {
+        int cantidadUsuarios = bd->getCantidadUsuarios();
+        int seguidoresActualizados = 0;
+
+        cout << "Buscando seguidores para propagar la eliminacion..." << endl;
+
+        for (int i = 0; i < cantidadUsuarios; i++) {
+            Usuario* usuario = bd->getUsuarioEn(i);
+            if (usuario != nullptr && usuario->sigueA(nombreUsuario)) {
+                cout << "Propagando eliminacion a " << usuario->getNickname() << "..." << endl;
+                listaFavoritos& listaDelSeguidor = usuario->getListaFavoritos();
+                if (listaDelSeguidor.existeCancion(idCancion)) {
+                    // Eliminar sin propagación recursiva (nullptr)
+                    if (listaDelSeguidor.eliminarCancion(true, idCancion, nullptr)) {
+                        seguidoresActualizados++;
+                    }
+                }
+            }
+        }
+
+        if (seguidoresActualizados > 0) {
+            cout << "La cancion se elimino tambien de " << seguidoresActualizados << " seguidores" << endl;
+        } else {
+            cout << "No hay seguidores activos para propagar" << endl;
+        }
+    }
+
+    return true;
 }
 
 bool listaFavoritos::existeCancion(const string& idCancion) const {
@@ -146,7 +238,7 @@ void listaFavoritos::actualizarArchivo() const{
 
     for(int i = 0; i < cantidadCanciones; i++) {
         archivo << canciones[i] << endl;
-        cout << "Se usaron " << i + 1 << " escrituras para actualizar la lista." << endl;"
+        cout << "Se usaron " << i + 1 << " escrituras para actualizar la lista." << endl;
     }
 
     archivo.close();

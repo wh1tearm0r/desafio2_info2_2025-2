@@ -7,8 +7,9 @@
 
 using namespace std;
 
-class listaFavoritos
-{
+class baseDatosUsuarios;
+
+class listaFavoritos{
 private:
     static const int MAX_CANCIONES = 10000;
     string canciones[MAX_CANCIONES];
@@ -18,8 +19,8 @@ public:
     listaFavoritos();
     listaFavoritos(const string &usuario);
 
-    bool agregarCancion(bool premium, const string &idCancion);
-    bool eliminarCancion(bool premium, const string &idCancion);
+    bool agregarCancion(bool premium, const string& idCancion, baseDatosUsuarios* bd = nullptr);
+    bool eliminarCancion(bool premium, const string &idCancion, baseDatosUsuarios *bd);
     bool existeCancion(const string &idCancion) const;
     void mostrarLista(bool premium) const;
 
