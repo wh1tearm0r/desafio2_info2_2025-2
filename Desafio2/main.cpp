@@ -25,9 +25,14 @@ int main()
         cout << "Inicio de sesion exitoso!" << endl;
         cout << "Bienvenido/a, " << nickname << "!" << endl;
         cout << "1. Ver Perfil" << endl;
-        cout << "2. Ver Lista de Reproduccion" << endl;
-        cout << "3. Agregar Cancion a Lista de Reproduccion" << endl;
-        cout << "4. Eliminar Cancion de Lista de Reproduccion" << endl;
+        cout << "2. Reproducir Aleatoriamente" << endl;
+        if (usuario->getEsPremium()) {
+            cout << "3. Ver Lista de Reproduccion" << endl;
+            cout << "4. Agregar Cancion a Lista de Reproduccion" << endl;
+            cout << "5. Eliminar Cancion de Lista de Reproduccion" << endl;
+            cout << "6. Seguir Usuario" << endl;
+            cout << "7. Dejar de Seguir Usuario" << endl;
+        }
         int opcion;
         cin >> opcion;
         switch(opcion){
@@ -35,30 +40,52 @@ int main()
             usuario->verPerfil();
             break;
         case 2:
-            usuario->getListaFavoritos().mostrarLista(usuario->getEsPremium());
+            //Implementar Reproduccion Aleatoria
             break;
         case 3:
-            {
+            usuario->getListaFavoritos().mostrarLista(usuario->getEsPremium());
+            break;
+        case 4:{
                 cout << "Ingrese el ID de la cancion a agregar: ";
                 string idCancion;
                 cin >> idCancion;
-                if (usuario->getListaFavoritos().agregarCancion(usuario->getEsPremium(), idCancion)) {
+                if (usuario->getListaFavoritos().agregarCancion(usuario->getEsPremium(), idCancion, &bd)) {
                     cout << "Cancion agregada exitosamente!" << endl;
                 }
                 break;
-            }
-        case 4:
-            {
+        }
+        case 5:{
                 cout << "Ingrese el ID de la cancion a eliminar: ";
                 string idCancion;
                 cin >> idCancion;
-                if (usuario->getListaFavoritos().eliminarCancion(usuario->getEsPremium(), idCancion)) {
+                if (usuario->getListaFavoritos().eliminarCancion(usuario->getEsPremium(), idCancion, &bd)) {
                     cout << "Cancion eliminada exitosamente!" << endl;
-                } else {
-                    cout << "La cancion no se encontro en tu lista." << endl;
                 }
                 break;
             }
+        case 6:{
+                cout << "Ingrese el nickname del usuario a seguir: ";
+                string usuarioASeguir;
+                cin >> usuarioASeguir;
+                Usuario* otroUsuario = bd.buscarUsuario(usuarioASeguir);
+                if (otroUsuario != nullptr) {
+                    if (usuario->seguirUsuario(otroUsuario, &bd, "..\\..\\data\\usuarios.txt")) {
+                        cout << "Ahora sigues a " << usuarioASeguir << endl;
+                    }
+                } else {
+                    cout << "El usuario no existe." << endl;
+                }
+                break;
+        }
+        case 7:{
+                if (usuario->dejarDeSeguir(&bd, "..\\..\\data\\usuarios.txt")) {
+                    cout << "Has dejado de seguir al usuario." << endl;
+                }
+                break;
+        }
+        default:
+            cout << "Opcion invalida." << endl;
+            break;
         }
     } else {
         cout << "Error de autenticacion." << endl;

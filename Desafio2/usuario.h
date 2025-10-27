@@ -2,8 +2,13 @@
 #define USUARIO_H
 
 #include <string>
+#include <iostream>
+#include <ctime>
 #include "listaFavoritos.h"
+
 using namespace std;
+
+class baseDatosUsuarios;
 
 class Usuario {
 private:
@@ -15,26 +20,27 @@ private:
     int fechaInscripcion;
 
     listaFavoritos miLista;
+    string usuarioSeguido;
 
 public:
-    // Constructores
     Usuario();
-    Usuario(string nick, string pass, string c, string p, bool premium = false, int fecha = 0);
+    Usuario(string nick, string pass, string c, string p, bool premium = false, int fecha = 0, string seguido = "");
 
-    // Métodos principales
     bool autenticarUsuario(const string& passwordIngresada);
     void verPerfil();
+    bool seguirUsuario(Usuario* otroUsuario, baseDatosUsuarios *bd, const string &archivoUsuarios);
+    bool dejarDeSeguir(baseDatosUsuarios *bd, const string &archivoUsuarios);
+    bool sigueA(const string& nickname) const;
 
-    // Getters
     string getNickname() const;
     bool getEsPremium() const;
     string getCiudad() const;
     string getPais() const;
     int getFechaInscripcion() const;
+    string getUsuarioSeguido() const;
 
     listaFavoritos& getListaFavoritos();
 
-    // Setters (opcional)
     void setEsPremium(bool premium);
     void setCiudad(string c);
     void setPais(string p);
@@ -42,4 +48,4 @@ public:
     void setPassword(const string &newPassword);
 };
 
-#endif
+#endif // USUARIO_H

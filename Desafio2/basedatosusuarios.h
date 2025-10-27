@@ -1,8 +1,13 @@
 ﻿#ifndef BASEDATOSUSUARIOS_H
 #define BASEDATOSUSUARIOS_H
 
-#include "Usuario.h"
+#include "usuario.h"
 #include <string>
+#include <iostream>
+#include <fstream>
+#include <sstream>
+
+class Usuario;
 
 using namespace std;
 
@@ -17,8 +22,11 @@ public:
     ~baseDatosUsuarios();
 
     Usuario* buscarUsuario(const string& nickname);
+    Usuario* getUsuarioEn(int indice);
     short int getCantidadUsuarios() const;
     void cargarDesdeArchivo(string nombreArchivo);
+    void actualizarArchivo(string nombreArchivo);
+    void actualizarListaSeguidores(const string& usuarioQuePublica, const string& idCancion);
 };
 
-#endif
+#endif // BASEDATOSUSUARIOS_H
