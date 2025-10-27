@@ -2,6 +2,8 @@
 #include "basedatosusuarios.h"
 #include "usuario.h"
 #include "GestorArchivos.h"
+#include "reproduccion.h"
+#include <string>
 
 using namespace std;
 
@@ -10,7 +12,7 @@ int main()
     //baseDatosUsuarios bd("usuarios.txt");
     baseDatosUsuarios bd;
     bd.cargarDesdeArchivo("..\\..\\data\\usuarios.txt");
-    GestorArchivos ga;
+    // GestorArchivos ga;
 
     int opcion;
     cout << "Ingresa una opcion" << endl;
@@ -23,11 +25,15 @@ int main()
     case 1: {
         // bd.iniciarSesion();
         bool esPremium = true;
-        int id;
-        cout << "ingrese el id de la cancion: ";
-        cin >> id;
+        int total;
+        // int id;
+        // cout << "ingrese el id de la cancion: ";
+        // cin >> id;
 
-        Cancion* c = ga.buscarCancionCompleta(id, esPremium);
+        // Cancion* c = ga.buscarCancionCompleta(id, esPremium);
+        string Nombre = "cancionesglobales.txt";
+        total = Totalcanciones(Nombre);
+        reproduccionAleatoria(esPremium, Nombre, total );
         break;
     }
     case 2: {
@@ -40,6 +46,7 @@ int main()
     }
     default: {
         cout << "\n[ERROR] Opcion invalida. Intente nuevamente." << endl;
+        break;
     }
 
     return 0;
