@@ -1,4 +1,4 @@
-#include <iostream>
+﻿#include <iostream>
 #include "usuario.h"
 #include "basedatosusuarios.h"
 #include "listaFavoritos.h"
@@ -12,6 +12,10 @@ int main()
 {
     baseDatosUsuarios bd;
     bd.cargarDesdeArchivo("..\\..\\data\\usuarios.txt");
+
+    Anuncio anuncios[50];
+    int totalAnuncios = cargarAnuncios(anuncios, "..\\..\\data\\publicidad.txt");
+    int ultimoIdAnuncio = -1; // Para rastrear el último anuncio mostrado
 
     cout << "Ingrese su nickname: ";
     string nickname;
@@ -42,7 +46,16 @@ int main()
             usuario->verPerfil();
             break;
         case 2:
-            //Implementar Reproduccion Aleatoria
+            {
+            int totalCanciones = Totalcanciones("..\\..\\data\\cancionesglobales.txt");
+            if (totalCanciones > 0) {
+            reproduccionAleatoria(usuario->getEsPremium(), "..\\..\\data\\cancionesglobales.txt", totalCanciones, anuncios, totalAnuncios, ultimoIdAnuncio);
+            }
+            else {
+                cout << "No hay canciones disponibles." << endl;
+            }
+            break;
+            }
             break;
         case 3:
             usuario->getListaFavoritos().mostrarLista(usuario->getEsPremium());
