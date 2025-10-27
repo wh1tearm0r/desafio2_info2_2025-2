@@ -9,7 +9,7 @@ SOURCES += \
         artista.cpp \
         basedatosusuarios.cpp \
         cancion.cpp \
-        listareproduccion.cpp \
+        listaFavoritos.cpp \
         main.cpp \
         publicidad.cpp \
         reproduccion.cpp \
@@ -22,7 +22,7 @@ HEADERS += \
     artista.h \
     basedatosusuarios.h \
     cancion.h \
-    listareproduccion.h \
+    listaFavoritos.h \
     publicidad.h \
     reproduccion.h \
     reproductor.h \

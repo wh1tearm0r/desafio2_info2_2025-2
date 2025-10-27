@@ -1,10 +1,15 @@
 ﻿#ifndef BASEDATOSUSUARIOS_H
 #define BASEDATOSUSUARIOS_H
 
+#include "usuario.h"
 #include <string>
-using namespace std;
+#include <iostream>
+#include <fstream>
+#include <sstream>
 
-class Usuario;  // Forward declaration
+class Usuario;
+
+using namespace std;
 
 class baseDatosUsuarios {
 private:
@@ -17,13 +22,11 @@ public:
     ~baseDatosUsuarios();
 
     Usuario* buscarUsuario(const string& nickname);
-    void iniciarSesion();
-
+    Usuario* getUsuarioEn(int indice);
     short int getCantidadUsuarios() const;
-    void listarUsuarios() const;
-
-    // Cargar usuarios desde archivo
     void cargarDesdeArchivo(string nombreArchivo);
+    void actualizarArchivo(string nombreArchivo);
+    void actualizarListaSeguidores(const string& usuarioQuePublica, const string& idCancion);
 };
 
-#endif
+#endif // BASEDATOSUSUARIOS_H

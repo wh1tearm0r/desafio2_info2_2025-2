@@ -1,9 +1,4 @@
 ﻿#include "baseDatosUsuarios.h"
-#include "Usuario.h"
-#include <iostream>
-#include <fstream>
-
-using namespace std;
 
 // Constructor por defecto
 baseDatosUsuarios::baseDatosUsuarios() {
@@ -30,74 +25,23 @@ baseDatosUsuarios::~baseDatosUsuarios() {
 Usuario* baseDatosUsuarios::buscarUsuario(const string& nickname) {
     for (short int i = 0; i < cantidadUsuarios; i++) {
         if (usuarios[i].getNickname() == nickname) {
+            cout << "Se hicieron " << i + 1 << " comparaciones para encontrar el usuario." << endl;
             return &usuarios[i];
         }
     }
     return nullptr;
 }
 
-// Iniciar sesión
-void baseDatosUsuarios::iniciarSesion() {
-    string nickname;
-    string password;
-
-    cout << "\n========================================" << endl;
-    cout << "         INICIO DE SESION" << endl;
-    cout << "========================================" << endl;
-
-    cout << "Nickname: ";
-    cin >> nickname;
-
-    cout << "Contrasena: ";
-    cin >> password;
-
-    // Buscar el usuario
-    Usuario* usuario = buscarUsuario(nickname);
-
-    if (usuario == nullptr) {
-        cout << "\n Usuario no encontrado." << endl;
-        cout << "Por favor, verifique el nickname ingresado." << endl;
-        return;
+Usuario *baseDatosUsuarios::getUsuarioEn(int indice){
+    if (indice >= 0 && indice < cantidadUsuarios) {
+        return &usuarios[indice];
     }
-
-    // Autenticar
-    if (usuario->autenticarUsuario(password)) {
-        cout << "\n Inicio de sesion exitoso!" << endl;
-        cout << "Bienvenido/a, " << nickname << "!" << endl;
-        cout << "========================================\n" << endl;
-        usuario->verPerfil();
-    } else {
-        cout << "\n Contrasena incorrecta." << endl;
-        cout << "Por favor, intente nuevamente." << endl;
-    }
+    return nullptr;
 }
 
 // Obtener cantidad de usuarios
 short int baseDatosUsuarios::getCantidadUsuarios() const {
     return cantidadUsuarios;
-}
-
-// Listar todos los usuarios
-void baseDatosUsuarios::listarUsuarios() const {
-    cout << "\n========================================" << endl;
-    cout << "         LISTA DE USUARIOS" << endl;
-    cout << "========================================" << endl;
-    cout << "Total de usuarios registrados: " << cantidadUsuarios << endl;
-    cout << "----------------------------------------" << endl;
-
-    if (cantidadUsuarios == 0) {
-        cout << "No hay usuarios registrados." << endl;
-    } else {
-        for (short int i = 0; i < cantidadUsuarios; i++) {
-            cout << (i + 1) << ". " << usuarios[i].getNickname();
-            if (usuarios[i].getEsPremium()) {
-                cout << " [PREMIUM]";
-            }
-            cout << " - " << usuarios[i].getCiudad()
-                 << ", " << usuarios[i].getPais() << endl;
-        }
-    }
-    cout << "========================================\n" << endl;
 }
 
 // Cargar usuarios desde archivo
@@ -110,13 +54,12 @@ void baseDatosUsuarios::cargarDesdeArchivo(string nombreArchivo) {
     }
 
     // Primera pasada: contar usuarios
-    string nick, pass, ciudad, pais;
-    bool premium;
-    int fecha;
-
+    string linea;
     cantidadUsuarios = 0;
-    while (archivo >> nick >> pass >> ciudad >> pais >> premium >> fecha) {
-        cantidadUsuarios++;
+    while (getline(archivo, linea)) {
+        if (!linea.empty()) {
+            cantidadUsuarios++;
+        }
     }
 
     // Si no hay usuarios, salir
@@ -135,11 +78,75 @@ void baseDatosUsuarios::cargarDesdeArchivo(string nombreArchivo) {
 
     // Segunda pasada: cargar usuarios
     short int i = 0;
-    while (archivo >> nick >> pass >> ciudad >> pais >> premium >> fecha) {
-        usuarios[i] = Usuario(nick, pass, ciudad, pais, premium, fecha);
+    while (getline(archivo, linea)) {
+        if (linea.empty()) continue;
+
+        if (linea.size() >= 3 && //Ignorar caracteres que no corresponden a la codificacion de usuarios.txt en caso de problemas de autenticacion
+            (unsigned char)linea[0] == 0xEF &&
+            (unsigned char)linea[1] == 0xBB &&
+            (unsigned char)linea[2] == 0xBF) {
+            linea = linea.substr(3);
+        }
+
+        istringstream iss(linea);
+        string nick, pass, ciudad, pais, usuarioSeguido = "";
+        bool premium;
+        int fecha;
+
+        iss >> nick >> pass >> ciudad >> pais >> premium >> fecha;
+
+        // Si hay un séptimo campo, es el usuario seguido
+        if (iss >> usuarioSeguido) {
+            // usuarioSeguido tiene valor
+        } else {
+            usuarioSeguido = "";
+        }
+
+        usuarios[i] = Usuario(nick, pass, ciudad, pais, premium, fecha, usuarioSeguido);
         i++;
     }
 
     archivo.close();
     cout << "Usuarios cargados exitosamente: " << cantidadUsuarios << endl;
+    cout << "La memoria consumida por la base de datos de usuarios es de " << sizeof(usuarios) + (sizeof(Usuario) * cantidadUsuarios) << " bytes." << endl;
+}
+
+void baseDatosUsuarios::actualizarArchivo(string nombreArchivo)
+{
+    ofstream archivo(nombreArchivo);
+
+    if (!archivo.is_open()) {
+        cout << "Error: No se pudo abrir el archivo para escritura: " << nombreArchivo << endl;
+        return;
+    }
+
+    for (short int i = 0; i < cantidadUsuarios; i++) {
+        archivo << usuarios[i].getNickname() << " "
+                << usuarios[i].getPassword() << " "
+                << usuarios[i].getCiudad() << " "
+                << usuarios[i].getPais() << " "
+                << usuarios[i].getEsPremium() << " "
+                << usuarios[i].getFechaInscripcion();
+
+        // Solo agregar el usuario seguido si existe
+        if (!usuarios[i].getUsuarioSeguido().empty()) {
+            archivo << " " << usuarios[i].getUsuarioSeguido();
+        }
+
+        archivo << endl;
+    }
+
+    archivo.close();
+    cout << "Base de datos actualizada exitosamente" << endl;
+}
+
+void baseDatosUsuarios::actualizarListaSeguidores(const string &usuarioQuePublica, const string &idCancion){
+    for (short int i = 0; i < cantidadUsuarios; i++) {
+        if (usuarios[i].sigueA(usuarioQuePublica)) {
+            listaFavoritos& lista = usuarios[i].getListaFavoritos();
+            if (!lista.existeCancion(idCancion)) {
+                lista.agregarCancion(true, idCancion, nullptr);
+            }
+        }
+    }
 }
