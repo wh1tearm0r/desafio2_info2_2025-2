@@ -75,7 +75,7 @@ int cargarAnuncios(Anuncio anuncios[], const string &archivoPublicidad){
         totalAnuncios++;
     }
 
-    cout << "La cantidad de memoria utilizada para cargar los anuncios es de " << sizeof(Anuncio) * totalAnuncios << " bytes." << endl;"
+    cout << "La cantidad de memoria utilizada para cargar los anuncios es de " << sizeof(Anuncio) * totalAnuncios << " bytes." << endl;
 
     archivo.close();
     return totalAnuncios;
@@ -145,7 +145,7 @@ int seleccionarAnuncioAleatorio(Anuncio anuncios[], int totalAnuncios, int ultim
         }
     }
 
-    cout << "La cantidad de memoria utilizada para la seleccion del anuncio es de " << sizeof(indicesDisponibles) + sizeof(pesos) << " bytes." << endl;"
+    cout << "La cantidad de memoria utilizada para la seleccion del anuncio es de " << sizeof(indicesDisponibles) + sizeof(pesos) << " bytes." << endl;
 
     // Fallback
     return indicesDisponibles[0];
@@ -218,4 +218,104 @@ int reproduccionAleatoria(bool premium, const string &NombreArchivo, int total, 
     ga.buscarCancionCompleta(lineaSeleccionada, premium);
 
     return lineaSeleccionada;
+}
+
+int reproduccionLista(bool premium, const string &NombreArchivo, int total, Anuncio anuncios[], int totalAnuncios, int &ultimoIdAnuncio, int &siguiente)
+{
+    ifstream archivo(NombreArchivo);
+
+    if (!archivo.is_open()) {
+        cout << "No se pudo abrir la lista: " << NombreArchivo << endl;
+        return 0;
+    }
+
+    string linea;
+    int actual = 1;
+    int lineaSeleccionada = 0;
+
+    getline(archivo, linea);
+
+    while (getline(archivo, linea)) {
+        if (actual == siguiente) {
+            lineaSeleccionada = stoi(linea);
+            break;
+        }
+        actual++;
+    }
+    archivo.close();
+
+    if (!premium && totalAnuncios > 0) {
+        mostrarPublicidad(anuncios, totalAnuncios, ultimoIdAnuncio);
+    }
+
+    GestorArchivos ga;
+    ga.buscarCancionCompleta(lineaSeleccionada, premium);
+
+    return lineaSeleccionada;
+}
+
+void detenerReproduccion() {
+    cout << "La reproduccion se ha detenido" << endl;
+}
+
+void continuarReproduccion() {
+    cout << "Reproduccion iniciada" << endl;
+}
+
+void inicializarHistorial(Historial& h, int maxR) {
+    h.capacidad = 6;
+    h.cantidad = 0;
+    h.maxRetroceso = maxR;
+    h.canciones = new int[h.capacidad];
+}
+
+void agregarCancion(Historial& h, int id) {
+
+    if (h.cantidad == h.capacidad) {
+        int nuevaCapacidad = h.capacidad + 2;
+        int* nuevoArreglo = new int[nuevaCapacidad];
+
+        for (int i = 0; i < h.cantidad; i++) {
+            nuevoArreglo[i] = h.canciones[i];
+        }
+
+        delete[] h.canciones;
+        h.canciones = nuevoArreglo;
+        h.capacidad = nuevaCapacidad;
+    }
+
+    if (h.cantidad == 0 || h.canciones[h.cantidad - 1] != id) {
+        h.canciones[h.cantidad] = id;
+        h.cantidad++;
+    }
+}
+
+int retrocederCancion(const Historial& h, int retroceder) {
+    if (h.cantidad == 0) {
+        cout << "No hay canciones en el historial." << endl;
+        return -1;
+    }
+
+    if (retroceder <= 0 || retroceder > h.maxRetroceso || retroceder > h.cantidad - 1) {
+        cout << "No se puede retroceder " << retroceder << " canciones." << endl;
+        return -1;
+    }
+
+    int indice = h.cantidad - 1 - retroceder;
+    return h.canciones[indice];
+}
+
+void liberarHistorial(Historial& h) {
+    delete[] h.canciones;
+    h.canciones = nullptr;
+    h.cantidad = 0;
+    h.capacidad = 0;
+}
+
+int repetirCancion(const Historial& h) {
+    if (h.cantidad == 0) {
+        cout << "No hay canción para repetir." << endl;
+        return -1;
+    }
+    return h.canciones[h.cantidad - 1];
 }
