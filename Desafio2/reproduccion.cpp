@@ -1,5 +1,6 @@
 ﻿#include "reproduccion.h"
 #include "GestorArchivos.h"
+#include "excepciones.h"
 #include <iostream>
 #include <chrono>
 #include <random>
@@ -21,8 +22,7 @@ int Totalcanciones(const string& NombreArchivo){
     ifstream archivo(NombreArchivo);
 
     if (!archivo.is_open()) {
-        cout << "No se pudo abrir el archivo: " << NombreArchivo << endl;
-        return 0;
+        throw ArchivoNoEncontradoException(NombreArchivo);
     }
 
     while (getline(archivo, linea)) {
@@ -30,8 +30,15 @@ int Totalcanciones(const string& NombreArchivo){
     }
 
     archivo.close();
+
+    if (total == 0) {
+        throw ListaVaciaException("El archivo no contiene canciones");
+    }
+
     return total;
 }
+
+
 int cargarAnuncios(Anuncio anuncios[], const string &archivoPublicidad){
     ifstream archivo(archivoPublicidad);
 
@@ -179,8 +186,13 @@ void mostrarPublicidad(Anuncio anuncios[], int totalAnuncios, int &ultimoIdMostr
     cout << endl;
 }
 
-int reproduccionAleatoria(bool premium, const string &NombreArchivo, int total, Anuncio anuncios[], int totalAnuncios, int &ultimoIdAnuncio)
+int reproduccionAleatoria(bool premium, const string &NombreArchivo, int total,
+                          Anuncio anuncios[], int totalAnuncios, int &ultimoIdAnuncio)
 {
+    if (total <= 0) {
+        throw ListaVaciaException("No hay canciones disponibles para reproducir");
+    }
+
     string linea;
     int actual = 1;
 
@@ -192,54 +204,71 @@ int reproduccionAleatoria(bool premium, const string &NombreArchivo, int total, 
     ifstream archivo(NombreArchivo);
 
     if (!archivo.is_open()) {
-        cout << "No se pudo abrir el archivo: " << NombreArchivo << endl;
-        return 0;
+        throw ArchivoNoEncontradoException(NombreArchivo);
     }
 
     int lineaSeleccionada = 0;
+    bool encontrada = false;
+
     while (getline(archivo, linea)) {
         if (actual == numeroAleatorio) {
             lineaSeleccionada = stoi(linea);
+            encontrada = true;
             break;
         }
         actual++;
     }
     archivo.close();
 
-    // IMPORTANTE: Mostrar publicidad ANTES de reproducir la canción
-    // Solo para usuarios no premium
+    if (!encontrada) {
+        throw IndiceInvalidoException(numeroAleatorio, total);
+    }
+
     if (!premium && totalAnuncios > 0) {
         mostrarPublicidad(anuncios, totalAnuncios, ultimoIdAnuncio);
     }
 
-    // Ahora sí, reproducir la canción
     GestorArchivos ga;
     ga.buscarCancionCompleta(lineaSeleccionada, premium);
 
     return lineaSeleccionada;
 }
 
-int reproduccionLista(bool premium, const string &NombreArchivo, int total, Anuncio anuncios[], int totalAnuncios, int &ultimoIdAnuncio, int &siguiente)
+int reproduccionLista(bool premium, const string &NombreArchivo, int total,
+                      Anuncio anuncios[], int totalAnuncios, int &ultimoIdAnuncio, int &siguiente)
 {
+    if (total <= 0) {
+        throw ListaVaciaException("La lista de reproduccion esta vacia");
+    }
+
+    if (siguiente > total) {
+        throw FinDeListaException();
+    }
+
     ifstream archivo(NombreArchivo);
 
     if (!archivo.is_open()) {
-        cout << "No se pudo abrir la lista: " << NombreArchivo << endl;
-        return 0;
+        throw ArchivoNoEncontradoException(NombreArchivo);
     }
 
     string linea;
     int actual = 1;
     int lineaSeleccionada = 0;
+    bool encontrada = false;
 
     while (getline(archivo, linea)) {
         if (actual == siguiente) {
             lineaSeleccionada = stoi(linea);
+            encontrada = true;
             break;
         }
         actual++;
     }
     archivo.close();
+
+    if (!encontrada) {
+        throw IndiceInvalidoException(siguiente, total);
+    }
 
     if (!premium && totalAnuncios > 0) {
         mostrarPublicidad(anuncios, totalAnuncios, ultimoIdAnuncio);

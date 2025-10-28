@@ -20,6 +20,7 @@ HEADERS += \
     artista.h \
     basedatosusuarios.h \
     cancion.h \
+    excepciones.h \
     listaFavoritos.h \
     reproduccion.h \
     usuario.h

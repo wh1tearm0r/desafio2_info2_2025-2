@@ -1,4 +1,4 @@
-#ifndef GESTORARCHIVOS_H
+﻿#ifndef GESTORARCHIVOS_H
 #define GESTORARCHIVOS_H
 
 #include <iostream>
@@ -9,8 +9,7 @@
 #include "Cancion.h"
 using namespace std;
 
-class GestorArchivos {
-public:
+struct GestorArchivos {
     // Busca un artista por ID en artistas.txt
     static Artista* buscarArtista(int idArtista);
 
