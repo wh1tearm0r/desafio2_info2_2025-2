@@ -213,7 +213,6 @@ int reproduccionAleatoria(bool premium, const string &NombreArchivo, int total, 
     }
 
     // Ahora sí, reproducir la canción
-    cout << ">> Reproduciendo cancion seleccionada <<" << endl;
     GestorArchivos ga;
     ga.buscarCancionCompleta(lineaSeleccionada, premium);
 
@@ -232,8 +231,6 @@ int reproduccionLista(bool premium, const string &NombreArchivo, int total, Anun
     string linea;
     int actual = 1;
     int lineaSeleccionada = 0;
-
-    getline(archivo, linea);
 
     while (getline(archivo, linea)) {
         if (actual == siguiente) {
@@ -259,7 +256,7 @@ void detenerReproduccion() {
 }
 
 void continuarReproduccion() {
-    cout << "Reproduccion iniciada" << endl;
+    cout << "Reproducciendo cancion" << endl;
 }
 
 void inicializarHistorial(Historial& h, int maxR) {

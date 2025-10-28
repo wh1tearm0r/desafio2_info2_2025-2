@@ -24,6 +24,8 @@ int seleccionarAnuncioAleatorio(Anuncio anuncios[], int totalAnuncios, int ultim
 void mostrarPublicidad(Anuncio anuncios[], int totalAnuncios, int& ultimoIdMostrado);
 int reproduccionAleatoria(bool premium, const string& NombreArchivo, int total, Anuncio anuncios[], int totalAnuncios, int& ultimoIdAnuncio);
 int reproduccionLista(bool premium, const string &NombreArchivo, int total, Anuncio anuncios[], int totalAnuncios, int &ultimoIdAnuncio, int &siguiente);
+void detenerReproduccion();
+void continuarReproduccion();
 void inicializarHistorial(Historial& h, int maxRetroceso);
 void agregarCancion(Historial& h, int idCancion);
 int retrocederCancion(const Historial& h, int pasos);
