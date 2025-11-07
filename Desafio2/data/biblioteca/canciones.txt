@@ -1,23 +1,1030 @@
-100010101|Moscow Mule|4:05|9.6|/users/storage/badbunny/audio/moscow_mule_128.ogg|/users/storage/badbunny/audio/moscow_mule_320.ogg|1438131979
-100010102|Después de la Playa|3:50|9.4|/users/storage/badbunny/audio/despues_de_la_playa_128.ogg|/users/storage/badbunny/audio/despues_de_la_playa_320.ogg|643577559
-100010103|Me Porto Bonito|3:58|9.8|/users/storage/badbunny/audio/me_porto_bonito_128.ogg|/users/storage/badbunny/audio/me_porto_bonito_320.ogg|2139076922
-100010104|Titi Me Preguntó|4:00|10.0|/users/storage/badbunny/audio/titi_me_pregunto_128.ogg|/users/storage/badbunny/audio/titi_me_pregunto_320.ogg|1838986610
-100010105|Un Ratito|2:56|9.2|/users/storage/badbunny/audio/un_ratito_128.ogg|/users/storage/badbunny/audio/un_ratito_320.ogg|616087604
-100010106|Yo No soy celoso|3:50|9.2|/users/storage/badbunny/audio/yo_no_soy_celoso_128.ogg|/users/storage/badbunny/audio/yo_no_soy_celoso_320.ogg|472740652
-100010107|Tarot|3:57|9.3|/users/storage/badbunny/audio/tarot_128.ogg|/users/storage/badbunny/audio/tarot_320.ogg|925690845
-100010108|Neverita|2:53|9.8|/users/storage/badbunny/audio/neverita_128.ogg|/users/storage/badbunny/audio/neverita_320.ogg|1000729890
-100010109|La Corriente|3:18|9.5|/users/storage/badbunny/audio/la_corriente_128.ogg|/users/storage/badbunny/audio/la_corriente_320.ogg|710017433
-100010110|Efecto|3:33|9.4|/users/storage/badbunny/audio/efecto_128.ogg|/users/storage/badbunny/audio/efecto_320.ogg|1558091243
-100010111|Party|3:47|7.0|/users/storage/badbunny/audio/party_128.ogg|/users/storage/badbunny/audio/party_320.ogg|853006529
-100010112|Aguacero|3:30|8.9|/users/storage/badbunny/audio/aguacero_128.ogg|/users/storage/badbunny/audio/aguacero_320.ogg|456840480
-100010113|Enseñame a Bailar|2:56|9.0|/users/storage/badbunny/audio/enseñame_a_bailar_128.ogg|/users/storage/badbunny/audio/enseñame_a_bailar_320.ogg|485961327
-100010114|Ojitos_Lindos|4:18|10.0|/users/storage/badbunny/audio/ojitos_lindos_128.ogg|/users/storage/badbunny/audio/ojitos_lindos_320.ogg|1773226523
-100010115|Dos Mil 16|3:28|9.1|/users/storage/badbunny/audio/dos_mil_16_128.ogg|/users/storage/badbunny/audio/dos_mil_16_320.ogg|561290041
-100010116|El Apagon|3:21|9.7|/users/storage/badbunny/audio/el_apagon_128.ogg|/users/storage/badbunny/audio/el_apagon_320.ogg|299992688
-100010117|Otro Atardecer|4:04|9.6|/users/storage/badbunny/audio/otro_atardecer_128.ogg|/users/storage/badbunny/audio/otro_atardecer_320.ogg|638801728
-100010118|Un Coco|3:16|9.2|/users/storage/badbunny/audio/un_coco_128.ogg|/users/storage/badbunny/audio/un_coco_320.ogg|732249149
-100010119|Andrea|5:39|9.8|/users/storage/badbunny/audio/andrea_128.ogg|/users/storage/badbunny/audio/andrea_320.ogg|589055191
-100010120|Me Fui de Vacaciones|3:00|9.6|/users/storage/badbunny/audio/me_fui_de_vacaciones_128.ogg|/users/storage/badbunny/audio/me_fui_de_vacaciones_320.ogg|470714782
-100010121|Un Verano Sin Ti|2:28|9.4|/users/storage/badbunny/audio/un_verano_sin_ti_128.ogg|/users/storage/badbunny/audio/un_verano_sin_ti_320.ogg|496191898
-100010122|Agosto|2:19|9.0|/users/storage/badbunny/audio/agosto_128.ogg|/users/storage/badbunny/audio/agosto_320.ogg|422457675
-100010123|Callaita|4:10|10.0|/users/storage/badbunny/audio/callaita_128.ogg|/users/storage/badbunny/audio/callaita_320.ogg|1699710172
+100010101|Let It Rock|5:25|9.2|/users/storage/bonjovi/audio/let_it_rock_128.ogg|/users/storage/bonjovi/audio/let_it_rock_320.ogg|1001980
+100010102|You Give Love a Bad Name|3:43|9.8|/users/storage/bonjovi/audio/you_give_love_bad_name_128.ogg|/users/storage/bonjovi/audio/you_give_love_bad_name_320.ogg|1001981
+100010103|Livin' on a Prayer|4:09|10.0|/users/storage/bonjovi/audio/livin_on_prayer_128.ogg|/users/storage/bonjovi/audio/livin_on_prayer_320.ogg|1001982
+100010104|Social Disease|4:18|8.7|/users/storage/bonjovi/audio/social_disease_128.ogg|/users/storage/bonjovi/audio/social_disease_320.ogg|1001983
+100010105|Wanted Dead or Alive|5:08|9.9|/users/storage/bonjovi/audio/wanted_dead_alive_128.ogg|/users/storage/bonjovi/audio/wanted_dead_alive_320.ogg|1001984
+100010106|Raise Your Hands|4:16|8.9|/users/storage/bonjovi/audio/raise_your_hands_128.ogg|/users/storage/bonjovi/audio/raise_your_hands_320.ogg|1001985
+100010107|Without Love|3:30|8.5|/users/storage/bonjovi/audio/without_love_128.ogg|/users/storage/bonjovi/audio/without_love_320.ogg|1001986
+100010108|I'd Die for You|4:30|9.1|/users/storage/bonjovi/audio/id_die_for_you_128.ogg|/users/storage/bonjovi/audio/id_die_for_you_320.ogg|1001987
+100010109|Never Say Goodbye|4:48|9.4|/users/storage/bonjovi/audio/never_say_goodbye_128.ogg|/users/storage/bonjovi/audio/never_say_goodbye_320.ogg|1001988
+100010110|Wild in the Streets|3:54|8.8|/users/storage/bonjovi/audio/wild_in_streets_128.ogg|/users/storage/bonjovi/audio/wild_in_streets_320.ogg|1001989
+100010201|Lay Your Hands on Me|5:59|9.3|/users/storage/bonjovi/audio/lay_your_hands_128.ogg|/users/storage/bonjovi/audio/lay_your_hands_320.ogg|1001990
+100010202|Bad Medicine|5:14|9.6|/users/storage/bonjovi/audio/bad_medicine_128.ogg|/users/storage/bonjovi/audio/bad_medicine_320.ogg|1001991
+100010203|Born to Be My Baby|4:40|9.5|/users/storage/bonjovi/audio/born_to_be_baby_128.ogg|/users/storage/bonjovi/audio/born_to_be_baby_320.ogg|1001992
+100010204|Living in Sin|4:38|8.9|/users/storage/bonjovi/audio/living_in_sin_128.ogg|/users/storage/bonjovi/audio/living_in_sin_320.ogg|1001993
+100010205|Blood on Blood|6:16|9.2|/users/storage/bonjovi/audio/blood_on_blood_128.ogg|/users/storage/bonjovi/audio/blood_on_blood_320.ogg|1001994
+100010206|Homebound Train|5:10|9.0|/users/storage/bonjovi/audio/homebound_train_128.ogg|/users/storage/bonjovi/audio/homebound_train_320.ogg|1001995
+100010207|Wild Is the Wind|5:05|8.6|/users/storage/bonjovi/audio/wild_is_wind_128.ogg|/users/storage/bonjovi/audio/wild_is_wind_320.ogg|1001996
+100010208|Ride Cowboy Ride|1:25|8.3|/users/storage/bonjovi/audio/ride_cowboy_ride_128.ogg|/users/storage/bonjovi/audio/ride_cowboy_ride_320.ogg|1001997
+100010209|Stick to Your Guns|4:45|8.8|/users/storage/bonjovi/audio/stick_to_guns_128.ogg|/users/storage/bonjovi/audio/stick_to_guns_320.ogg|1001998
+100010210|I'll Be There for You|5:46|9.8|/users/storage/bonjovi/audio/ill_be_there_128.ogg|/users/storage/bonjovi/audio/ill_be_there_320.ogg|1001999
+100010211|99 in the Shade|4:28|8.7|/users/storage/bonjovi/audio/99_in_shade_128.ogg|/users/storage/bonjovi/audio/99_in_shade_320.ogg|1002000
+100010212|Love for Sale|3:58|8.5|/users/storage/bonjovi/audio/love_for_sale_128.ogg|/users/storage/bonjovi/audio/love_for_sale_320.ogg|1002001
+100010301|I Believe|5:54|9.1|/users/storage/bonjovi/audio/i_believe_128.ogg|/users/storage/bonjovi/audio/i_believe_320.ogg|1002002
+100010302|Keep the Faith|5:46|9.4|/users/storage/bonjovi/audio/keep_the_faith_128.ogg|/users/storage/bonjovi/audio/keep_the_faith_320.ogg|1002003
+100010303|I'll Sleep When I'm Dead|4:43|9.0|/users/storage/bonjovi/audio/ill_sleep_dead_128.ogg|/users/storage/bonjovi/audio/ill_sleep_dead_320.ogg|1002004
+100010304|In These Arms|5:18|9.5|/users/storage/bonjovi/audio/in_these_arms_128.ogg|/users/storage/bonjovi/audio/in_these_arms_320.ogg|1002005
+100010305|Bed of Roses|6:33|9.7|/users/storage/bonjovi/audio/bed_of_roses_128.ogg|/users/storage/bonjovi/audio/bed_of_roses_320.ogg|1002006
+100010306|If I Was Your Mother|4:30|8.6|/users/storage/bonjovi/audio/if_i_was_mother_128.ogg|/users/storage/bonjovi/audio/if_i_was_mother_320.ogg|1002007
+100010307|Dry County|9:52|9.3|/users/storage/bonjovi/audio/dry_county_128.ogg|/users/storage/bonjovi/audio/dry_county_320.ogg|1002008
+100010308|Woman in Love|3:52|8.4|/users/storage/bonjovi/audio/woman_in_love_128.ogg|/users/storage/bonjovi/audio/woman_in_love_320.ogg|1002009
+100010309|Fear|3:46|8.7|/users/storage/bonjovi/audio/fear_128.ogg|/users/storage/bonjovi/audio/fear_320.ogg|1002010
+100010310|I Want You|5:22|8.9|/users/storage/bonjovi/audio/i_want_you_128.ogg|/users/storage/bonjovi/audio/i_want_you_320.ogg|1002011
+100010311|Blame It on the Love of Rock & Roll|4:28|9.0|/users/storage/bonjovi/audio/blame_it_rock_128.ogg|/users/storage/bonjovi/audio/blame_it_rock_320.ogg|1002012
+100010312|Little Bit of Soul|5:45|8.8|/users/storage/bonjovi/audio/little_bit_soul_128.ogg|/users/storage/bonjovi/audio/little_bit_soul_320.ogg|1002013
+100010401|Livin' on a Prayer|4:09|10.0|/users/storage/bonjovi/audio/livin_prayer_gr_128.ogg|/users/storage/bonjovi/audio/livin_prayer_gr_320.ogg|1002014
+100010402|Keep the Faith|5:46|9.4|/users/storage/bonjovi/audio/keep_faith_gr_128.ogg|/users/storage/bonjovi/audio/keep_faith_gr_320.ogg|1002015
+100010403|Someday I'll Be Saturday Night|4:38|9.2|/users/storage/bonjovi/audio/someday_saturday_128.ogg|/users/storage/bonjovi/audio/someday_saturday_320.ogg|1002016
+100010404|Always|5:52|9.9|/users/storage/bonjovi/audio/always_128.ogg|/users/storage/bonjovi/audio/always_320.ogg|1002017
+100010405|Wanted Dead or Alive|5:08|9.9|/users/storage/bonjovi/audio/wanted_gr_128.ogg|/users/storage/bonjovi/audio/wanted_gr_320.ogg|1002018
+100010406|Lay Your Hands on Me|5:59|9.3|/users/storage/bonjovi/audio/lay_hands_gr_128.ogg|/users/storage/bonjovi/audio/lay_hands_gr_320.ogg|1002019
+100010407|You Give Love a Bad Name|3:43|9.8|/users/storage/bonjovi/audio/bad_name_gr_128.ogg|/users/storage/bonjovi/audio/bad_name_gr_320.ogg|1002020
+100010408|Bed of Roses|6:33|9.7|/users/storage/bonjovi/audio/bed_roses_gr_128.ogg|/users/storage/bonjovi/audio/bed_roses_gr_320.ogg|1002021
+100010409|Blaze of Glory|5:43|9.5|/users/storage/bonjovi/audio/blaze_glory_128.ogg|/users/storage/bonjovi/audio/blaze_glory_320.ogg|1002022
+100010410|In These Arms|5:18|9.5|/users/storage/bonjovi/audio/these_arms_gr_128.ogg|/users/storage/bonjovi/audio/these_arms_gr_320.ogg|1002023
+100010411|Bad Medicine|5:14|9.6|/users/storage/bonjovi/audio/bad_med_gr_128.ogg|/users/storage/bonjovi/audio/bad_med_gr_320.ogg|1002024
+100010412|I'll Be There for You|5:46|9.8|/users/storage/bonjovi/audio/ill_be_there_gr_128.ogg|/users/storage/bonjovi/audio/ill_be_there_gr_320.ogg|1002025
+100010413|In and Out of Love|4:26|9.1|/users/storage/bonjovi/audio/in_out_love_128.ogg|/users/storage/bonjovi/audio/in_out_love_320.ogg|1002026
+100010414|Runaway|3:50|9.3|/users/storage/bonjovi/audio/runaway_128.ogg|/users/storage/bonjovi/audio/runaway_320.ogg|1002027
+100010501|Hey God|6:10|8.9|/users/storage/bonjovi/audio/hey_god_128.ogg|/users/storage/bonjovi/audio/hey_god_320.ogg|1002028
+100010502|Something for the Pain|4:46|9.1|/users/storage/bonjovi/audio/something_pain_128.ogg|/users/storage/bonjovi/audio/something_pain_320.ogg|1002029
+100010503|This Ain't a Love Song|5:09|9.4|/users/storage/bonjovi/audio/aint_love_song_128.ogg|/users/storage/bonjovi/audio/aint_love_song_320.ogg|1002030
+100010504|These Days|6:26|9.3|/users/storage/bonjovi/audio/these_days_128.ogg|/users/storage/bonjovi/audio/these_days_320.ogg|1002031
+100010505|Lie to Me|5:35|8.8|/users/storage/bonjovi/audio/lie_to_me_128.ogg|/users/storage/bonjovi/audio/lie_to_me_320.ogg|1002032
+100010506|Damned|4:36|8.7|/users/storage/bonjovi/audio/damned_128.ogg|/users/storage/bonjovi/audio/damned_320.ogg|1002033
+100010507|My Guitar Lies Bleeding in My Arms|5:42|9.0|/users/storage/bonjovi/audio/guitar_bleeding_128.ogg|/users/storage/bonjovi/audio/guitar_bleeding_320.ogg|1002034
+100010508|(It's Hard) Letting You Go|5:22|8.6|/users/storage/bonjovi/audio/letting_you_go_128.ogg|/users/storage/bonjovi/audio/letting_you_go_320.ogg|1002035
+100010509|Hearts Breaking Even|5:09|8.9|/users/storage/bonjovi/audio/hearts_breaking_128.ogg|/users/storage/bonjovi/audio/hearts_breaking_320.ogg|1002036
+100010510|Something to Believe In|5:39|9.2|/users/storage/bonjovi/audio/believe_in_128.ogg|/users/storage/bonjovi/audio/believe_in_320.ogg|1002037
+100010511|If That's What It Takes|5:17|8.8|/users/storage/bonjovi/audio/what_it_takes_128.ogg|/users/storage/bonjovi/audio/what_it_takes_320.ogg|1002038
+100010512|Diamond Ring|3:43|8.5|/users/storage/bonjovi/audio/diamond_ring_128.ogg|/users/storage/bonjovi/audio/diamond_ring_320.ogg|1002039
+100020101|It's All Coming Back to Me Now|7:37|9.9|/users/storage/celinedion/audio/its_all_coming_back_128.ogg|/users/storage/celinedion/audio/its_all_coming_back_320.ogg|1002040
+100020102|Because You Loved Me|4:33|9.8|/users/storage/celinedion/audio/because_you_loved_me_128.ogg|/users/storage/celinedion/audio/because_you_loved_me_320.ogg|1002041
+100020103|Falling into You|4:18|9.5|/users/storage/celinedion/audio/falling_into_you_128.ogg|/users/storage/celinedion/audio/falling_into_you_320.ogg|1002042
+100020104|Make You Happy|4:13|8.9|/users/storage/celinedion/audio/make_you_happy_128.ogg|/users/storage/celinedion/audio/make_you_happy_320.ogg|1002043
+100020105|Seduces Me|4:23|9.1|/users/storage/celinedion/audio/seduces_me_128.ogg|/users/storage/celinedion/audio/seduces_me_320.ogg|1002044
+100020106|All by Myself|5:12|9.7|/users/storage/celinedion/audio/all_by_myself_128.ogg|/users/storage/celinedion/audio/all_by_myself_320.ogg|1002045
+100020107|Declaration of Love|4:23|8.7|/users/storage/celinedion/audio/declaration_love_128.ogg|/users/storage/celinedion/audio/declaration_love_320.ogg|1002046
+100020108|(You Make Me Feel Like) A Natural Woman|4:14|9.3|/users/storage/celinedion/audio/natural_woman_128.ogg|/users/storage/celinedion/audio/natural_woman_320.ogg|1002047
+100020109|Dreamin' of You|3:57|8.8|/users/storage/celinedion/audio/dreamin_of_you_128.ogg|/users/storage/celinedion/audio/dreamin_of_you_320.ogg|1002048
+100020110|I Love You|5:29|9.0|/users/storage/celinedion/audio/i_love_you_128.ogg|/users/storage/celinedion/audio/i_love_you_320.ogg|1002049
+100020111|If That's What It Takes|4:09|9.2|/users/storage/celinedion/audio/if_thats_what_128.ogg|/users/storage/celinedion/audio/if_thats_what_320.ogg|1002050
+100020112|I Don't Know|4:47|8.6|/users/storage/celinedion/audio/i_dont_know_128.ogg|/users/storage/celinedion/audio/i_dont_know_320.ogg|1002051
+100020113|River Deep - Mountain High|4:12|9.4|/users/storage/celinedion/audio/river_deep_128.ogg|/users/storage/celinedion/audio/river_deep_320.ogg|1002052
+100020114|Your Light|4:32|8.9|/users/storage/celinedion/audio/your_light_128.ogg|/users/storage/celinedion/audio/your_light_320.ogg|1002053
+100020115|Call the Man|5:04|9.1|/users/storage/celinedion/audio/call_the_man_128.ogg|/users/storage/celinedion/audio/call_the_man_320.ogg|1002054
+100020116|Fly|4:39|9.3|/users/storage/celinedion/audio/fly_128.ogg|/users/storage/celinedion/audio/fly_320.ogg|1002055
+100020201|The Reason|5:01|9.2|/users/storage/celinedion/audio/the_reason_128.ogg|/users/storage/celinedion/audio/the_reason_320.ogg|1002056
+100020202|Immortality|4:13|9.4|/users/storage/celinedion/audio/immortality_128.ogg|/users/storage/celinedion/audio/immortality_320.ogg|1002057
+100020203|Treat Her Like a Lady|4:11|8.9|/users/storage/celinedion/audio/treat_her_lady_128.ogg|/users/storage/celinedion/audio/treat_her_lady_320.ogg|1002058
+100020204|Why Oh Why|4:20|8.7|/users/storage/celinedion/audio/why_oh_why_128.ogg|/users/storage/celinedion/audio/why_oh_why_320.ogg|1002059
+100020205|Love Is on the Way|4:16|9.0|/users/storage/celinedion/audio/love_on_way_128.ogg|/users/storage/celinedion/audio/love_on_way_320.ogg|1002060
+100020206|Tell Him|4:52|9.5|/users/storage/celinedion/audio/tell_him_128.ogg|/users/storage/celinedion/audio/tell_him_320.ogg|1002061
+100020207|When I Need You|4:08|9.3|/users/storage/celinedion/audio/when_i_need_you_128.ogg|/users/storage/celinedion/audio/when_i_need_you_320.ogg|1002062
+100020208|Miles to Go (Before I Sleep)|4:35|8.8|/users/storage/celinedion/audio/miles_to_go_128.ogg|/users/storage/celinedion/audio/miles_to_go_320.ogg|1002063
+100020209|Us|5:18|9.1|/users/storage/celinedion/audio/us_128.ogg|/users/storage/celinedion/audio/us_320.ogg|1002064
+100020210|Just a Little Bit of Love|4:29|8.9|/users/storage/celinedion/audio/little_bit_love_128.ogg|/users/storage/celinedion/audio/little_bit_love_320.ogg|1002065
+100020211|My Heart Will Go On|4:40|10.0|/users/storage/celinedion/audio/my_heart_will_go_128.ogg|/users/storage/celinedion/audio/my_heart_will_go_320.ogg|1002066
+100020212|Where Is the Love|3:55|9.0|/users/storage/celinedion/audio/where_is_love_128.ogg|/users/storage/celinedion/audio/where_is_love_320.ogg|1002067
+100020213|Be the Man|4:44|8.8|/users/storage/celinedion/audio/be_the_man_128.ogg|/users/storage/celinedion/audio/be_the_man_320.ogg|1002068
+100020214|I Hate You Then I Love You|4:44|9.2|/users/storage/celinedion/audio/hate_then_love_128.ogg|/users/storage/celinedion/audio/hate_then_love_320.ogg|1002069
+100020215|Let's Talk About Love|5:08|9.3|/users/storage/celinedion/audio/lets_talk_love_128.ogg|/users/storage/celinedion/audio/lets_talk_love_320.ogg|1002070
+100020216|Amar Haciendo el Amor|4:28|8.7|/users/storage/celinedion/audio/amar_haciendo_128.ogg|/users/storage/celinedion/audio/amar_haciendo_320.ogg|1002071
+100020301|I'm Alive|3:45|9.4|/users/storage/celinedion/audio/im_alive_128.ogg|/users/storage/celinedion/audio/im_alive_320.ogg|1002072
+100020302|Right in Front of You|3:57|8.9|/users/storage/celinedion/audio/right_front_you_128.ogg|/users/storage/celinedion/audio/right_front_you_320.ogg|1002073
+100020303|Have You Ever Been in Love|4:09|9.1|/users/storage/celinedion/audio/ever_been_love_128.ogg|/users/storage/celinedion/audio/ever_been_love_320.ogg|1002074
+100020304|Rain, Tax (It's Inevitable)|4:31|8.6|/users/storage/celinedion/audio/rain_tax_128.ogg|/users/storage/celinedion/audio/rain_tax_320.ogg|1002075
+100020305|A New Day Has Come|4:21|9.5|/users/storage/celinedion/audio/new_day_has_come_128.ogg|/users/storage/celinedion/audio/new_day_has_come_320.ogg|1002076
+100020306|Ten Days|4:11|8.8|/users/storage/celinedion/audio/ten_days_128.ogg|/users/storage/celinedion/audio/ten_days_320.ogg|1002077
+100020307|Goodbye's (The Saddest Word)|4:37|9.2|/users/storage/celinedion/audio/goodbyes_128.ogg|/users/storage/celinedion/audio/goodbyes_320.ogg|1002078
+100020308|Prayer|4:35|9.3|/users/storage/celinedion/audio/prayer_128.ogg|/users/storage/celinedion/audio/prayer_320.ogg|1002079
+100020309|I Surrender|5:34|9.0|/users/storage/celinedion/audio/i_surrender_128.ogg|/users/storage/celinedion/audio/i_surrender_320.ogg|1002080
+100020310|At Last|3:45|9.1|/users/storage/celinedion/audio/at_last_128.ogg|/users/storage/celinedion/audio/at_last_320.ogg|1002081
+100020311|Sorry for Love|4:45|8.7|/users/storage/celinedion/audio/sorry_for_love_128.ogg|/users/storage/celinedion/audio/sorry_for_love_320.ogg|1002082
+100020312|Aun Existe Amor|4:37|8.9|/users/storage/celinedion/audio/aun_existe_amor_128.ogg|/users/storage/celinedion/audio/aun_existe_amor_320.ogg|1002083
+100020313|The Greatest Reward|4:32|9.0|/users/storage/celinedion/audio/greatest_reward_128.ogg|/users/storage/celinedion/audio/greatest_reward_320.ogg|1002084
+100020314|When the Wrong One Loves You Right|4:52|8.8|/users/storage/celinedion/audio/wrong_one_loves_128.ogg|/users/storage/celinedion/audio/wrong_one_loves_320.ogg|1002085
+100020315|A New Day Has Come (Radio Remix)|4:10|9.2|/users/storage/celinedion/audio/new_day_remix_128.ogg|/users/storage/celinedion/audio/new_day_remix_320.ogg|1002086
+100030101|You're Not Here|4:12|9.3|/users/storage/jacivalasquez/audio/youre_not_here_128.ogg|/users/storage/jacivalasquez/audio/youre_not_here_320.ogg|1002087
+100030102|Lost Without You|3:45|9.1|/users/storage/jacivalasquez/audio/lost_without_you_128.ogg|/users/storage/jacivalasquez/audio/lost_without_you_320.ogg|1002088
+100030103|Crystal Clear|4:28|9.5|/users/storage/jacivalasquez/audio/crystal_clear_128.ogg|/users/storage/jacivalasquez/audio/crystal_clear_320.ogg|1002089
+100030104|Something|4:05|9.0|/users/storage/jacivalasquez/audio/something_128.ogg|/users/storage/jacivalasquez/audio/something_320.ogg|1002090
+100030105|Where I Belong|3:58|9.2|/users/storage/jacivalasquez/audio/where_i_belong_128.ogg|/users/storage/jacivalasquez/audio/where_i_belong_320.ogg|1002091
+100030106|The Time of Your Life|4:33|8.9|/users/storage/jacivalasquez/audio/time_of_life_128.ogg|/users/storage/jacivalasquez/audio/time_of_life_320.ogg|1002092
+100030107|Best Friend|3:51|9.4|/users/storage/jacivalasquez/audio/best_friend_128.ogg|/users/storage/jacivalasquez/audio/best_friend_320.ogg|1002093
+100030108|Glass House|4:17|8.8|/users/storage/jacivalasquez/audio/glass_house_128.ogg|/users/storage/jacivalasquez/audio/glass_house_320.ogg|1002094
+100030109|You Don't Miss a Thing|3:42|9.1|/users/storage/jacivalasquez/audio/dont_miss_thing_128.ogg|/users/storage/jacivalasquez/audio/dont_miss_thing_320.ogg|1002095
+100030110|Diamond|4:25|9.3|/users/storage/jacivalasquez/audio/diamond_128.ogg|/users/storage/jacivalasquez/audio/diamond_320.ogg|1002096
+100030111|The One I'm Holding On To|4:38|9.0|/users/storage/jacivalasquez/audio/holding_on_to_128.ogg|/users/storage/jacivalasquez/audio/holding_on_to_320.ogg|1002097
+100030112|Jesus Is|4:22|9.2|/users/storage/jacivalasquez/audio/jesus_is_128.ogg|/users/storage/jacivalasquez/audio/jesus_is_320.ogg|1002098
+100030201|Heavenly Place|4:08|9.3|/users/storage/jacivalasquez/audio/heavenly_place_128.ogg|/users/storage/jacivalasquez/audio/heavenly_place_320.ogg|1002099
+100030202|Little Voice Inside|3:52|8.9|/users/storage/jacivalasquez/audio/little_voice_128.ogg|/users/storage/jacivalasquez/audio/little_voice_320.ogg|1002100
+100030203|If This World|4:25|9.1|/users/storage/jacivalasquez/audio/if_this_world_128.ogg|/users/storage/jacivalasquez/audio/if_this_world_320.ogg|1002101
+100030204|On My Knees|4:33|9.5|/users/storage/jacivalasquez/audio/on_my_knees_128.ogg|/users/storage/jacivalasquez/audio/on_my_knees_320.ogg|1002102
+100030205|Glory|3:47|9.0|/users/storage/jacivalasquez/audio/glory_128.ogg|/users/storage/jacivalasquez/audio/glory_320.ogg|1002103
+100030206|Un Lugar Celestial|4:15|9.2|/users/storage/jacivalasquez/audio/lugar_celestial_128.ogg|/users/storage/jacivalasquez/audio/lugar_celestial_320.ogg|1002104
+100030207|Crown of Thorns|4:41|8.8|/users/storage/jacivalasquez/audio/crown_thorns_128.ogg|/users/storage/jacivalasquez/audio/crown_thorns_320.ogg|1002105
+100030208|A Maze of Grace|3:58|9.1|/users/storage/jacivalasquez/audio/maze_of_grace_128.ogg|/users/storage/jacivalasquez/audio/maze_of_grace_320.ogg|1002106
+100030209|Thief of Always|4:22|8.7|/users/storage/jacivalasquez/audio/thief_always_128.ogg|/users/storage/jacivalasquez/audio/thief_always_320.ogg|1002107
+100030210|How Far|4:35|9.3|/users/storage/jacivalasquez/audio/how_far_128.ogg|/users/storage/jacivalasquez/audio/how_far_320.ogg|1002108
+100030211|I Promise|3:44|9.0|/users/storage/jacivalasquez/audio/i_promise_128.ogg|/users/storage/jacivalasquez/audio/i_promise_320.ogg|1002109
+100030212|De Creer En Ti|4:18|8.9|/users/storage/jacivalasquez/audio/de_creer_en_ti_128.ogg|/users/storage/jacivalasquez/audio/de_creer_en_ti_320.ogg|1002110
+100040101|Lugar Secreto|4:35|9.4|/users/storage/claudialorelle/audio/lugar_secreto_128.ogg|/users/storage/claudialorelle/audio/lugar_secreto_320.ogg|1002111
+100040102|Atrévete a Soñar|4:18|9.5|/users/storage/claudialorelle/audio/atrevete_sonar_128.ogg|/users/storage/claudialorelle/audio/atrevete_sonar_320.ogg|1002112
+100040103|Tu Amor Me Hace Cantar|3:52|9.2|/users/storage/claudialorelle/audio/amor_hace_cantar_128.ogg|/users/storage/claudialorelle/audio/amor_hace_cantar_320.ogg|1002113
+100040104|En Tu Presencia|4:47|9.3|/users/storage/claudialorelle/audio/en_tu_presencia_128.ogg|/users/storage/claudialorelle/audio/en_tu_presencia_320.ogg|1002114
+100040105|Mi Refugio|4:22|9.1|/users/storage/claudialorelle/audio/mi_refugio_128.ogg|/users/storage/claudialorelle/audio/mi_refugio_320.ogg|1002115
+100040106|Contigo Quiero Estar|3:58|9.0|/users/storage/claudialorelle/audio/contigo_quiero_128.ogg|/users/storage/claudialorelle/audio/contigo_quiero_320.ogg|1002116
+100040107|Eres Mi Dios|4:41|9.2|/users/storage/claudialorelle/audio/eres_mi_dios_128.ogg|/users/storage/claudialorelle/audio/eres_mi_dios_320.ogg|1002117
+100040108|Te Exaltaré|4:15|8.9|/users/storage/claudialorelle/audio/te_exaltare_128.ogg|/users/storage/claudialorelle/audio/te_exaltare_320.ogg|1002118
+100040109|Renuévame|4:38|9.1|/users/storage/claudialorelle/audio/renuevame_128.ogg|/users/storage/claudialorelle/audio/renuevame_320.ogg|1002119
+100040110|Caminaré Contigo|4:05|9.0|/users/storage/claudialorelle/audio/caminare_contigo_128.ogg|/users/storage/claudialorelle/audio/caminare_contigo_320.ogg|1002120
+100040111|Mi Fortaleza|4:28|8.8|/users/storage/claudialorelle/audio/mi_fortaleza_128.ogg|/users/storage/claudialorelle/audio/mi_fortaleza_320.ogg|1002121
+100040112|Gracias Señor|4:55|9.3|/users/storage/claudialorelle/audio/gracias_senor_128.ogg|/users/storage/claudialorelle/audio/gracias_senor_320.ogg|1002122
+100040201|Es Navidad|4:12|9.4|/users/storage/claudialorelle/audio/es_navidad_128.ogg|/users/storage/claudialorelle/audio/es_navidad_320.ogg|1002123
+100040202|Noche de Paz|3:48|9.2|/users/storage/claudialorelle/audio/noche_de_paz_128.ogg|/users/storage/claudialorelle/audio/noche_de_paz_320.ogg|1002124
+100040203|Ven a Cantar|3:35|9.0|/users/storage/claudialorelle/audio/ven_a_cantar_128.ogg|/users/storage/claudialorelle/audio/ven_a_cantar_320.ogg|1002125
+100040204|El Niño del Tambor|3:52|8.9|/users/storage/claudialorelle/audio/nino_tambor_128.ogg|/users/storage/claudialorelle/audio/nino_tambor_320.ogg|1002126
+100040205|Aleluya|4:25|9.3|/users/storage/claudialorelle/audio/aleluya_128.ogg|/users/storage/claudialorelle/audio/aleluya_320.ogg|1002127
+100040206|Angeles Cantando Están|3:41|9.1|/users/storage/claudialorelle/audio/angeles_cantando_128.ogg|/users/storage/claudialorelle/audio/angeles_cantando_320.ogg|1002128
+100040207|Navidad Sin Ti|4:38|8.8|/users/storage/claudialorelle/audio/navidad_sin_ti_128.ogg|/users/storage/claudialorelle/audio/navidad_sin_ti_320.ogg|1002129
+100040208|Campanas de Belén|3:28|9.0|/users/storage/claudialorelle/audio/campanas_belen_128.ogg|/users/storage/claudialorelle/audio/campanas_belen_320.ogg|1002130
+100040209|Rey de Reyes|4:15|9.2|/users/storage/claudialorelle/audio/rey_de_reyes_128.ogg|/users/storage/claudialorelle/audio/rey_de_reyes_320.ogg|1002131
+100040210|Dulce Jesús Mío|3:58|8.9|/users/storage/claudialorelle/audio/dulce_jesus_128.ogg|/users/storage/claudialorelle/audio/dulce_jesus_320.ogg|1002132
+100040211|Gloria en las Alturas|4:22|9.1|/users/storage/claudialorelle/audio/gloria_alturas_128.ogg|/users/storage/claudialorelle/audio/gloria_alturas_320.ogg|1002133
+100040212|La Estrella de Belén|4:45|9.0|/users/storage/claudialorelle/audio/estrella_belen_128.ogg|/users/storage/claudialorelle/audio/estrella_belen_320.ogg|1002134
+100050101|Moscow Mule|4:05|9.6|/users/storage/badbunny/audio/moscow_mule_128.ogg|/users/storage/badbunny/audio/moscow_mule_320.ogg|1438131979
+100050102|Después de la Playa|3:50|9.4|/users/storage/badbunny/audio/despues_de_la_playa_128.ogg|/users/storage/badbunny/audio/despues_de_la_playa_320.ogg|643577559
+100050103|Me Porto Bonito|3:58|9.8|/users/storage/badbunny/audio/me_porto_bonito_128.ogg|/users/storage/badbunny/audio/me_porto_bonito_320.ogg|2139076922
+100050104|Titi Me Preguntó|4:00|10.0|/users/storage/badbunny/audio/titi_me_pregunto_128.ogg|/users/storage/badbunny/audio/titi_me_pregunto_320.ogg|1838986610
+100050105|Un Ratito|2:56|9.2|/users/storage/badbunny/audio/un_ratito_128.ogg|/users/storage/badbunny/audio/un_ratito_320.ogg|616087604
+100050106|Yo No soy celoso|3:50|9.2|/users/storage/badbunny/audio/yo_no_soy_celoso_128.ogg|/users/storage/badbunny/audio/yo_no_soy_celoso_320.ogg|472740652
+100050107|Tarot|3:57|9.3|/users/storage/badbunny/audio/tarot_128.ogg|/users/storage/badbunny/audio/tarot_320.ogg|925690845
+100050108|Neverita|2:53|9.8|/users/storage/badbunny/audio/neverita_128.ogg|/users/storage/badbunny/audio/neverita_320.ogg|1000729890
+100050109|La Corriente|3:18|9.5|/users/storage/badbunny/audio/la_corriente_128.ogg|/users/storage/badbunny/audio/la_corriente_320.ogg|710017433
+100050110|Efecto|3:33|9.4|/users/storage/badbunny/audio/efecto_128.ogg|/users/storage/badbunny/audio/efecto_320.ogg|1558091243
+100050111|Party|3:47|7.0|/users/storage/badbunny/audio/party_128.ogg|/users/storage/badbunny/audio/party_320.ogg|853006529
+100050112|Aguacero|3:30|8.9|/users/storage/badbunny/audio/aguacero_128.ogg|/users/storage/badbunny/audio/aguacero_320.ogg|456840480
+100050113|Enseñame a Bailar|2:56|9.0|/users/storage/badbunny/audio/enseñame_a_bailar_128.ogg|/users/storage/badbunny/audio/enseñame_a_bailar_320.ogg|485961327
+100050114|Ojitos_Lindos|4:18|10.0|/users/storage/badbunny/audio/ojitos_lindos_128.ogg|/users/storage/badbunny/audio/ojitos_lindos_320.ogg|1773226523
+100050115|Dos Mil 16|3:28|9.1|/users/storage/badbunny/audio/dos_mil_16_128.ogg|/users/storage/badbunny/audio/dos_mil_16_320.ogg|561290041
+100050116|El Apagon|3:21|9.7|/users/storage/badbunny/audio/el_apagon_128.ogg|/users/storage/badbunny/audio/el_apagon_320.ogg|299992688
+100050117|Otro Atardecer|4:04|9.6|/users/storage/badbunny/audio/otro_atardecer_128.ogg|/users/storage/badbunny/audio/otro_atardecer_320.ogg|638801728
+100050118|Un Coco|3:16|9.2|/users/storage/badbunny/audio/un_coco_128.ogg|/users/storage/badbunny/audio/un_coco_320.ogg|732249149
+100050119|Andrea|5:39|9.8|/users/storage/badbunny/audio/andrea_128.ogg|/users/storage/badbunny/audio/andrea_320.ogg|589055191
+100050120|Me Fui de Vacaciones|3:00|9.6|/users/storage/badbunny/audio/me_fui_de_vacaciones_128.ogg|/users/storage/badbunny/audio/me_fui_de_vacaciones_320.ogg|470714782
+100050121|Un Verano Sin Ti|2:28|9.4|/users/storage/badbunny/audio/un_verano_sin_ti_128.ogg|/users/storage/badbunny/audio/un_verano_sin_ti_320.ogg|496191898
+100050122|Agosto|2:19|9.0|/users/storage/badbunny/audio/agosto_128.ogg|/users/storage/badbunny/audio/agosto_320.ogg|422457675
+100050123|Callaita|4:10|10.0|/users/storage/badbunny/audio/callaita_128.ogg|/users/storage/badbunny/audio/callaita_320.ogg|1699710172
+100050201|Si Veo a Tu Mamá|2:50|9.2|/users/storage/badbunny/audio/si_veo_a_tu_mama_128.ogg|/users/storage/badbunny/audio/si_veo_a_tu_mama_320.ogg|1865329472
+100050202|La Difícil|2:43|9.5|/users/storage/badbunny/audio/la_dificil_128.ogg|/users/storage/badbunny/audio/la_dificil_320.ogg|1449208423
+100050203|Pero Ya No|3:53|9.0|/users/storage/badbunny/audio/pero_ya_no_128.ogg|/users/storage/badbunny/audio/pero_ya_no_320.ogg|947162384
+100050204|La Santa|3:26|9.3|/users/storage/badbunny/audio/la_santa_128.ogg|/users/storage/badbunny/audio/la_santa_320.ogg|1382579285
+100050205|Yo Perreo Sola|2:51|10.0|/users/storage/badbunny/audio/yo_perreo_sola_128.ogg|/users/storage/badbunny/audio/yo_perreo_sola_320.ogg|1574916358
+100050206|Bichiyal|3:16|9.1|/users/storage/badbunny/audio/bichiyal_128.ogg|/users/storage/badbunny/audio/bichiyal_320.ogg|1678391023
+100050207|Soliá|2:56|8.8|/users/storage/badbunny/audio/solia_128.ogg|/users/storage/badbunny/audio/solia_320.ogg|1273419192
+100050208|La Zona|2:44|8.9|/users/storage/badbunny/audio/la_zona_128.ogg|/users/storage/badbunny/audio/la_zona_320.ogg|1158230910
+100050209|Que Malo|2:56|8.5|/users/storage/badbunny/audio/que_malo_128.ogg|/users/storage/badbunny/audio/que_malo_320.ogg|1982745120
+100050210|Vete|3:12|9.7|/users/storage/badbunny/audio/vete_128.ogg|/users/storage/badbunny/audio/vete_320.ogg|1835738530
+100050211|Ignorantes|3:33|9.4|/users/storage/badbunny/audio/ignorantes_128.ogg|/users/storage/badbunny/audio/ignorantes_320.ogg|1657774381
+100050212|A Tu Merced|3:02|8.7|/users/storage/badbunny/audio/a_tu_merced_128.ogg|/users/storage/badbunny/audio/a_tu_merced_320.ogg|1135897092
+100050213|Una Vez|3:41|9.2|/users/storage/badbunny/audio/una_vez_128.ogg|/users/storage/badbunny/audio/una_vez_320.ogg|1329075810
+100050214|Safaera|4:56|10.0|/users/storage/badbunny/audio/safaera_128.ogg|/users/storage/badbunny/audio/safaera_320.ogg|1425879351
+100050215|25/8|2:34|8.4|/users/storage/badbunny/audio/25_8_128.ogg|/users/storage/badbunny/audio/25_8_320.ogg|953297162
+100050216|Está Cabrón Ser Yo|3:45|8.8|/users/storage/badbunny/audio/esta_cabron_ser_yo_128.ogg|/users/storage/badbunny/audio/esta_cabron_ser_yo_320.ogg|1402607719
+100050217|Puesto Pa’ Guerrial|2:54|8.9|/users/storage/badbunny/audio/puesto_pa_guerrial_128.ogg|/users/storage/badbunny/audio/puesto_pa_guerrial_320.ogg|1862107976
+100050218|P FKN R|4:21|9.5|/users/storage/badbunny/audio/p_fkn_r_128.ogg|/users/storage/badbunny/audio/p_fkn_r_320.ogg|1770598143
+100050219|Hablamos Mañana|4:17|9.3|/users/storage/badbunny/audio/hablamos_manana_128.ogg|/users/storage/badbunny/audio/hablamos_manana_320.ogg|1670853702
+100050220|<3|2:49|9.2|/users/storage/badbunny/audio/corazon_128.ogg|/users/storage/badbunny/audio/corazon_320.ogg|1300198211
+100060101|Human Behaviour|4:12|9.1|/users/storage/bjork/audio/human_behaviour_128.ogg|/users/storage/bjork/audio/human_behaviour_320.ogg|110060101
+100060102|Crying|4:49|8.8|/users/storage/bjork/audio/crying_128.ogg|/users/storage/bjork/audio/crying_320.ogg|110060102
+100060103|Venus as a Boy|4:41|9.5|/users/storage/bjork/audio/venus_as_a_boy_128.ogg|/users/storage/bjork/audio/venus_as_a_boy_320.ogg|110060103
+100060104|There's More to Life Than This|3:21|8.9|/users/storage/bjork/audio/more_to_life_128.ogg|/users/storage/bjork/audio/more_to_life_320.ogg|110060104
+100060105|Like Someone in Love|4:33|8.5|/users/storage/bjork/audio/like_someone_in_love_128.ogg|/users/storage/bjork/audio/like_someone_in_love_320.ogg|110060105
+100060106|Big Time Sensuality|3:57|9.0|/users/storage/bjork/audio/big_time_sensuality_128.ogg|/users/storage/bjork/audio/big_time_sensuality_320.ogg|110060106
+100060107|One Day|5:24|8.7|/users/storage/bjork/audio/one_day_128.ogg|/users/storage/bjork/audio/one_day_320.ogg|110060107
+100060108|Aeroplane|3:54|8.3|/users/storage/bjork/audio/aeroplane_128.ogg|/users/storage/bjork/audio/aeroplane_320.ogg|110060108
+100060109|Come to Me|4:55|8.9|/users/storage/bjork/audio/come_to_me_128.ogg|/users/storage/bjork/audio/come_to_me_320.ogg|110060109
+100060110|Violently Happy|4:58|9.2|/users/storage/bjork/audio/violently_happy_128.ogg|/users/storage/bjork/audio/violently_happy_320.ogg|110060110
+100060111|The Anchor Song|3:32|8.5|/users/storage/bjork/audio/the_anchor_song_128.ogg|/users/storage/bjork/audio/the_anchor_song_320.ogg|110060111
+100060201|Hunter|4:15|9.4|/users/storage/bjork/audio/hunter_128.ogg|/users/storage/bjork/audio/hunter_320.ogg|110060201
+100060202|Jóga|5:05|10.0|/users/storage/bjork/audio/joga_128.ogg|/users/storage/bjork/audio/joga_320.ogg|110060202
+100060203|Unravel|3:22|9.0|/users/storage/bjork/audio/unravel_128.ogg|/users/storage/bjork/audio/unravel_320.ogg|110060203
+100060204|Bachelorette|5:12|9.7|/users/storage/bjork/audio/bachelorette_128.ogg|/users/storage/bjork/audio/bachelorette_320.ogg|110060204
+100060205|All Neon Like|5:53|8.8|/users/storage/bjork/audio/all_neon_like_128.ogg|/users/storage/bjork/audio/all_neon_like_320.ogg|110060205
+100060206|5 Years|4:29|8.5|/users/storage/bjork/audio/5_years_128.ogg|/users/storage/bjork/audio/5_years_320.ogg|110060206
+100060207|Immature|3:06|8.4|/users/storage/bjork/audio/immature_128.ogg|/users/storage/bjork/audio/immature_320.ogg|110060207
+100060208|Alarm Call|4:19|9.0|/users/storage/bjork/audio/alarm_call_128.ogg|/users/storage/bjork/audio/alarm_call_320.ogg|110060208
+100060209|Pluto|3:20|8.9|/users/storage/bjork/audio/pluto_128.ogg|/users/storage/bjork/audio/pluto_320.ogg|110060209
+100060210|All Is Full of Love|4:32|10.0|/users/storage/bjork/audio/all_is_full_of_love_128.ogg|/users/storage/bjork/audio/all_is_full_of_love_320.ogg|110060210
+100070101|Backseat|4:13|9.2|/users/storage/charlixcx/audio/backseat_128.ogg|/users/storage/charlixcx/audio/backseat_320.ogg|210070101
+100070102|Out of My Head|3:51|9.1|/users/storage/charlixcx/audio/out_of_my_head_128.ogg|/users/storage/charlixcx/audio/out_of_my_head_320.ogg|210070102
+100070103|Lucky|3:03|8.9|/users/storage/charlixcx/audio/lucky_128.ogg|/users/storage/charlixcx/audio/lucky_320.ogg|210070103
+100070104|Tears|3:20|8.7|/users/storage/charlixcx/audio/tears_128.ogg|/users/storage/charlixcx/audio/tears_320.ogg|210070104
+100070105|I Got It|3:10|9.0|/users/storage/charlixcx/audio/i_got_it_128.ogg|/users/storage/charlixcx/audio/i_got_it_320.ogg|210070105
+100070106|Femmebot|2:51|8.8|/users/storage/charlixcx/audio/femmebot_128.ogg|/users/storage/charlixcx/audio/femmebot_320.ogg|210070106
+100070107|Delicious|3:20|8.4|/users/storage/charlixcx/audio/delicious_128.ogg|/users/storage/charlixcx/audio/delicious_320.ogg|210070107
+100070108|Unlock It|3:51|9.4|/users/storage/charlixcx/audio/unlock_it_128.ogg|/users/storage/charlixcx/audio/unlock_it_320.ogg|210070108
+100070109|Porsche|3:31|8.6|/users/storage/charlixcx/audio/porsche_128.ogg|/users/storage/charlixcx/audio/porsche_320.ogg|210070109
+100070110|Track 10|4:32|9.5|/users/storage/charlixcx/audio/track_10_128.ogg|/users/storage/charlixcx/audio/track_10_320.ogg|210070110
+100070201|Pink Diamond|2:59|9.3|/users/storage/charlixcx/audio/pink_diamond_128.ogg|/users/storage/charlixcx/audio/pink_diamond_320.ogg|210070201
+100070202|Forever|3:05|9.4|/users/storage/charlixcx/audio/forever_128.ogg|/users/storage/charlixcx/audio/forever_320.ogg|210070202
+100070203|Claws|2:30|9.2|/users/storage/charlixcx/audio/claws_128.ogg|/users/storage/charlixcx/audio/claws_320.ogg|210070203
+100070204|7 Years|3:18|8.8|/users/storage/charlixcx/audio/7_years_128.ogg|/users/storage/charlixcx/audio/7_years_320.ogg|210070204
+100070205|Detonate|3:07|8.7|/users/storage/charlixcx/audio/detonate_128.ogg|/users/storage/charlixcx/audio/detonate_320.ogg|210070205
+100070206|Enemy|2:57|8.9|/users/storage/charlixcx/audio/enemy_128.ogg|/users/storage/charlixcx/audio/enemy_320.ogg|210070206
+100070207|I Finally Understand|2:32|9.0|/users/storage/charlixcx/audio/i_finally_understand_128.ogg|/users/storage/charlixcx/audio/i_finally_understand_320.ogg|210070207
+100070208|C2.0|2:37|8.5|/users/storage/charlixcx/audio/c2_0_128.ogg|/users/storage/charlixcx/audio/c2_0_320.ogg|210070208
+100070209|Party 4 U|4:51|9.1|/users/storage/charlixcx/audio/party_4_u_128.ogg|/users/storage/charlixcx/audio/party_4_u_320.ogg|210070209
+100070210|Anthems|2:50|9.5|/users/storage/charlixcx/audio/anthems_128.ogg|/users/storage/charlixcx/audio/anthems_320.ogg|210070210
+100080101|Let It Happen|7:47|9.8|/users/storage/tameimpala/audio/let_it_happen_128.ogg|/users/storage/tameimpala/audio/let_it_happen_320.ogg|101450821
+100080102|Nangs|1:48|9.1|/users/storage/tameimpala/audio/nangs_128.ogg|/users/storage/tameimpala/audio/nangs_320.ogg|1854632147
+100080103|The Moment|4:15|9.4|/users/storage/tameimpala/audio/the_moment_128.ogg|/users/storage/tameimpala/audio/the_moment_320.ogg|21478963
+100080104|Yes I'm Changing|4:31|9.3|/users/storage/tameimpala/audio/yes_im_changing_128.ogg|/users/storage/tameimpala/audio/yes_im_changing_320.ogg|1985476321
+100080105|Eventually|5:19|9.6|/users/storage/tameimpala/audio/eventually_128.ogg|/users/storage/tameimpala/audio/eventually_320.ogg|258963214
+100080106|Gossip|0:55|8.7|/users/storage/tameimpala/audio/gossip_128.ogg|/users/storage/tameimpala/audio/gossip_320.ogg|987654123
+100080107|The Less I Know the Better|3:36|10.0|/users/storage/tameimpala/audio/the_less_i_know_128.ogg|/users/storage/tameimpala/audio/the_less_i_know_320.ogg|789632145
+100080108|Past Life|3:47|9.2|/users/storage/tameimpala/audio/past_life_128.ogg|/users/storage/tameimpala/audio/past_life_320.ogg|1654789321
+100080109|Disciples|1:49|8.9|/users/storage/tameimpala/audio/disciples_128.ogg|/users/storage/tameimpala/audio/disciples_320.ogg|1147896325
+100080110|Cause I'm a Man|4:01|9.3|/users/storage/tameimpala/audio/cause_im_a_man_128.ogg|/users/storage/tameimpala/audio/cause_im_a_man_320.ogg|1987452361
+100080111|Reality in Motion|4:12|9.0|/users/storage/tameimpala/audio/reality_in_motion_128.ogg|/users/storage/tameimpala/audio/reality_in_motion_320.ogg|1478523691
+100080112|Love/Paranoia|3:06|8.8|/users/storage/tameimpala/audio/love_paranoia_128.ogg|/users/storage/tameimpala/audio/love_paranoia_320.ogg|1258963147
+100080113|New Person, Same Old Mistakes|6:03|9.7|/users/storage/tameimpala/audio/new_person_128.ogg|/users/storage/tameimpala/audio/new_person_320.ogg|2987456321
+100080201|One More Year|5:23|9.2|/users/storage/tameimpala/audio/one_more_year_128.ogg|/users/storage/tameimpala/audio/one_more_year_320.ogg|1854796321
+100080202|Instant Destiny|3:13|8.9|/users/storage/tameimpala/audio/instant_destiny_128.ogg|/users/storage/tameimpala/audio/instant_destiny_320.ogg|1369874521
+100080203|Borderline|3:58|9.5|/users/storage/tameimpala/audio/borderline_128.ogg|/users/storage/tameimpala/audio/borderline_320.ogg|789654123
+100080204|Posthumous Forgiveness|6:07|9.4|/users/storage/tameimpala/audio/posthumous_forgiveness_128.ogg|/users/storage/tameimpala/audio/posthumous_forgiveness_320.ogg|1478965321
+100080205|Breathe Deeper|6:11|9.3|/users/storage/tameimpala/audio/breathe_deeper_128.ogg|/users/storage/tameimpala/audio/breathe_deeper_320.ogg|1658974321
+100080206|Tomorrow's Dust|3:31|8.8|/users/storage/tameimpala/audio/tomorrows_dust_128.ogg|/users/storage/tameimpala/audio/tomorrows_dust_320.ogg|1147852369
+100080207|On Track|5:24|9.1|/users/storage/tameimpala/audio/on_track_128.ogg|/users/storage/tameimpala/audio/on_track_320.ogg|1687452139
+100080208|Lost in Yesterday|3:50|9.6|/users/storage/tameimpala/audio/lost_in_yesterday_128.ogg|/users/storage/tameimpala/audio/lost_in_yesterday_320.ogg|2458963147
+100080209|Is It True|4:05|9.2|/users/storage/tameimpala/audio/is_it_true_128.ogg|/users/storage/tameimpala/audio/is_it_true_320.ogg|1789654231
+100080210|It Might Be Time|4:26|9.0|/users/storage/tameimpala/audio/it_might_be_time_128.ogg|/users/storage/tameimpala/audio/it_might_be_time_320.ogg|1547896321
+100080211|Glimmer|2:07|8.7|/users/storage/tameimpala/audio/glimmer_128.ogg|/users/storage/tameimpala/audio/glimmer_320.ogg|987456321
+100080212|One More Hour|5:45|9.4|/users/storage/tameimpala/audio/one_more_hour_128.ogg|/users/storage/tameimpala/audio/one_more_hour_320.ogg|1896547321
+100080301|Be Above It|2:46|8.9|/users/storage/tameimpala/audio/be_above_it_128.ogg|/users/storage/tameimpala/audio/be_above_it_320.ogg|1254789631
+100080302|Endors Toi|3:05|9.2|/users/storage/tameimpala/audio/endors_toi_128.ogg|/users/storage/tameimpala/audio/endors_toi_320.ogg|1478523691
+100080303|Apocalypse Dreams|5:57|9.7|/users/storage/tameimpala/audio/apocalypse_dreams_128.ogg|/users/storage/tameimpala/audio/apocalypse_dreams_320.ogg|789456321
+100080304|Mind Mischief|4:32|9.6|/users/storage/tameimpala/audio/mind_mischief_128.ogg|/users/storage/tameimpala/audio/mind_mischief_320.ogg|147896531
+100080305|Music to Walk Home By|5:13|9.1|/users/storage/tameimpala/audio/music_to_walk_128.ogg|/users/storage/tameimpala/audio/music_to_walk_320.ogg|1658974231
+100080306|Why Won't They Talk to Me?|4:46|8.8|/users/storage/tameimpala/audio/why_wont_they_talk_128.ogg|/users/storage/tameimpala/audio/why_wont_they_talk_320.ogg|1354789621
+100080307|Feels Like We Only Go Backwards|3:12|9.8|/users/storage/tameimpala/audio/feels_like_128.ogg|/users/storage/tameimpala/audio/feels_like_320.ogg|258741963
+100080308|Keep on Lying|5:31|9.0|/users/storage/tameimpala/audio/keep_on_lying_128.ogg|/users/storage/tameimpala/audio/keep_on_lying_320.ogg|1458963271
+100080309|Elephant|3:31|9.5|/users/storage/tameimpala/audio/elephant_128.ogg|/users/storage/tameimpala/audio/elephant_320.ogg|254789321
+100080310|She Just Won't Believe Me|5:17|8.9|/users/storage/tameimpala/audio/she_just_wont_128.ogg|/users/storage/tameimpala/audio/she_just_wont_320.ogg|1278963541
+100080311|Nothing That Has Happened|5:52|9.3|/users/storage/tameimpala/audio/nothing_that_happened_128.ogg|/users/storage/tameimpala/audio/nothing_that_happened_320.ogg|1589674321
+100080312|Sun's Coming Up|4:57|9.2|/users/storage/tameimpala/audio/suns_coming_up_128.ogg|/users/storage/tameimpala/audio/suns_coming_up_320.ogg|1478965231
+100090101|DVD Menu|1:27|8.8|/users/storage/phoebebridgers/audio/dvd_menu_128.ogg|/users/storage/phoebebridgers/audio/dvd_menu_320.ogg|987456321
+100090102|Garden Song|3:30|9.6|/users/storage/phoebebridgers/audio/garden_song_128.ogg|/users/storage/phoebebridgers/audio/garden_song_320.ogg|247896321
+100090103|Kyoto|3:20|9.8|/users/storage/phoebebridgers/audio/kyoto_128.ogg|/users/storage/phoebebridgers/audio/kyoto_320.ogg|2896547321
+100090104|Punisher|3:40|9.4|/users/storage/phoebebridgers/audio/punisher_128.ogg|/users/storage/phoebebridgers/audio/punisher_320.ogg|1789654321
+100090105|Halloween|3:00|9.3|/users/storage/phoebebridgers/audio/halloween_128.ogg|/users/storage/phoebebridgers/audio/halloween_320.ogg|1658974321
+100090106|Chinese Satellite|4:11|9.1|/users/storage/phoebebridgers/audio/chinese_satellite_128.ogg|/users/storage/phoebebridgers/audio/chinese_satellite_320.ogg|1478523691
+100090107|Moon Song|3:29|9.7|/users/storage/phoebebridgers/audio/moon_song_128.ogg|/users/storage/phoebebridgers/audio/moon_song_320.ogg|258741963
+100090108|Savior Complex|5:07|9.5|/users/storage/phoebebridgers/audio/savior_complex_128.ogg|/users/storage/phoebebridgers/audio/savior_complex_320.ogg|1987654321
+100090109|I See You|3:16|9.2|/users/storage/phoebebridgers/audio/i_see_you_128.ogg|/users/storage/phoebebridgers/audio/i_see_you_320.ogg|1456789321
+100090110|Graceland Too|4:57|9.6|/users/storage/phoebebridgers/audio/graceland_too_128.ogg|/users/storage/phoebebridgers/audio/graceland_too_320.ogg|247896321
+100090111|I Know the End|5:44|10.0|/users/storage/phoebebridgers/audio/i_know_the_end_128.ogg|/users/storage/phoebebridgers/audio/i_know_the_end_320.ogg|3658974521
+100090201|Smoke Signals|4:54|9.4|/users/storage/phoebebridgers/audio/smoke_signals_128.ogg|/users/storage/phoebebridgers/audio/smoke_signals_320.ogg|1785496321
+100090202|Motion Sickness|3:50|9.7|/users/storage/phoebebridgers/audio/motion_sickness_128.ogg|/users/storage/phoebebridgers/audio/motion_sickness_320.ogg|258974321
+100090203|Funeral|4:35|9.3|/users/storage/phoebebridgers/audio/funeral_128.ogg|/users/storage/phoebebridgers/audio/funeral_320.ogg|1874569321
+100090204|Demi Moore|2:21|8.9|/users/storage/phoebebridgers/audio/demi_moore_128.ogg|/users/storage/phoebebridgers/audio/demi_moore_320.ogg|1254789631
+100090205|Scott Street|4:30|9.6|/users/storage/phoebebridgers/audio/scott_street_128.ogg|/users/storage/phoebebridgers/audio/scott_street_320.ogg|247896531
+100090206|Killer|3:40|9.1|/users/storage/phoebebridgers/audio/killer_128.ogg|/users/storage/phoebebridgers/audio/killer_320.ogg|1587496321
+100090207|Georgia|3:50|9.5|/users/storage/phoebebridgers/audio/georgia_128.ogg|/users/storage/phoebebridgers/audio/georgia_320.ogg|1985476321
+100090208|Chelsea|3:25|8.8|/users/storage/phoebebridgers/audio/chelsea_128.ogg|/users/storage/phoebebridgers/audio/chelsea_320.ogg|1347896521
+100090209|Would You Rather|4:23|9.2|/users/storage/phoebebridgers/audio/would_you_rather_128.ogg|/users/storage/phoebebridgers/audio/would_you_rather_320.ogg|1658974231
+100090210|You Missed My Heart|5:50|9.4|/users/storage/phoebebridgers/audio/you_missed_my_heart_128.ogg|/users/storage/phoebebridgers/audio/you_missed_my_heart_320.ogg|1874523691
+100090301|Bite the Hand|1:52|9.1|/users/storage/phoebebridgers/audio/bite_the_hand_128.ogg|/users/storage/phoebebridgers/audio/bite_the_hand_320.ogg|1258963147
+100090302|Me & My Dog|2:04|9.3|/users/storage/phoebebridgers/audio/me_and_my_dog_128.ogg|/users/storage/phoebebridgers/audio/me_and_my_dog_320.ogg|1456789231
+100090303|Souvenir|3:14|9.5|/users/storage/phoebebridgers/audio/souvenir_128.ogg|/users/storage/phoebebridgers/audio/souvenir_320.ogg|1789456321
+100090304|Stay Down|3:34|9.2|/users/storage/phoebebridgers/audio/stay_down_128.ogg|/users/storage/phoebebridgers/audio/stay_down_320.ogg|1547896321
+100090305|Salt in the Wound|3:05|9.4|/users/storage/phoebebridgers/audio/salt_in_wound_128.ogg|/users/storage/phoebebridgers/audio/salt_in_wound_320.ogg|1654789321
+100090306|Ketchum, ID|5:01|9.6|/users/storage/phoebebridgers/audio/ketchum_id_128.ogg|/users/storage/phoebebridgers/audio/ketchum_id_320.ogg|1987452361
+100100101|Salad Days|2:54|9.5|/users/storage/macdemarco/audio/salad_days_128.ogg|/users/storage/macdemarco/audio/salad_days_320.ogg|245789632
+100100102|Blue Boy|3:00|9.2|/users/storage/macdemarco/audio/blue_boy_128.ogg|/users/storage/macdemarco/audio/blue_boy_320.ogg|1658974231
+100100103|Brother|3:06|9.1|/users/storage/macdemarco/audio/brother_128.ogg|/users/storage/macdemarco/audio/brother_320.ogg|1478963251
+100100104|Let Her Go|3:04|8.9|/users/storage/macdemarco/audio/let_her_go_128.ogg|/users/storage/macdemarco/audio/let_her_go_320.ogg|1254789631
+100100105|Goodbye Weekend|2:52|9.0|/users/storage/macdemarco/audio/goodbye_weekend_128.ogg|/users/storage/macdemarco/audio/goodbye_weekend_320.ogg|1369874521
+100100106|Let My Baby Stay|3:46|9.4|/users/storage/macdemarco/audio/let_my_baby_stay_128.ogg|/users/storage/macdemarco/audio/let_my_baby_stay_320.ogg|1789654231
+100100107|Passing Out Pieces|4:20|9.3|/users/storage/macdemarco/audio/passing_out_pieces_128.ogg|/users/storage/macdemarco/audio/passing_out_pieces_320.ogg|1547896321
+100100108|Treat Her Better|2:44|8.8|/users/storage/macdemarco/audio/treat_her_better_128.ogg|/users/storage/macdemarco/audio/treat_her_better_320.ogg|1147852369
+100100109|Chamber of Reflection|3:51|9.8|/users/storage/macdemarco/audio/chamber_reflection_128.ogg|/users/storage/macdemarco/audio/chamber_reflection_320.ogg|2987456321
+100100110|Go Easy|2:38|8.7|/users/storage/macdemarco/audio/go_easy_128.ogg|/users/storage/macdemarco/audio/go_easy_320.ogg|987456321
+100100111|Jonny's Odyssey|3:18|9.1|/users/storage/macdemarco/audio/jonnys_odyssey_128.ogg|/users/storage/macdemarco/audio/jonnys_odyssey_320.ogg|1358741269
+100100201|My Old Man|3:30|9.4|/users/storage/macdemarco/audio/my_old_man_128.ogg|/users/storage/macdemarco/audio/my_old_man_320.ogg|1987456321
+100100202|This Old Dog|2:37|9.3|/users/storage/macdemarco/audio/this_old_dog_128.ogg|/users/storage/macdemarco/audio/this_old_dog_320.ogg|1658974231
+100100203|Baby You're Out|2:43|8.9|/users/storage/macdemarco/audio/baby_youre_out_128.ogg|/users/storage/macdemarco/audio/baby_youre_out_320.ogg|1254789631
+100100204|For the First Time|3:49|9.2|/users/storage/macdemarco/audio/for_first_time_128.ogg|/users/storage/macdemarco/audio/for_first_time_320.ogg|1478523691
+100100205|One Another|3:01|9.1|/users/storage/macdemarco/audio/one_another_128.ogg|/users/storage/macdemarco/audio/one_another_320.ogg|1369874521
+100100206|Still Beating|3:29|9.0|/users/storage/macdemarco/audio/still_beating_128.ogg|/users/storage/macdemarco/audio/still_beating_320.ogg|1254789631
+100100207|Sister|3:51|9.3|/users/storage/macdemarco/audio/sister_128.ogg|/users/storage/macdemarco/audio/sister_320.ogg|1658974231
+100100208|Dreams from Yesterday|3:39|8.8|/users/storage/macdemarco/audio/dreams_yesterday_128.ogg|/users/storage/macdemarco/audio/dreams_yesterday_320.ogg|1147852369
+100100209|A Wolf Who Wears Sheeps Clothes|3:06|8.9|/users/storage/macdemarco/audio/wolf_sheeps_clothes_128.ogg|/users/storage/macdemarco/audio/wolf_sheeps_clothes_320.ogg|1258963147
+100100210|One More Love Song|3:14|9.2|/users/storage/macdemarco/audio/one_more_love_song_128.ogg|/users/storage/macdemarco/audio/one_more_love_song_320.ogg|1478963251
+100100211|On the Level|2:38|8.7|/users/storage/macdemarco/audio/on_the_level_128.ogg|/users/storage/macdemarco/audio/on_the_level_320.ogg|987456321
+100100212|Moonlight on the River|3:55|9.4|/users/storage/macdemarco/audio/moonlight_river_128.ogg|/users/storage/macdemarco/audio/moonlight_river_320.ogg|1789654231
+100100301|Cooking Up Something Good|3:20|9.3|/users/storage/macdemarco/audio/cooking_up_128.ogg|/users/storage/macdemarco/audio/cooking_up_320.ogg|1658974231
+100100302|Dreamin'|3:04|9.1|/users/storage/macdemarco/audio/dreamin_128.ogg|/users/storage/macdemarco/audio/dreamin_320.ogg|1478963251
+100100303|Freaking Out the Neighborhood|3:34|9.5|/users/storage/macdemarco/audio/freaking_out_128.ogg|/users/storage/macdemarco/audio/freaking_out_320.ogg|2147896531
+100100304|Annie|3:27|9.2|/users/storage/macdemarco/audio/annie_128.ogg|/users/storage/macdemarco/audio/annie_320.ogg|1658974231
+100100305|Ode to Viceroy|4:10|9.0|/users/storage/macdemarco/audio/ode_to_viceroy_128.ogg|/users/storage/macdemarco/audio/ode_to_viceroy_320.ogg|1478523691
+100100306|Robson Girl|3:15|8.9|/users/storage/macdemarco/audio/robson_girl_128.ogg|/users/storage/macdemarco/audio/robson_girl_320.ogg|1254789631
+100100307|The Stars Keep On Calling My Name|2:19|8.7|/users/storage/macdemarco/audio/stars_keep_calling_128.ogg|/users/storage/macdemarco/audio/stars_keep_calling_320.ogg|987456321
+100100308|My Kind of Woman|2:44|9.6|/users/storage/macdemarco/audio/my_kind_of_woman_128.ogg|/users/storage/macdemarco/audio/my_kind_of_woman_320.ogg|2458741963
+100100309|Boe Zaah|2:51|8.8|/users/storage/macdemarco/audio/boe_zaah_128.ogg|/users/storage/macdemarco/audio/boe_zaah_320.ogg|1147852369
+100100310|Sherrill|3:36|9.1|/users/storage/macdemarco/audio/sherrill_128.ogg|/users/storage/macdemarco/audio/sherrill_320.ogg|1369874521
+100100311|Still Together|4:22|9.3|/users/storage/macdemarco/audio/still_together_128.ogg|/users/storage/macdemarco/audio/still_together_320.ogg|1658974231
+100110101|Zebra|5:08|9.4|/users/storage/beachhouse/audio/zebra_128.ogg|/users/storage/beachhouse/audio/zebra_320.ogg|1987456321
+100110102|Silver Soul|4:51|9.6|/users/storage/beachhouse/audio/silver_soul_128.ogg|/users/storage/beachhouse/audio/silver_soul_320.ogg|2147896531
+100110103|Norway|3:48|9.2|/users/storage/beachhouse/audio/norway_128.ogg|/users/storage/beachhouse/audio/norway_320.ogg|1658974231
+100110104|Walk in the Park|4:38|9.3|/users/storage/beachhouse/audio/walk_in_park_128.ogg|/users/storage/beachhouse/audio/walk_in_park_320.ogg|1785496321
+100110105|Used to Be|3:43|9.1|/users/storage/beachhouse/audio/used_to_be_128.ogg|/users/storage/beachhouse/audio/used_to_be_320.ogg|1478963251
+100110106|Lover of Mine|4:02|9.5|/users/storage/beachhouse/audio/lover_of_mine_128.ogg|/users/storage/beachhouse/audio/lover_of_mine_320.ogg|1987452361
+100110107|Better Times|4:22|9.0|/users/storage/beachhouse/audio/better_times_128.ogg|/users/storage/beachhouse/audio/better_times_320.ogg|1478523691
+100110108|10 Mile Stereo|5:02|9.7|/users/storage/beachhouse/audio/10_mile_stereo_128.ogg|/users/storage/beachhouse/audio/10_mile_stereo_320.ogg|2358741963
+100110109|Real Love|4:52|9.4|/users/storage/beachhouse/audio/real_love_128.ogg|/users/storage/beachhouse/audio/real_love_320.ogg|1785496321
+100110110|Take Care|5:26|9.3|/users/storage/beachhouse/audio/take_care_128.ogg|/users/storage/beachhouse/audio/take_care_320.ogg|1658974231
+100110201|Myth|4:18|9.7|/users/storage/beachhouse/audio/myth_128.ogg|/users/storage/beachhouse/audio/myth_320.ogg|2547896321
+100110202|Wild|4:54|9.5|/users/storage/beachhouse/audio/wild_128.ogg|/users/storage/beachhouse/audio/wild_320.ogg|2147896531
+100110203|Lazuli|5:00|9.4|/users/storage/beachhouse/audio/lazuli_128.ogg|/users/storage/beachhouse/audio/lazuli_320.ogg|1987456321
+100110204|Other People|4:33|9.2|/users/storage/beachhouse/audio/other_people_128.ogg|/users/storage/beachhouse/audio/other_people_320.ogg|1658974231
+100110205|The Hours|4:01|9.1|/users/storage/beachhouse/audio/the_hours_128.ogg|/users/storage/beachhouse/audio/the_hours_320.ogg|1478963251
+100110206|Troublemaker|3:38|9.3|/users/storage/beachhouse/audio/troublemaker_128.ogg|/users/storage/beachhouse/audio/troublemaker_320.ogg|1785496321
+100110207|New Year|5:35|9.6|/users/storage/beachhouse/audio/new_year_128.ogg|/users/storage/beachhouse/audio/new_year_320.ogg|2147896531
+100110208|Wishes|5:19|9.4|/users/storage/beachhouse/audio/wishes_128.ogg|/users/storage/beachhouse/audio/wishes_320.ogg|1987456321
+100110209|On the Sea|5:16|9.2|/users/storage/beachhouse/audio/on_the_sea_128.ogg|/users/storage/beachhouse/audio/on_the_sea_320.ogg|1658974231
+100110210|Irene|5:50|9.5|/users/storage/beachhouse/audio/irene_128.ogg|/users/storage/beachhouse/audio/irene_320.ogg|2014789632
+100110301|Levitation|4:04|9.6|/users/storage/beachhouse/audio/levitation_128.ogg|/users/storage/beachhouse/audio/levitation_320.ogg|2258741963
+100110302|Sparks|4:40|9.4|/users/storage/beachhouse/audio/sparks_128.ogg|/users/storage/beachhouse/audio/sparks_320.ogg|1987456321
+100110303|Space Song|5:19|9.8|/users/storage/beachhouse/audio/space_song_128.ogg|/users/storage/beachhouse/audio/space_song_320.ogg|2987456321
+100110304|Beyond Love|3:37|9.1|/users/storage/beachhouse/audio/beyond_love_128.ogg|/users/storage/beachhouse/audio/beyond_love_320.ogg|1478963251
+100110305|10:37|4:44|9.3|/users/storage/beachhouse/audio/10_37_128.ogg|/users/storage/beachhouse/audio/10_37_320.ogg|1785496321
+100110306|PPP|5:33|9.5|/users/storage/beachhouse/audio/ppp_128.ogg|/users/storage/beachhouse/audio/ppp_320.ogg|2147896531
+100110307|Wildflower|3:51|9.2|/users/storage/beachhouse/audio/wildflower_128.ogg|/users/storage/beachhouse/audio/wildflower_320.ogg|1658974231
+100110308|Bluebird|4:10|9.0|/users/storage/beachhouse/audio/bluebird_128.ogg|/users/storage/beachhouse/audio/bluebird_320.ogg|1478523691
+100110309|Days of Candy|4:32|9.4|/users/storage/beachhouse/audio/days_of_candy_128.ogg|/users/storage/beachhouse/audio/days_of_candy_320.ogg|1987456321
+100110401|Dark Spring|3:27|9.3|/users/storage/beachhouse/audio/dark_spring_128.ogg|/users/storage/beachhouse/audio/dark_spring_320.ogg|1785496321
+100110402|Pay No Mind|4:03|9.2|/users/storage/beachhouse/audio/pay_no_mind_128.ogg|/users/storage/beachhouse/audio/pay_no_mind_320.ogg|1658974231
+100110403|Lemon Glow|3:47|9.5|/users/storage/beachhouse/audio/lemon_glow_128.ogg|/users/storage/beachhouse/audio/lemon_glow_320.ogg|2147896531
+100110404|L'Inconnue|3:39|9.1|/users/storage/beachhouse/audio/linconnue_128.ogg|/users/storage/beachhouse/audio/linconnue_320.ogg|1478963251
+100110405|Drunk in LA|5:09|9.4|/users/storage/beachhouse/audio/drunk_in_la_128.ogg|/users/storage/beachhouse/audio/drunk_in_la_320.ogg|1987456321
+100110406|Dive|5:04|9.3|/users/storage/beachhouse/audio/dive_128.ogg|/users/storage/beachhouse/audio/dive_320.ogg|1785496321
+100110407|Black Car|4:13|9.6|/users/storage/beachhouse/audio/black_car_128.ogg|/users/storage/beachhouse/audio/black_car_320.ogg|2258741963
+100110408|Lose Your Smile|5:02|9.2|/users/storage/beachhouse/audio/lose_your_smile_128.ogg|/users/storage/beachhouse/audio/lose_your_smile_320.ogg|1658974231
+100110409|Woo|3:36|9.0|/users/storage/beachhouse/audio/woo_128.ogg|/users/storage/beachhouse/audio/woo_320.ogg|1478523691
+100110410|Girl of the Year|5:10|9.5|/users/storage/beachhouse/audio/girl_of_year_128.ogg|/users/storage/beachhouse/audio/girl_of_year_320.ogg|2014789632
+100110411|Last Ride|6:33|9.7|/users/storage/beachhouse/audio/last_ride_128.ogg|/users/storage/beachhouse/audio/last_ride_320.ogg|2547896321
+100120101|Thousand Eyes|4:04|9.5|/users/storage/fkatwigs/audio/thousand_eyes_128.ogg|/users/storage/fkatwigs/audio/thousand_eyes_320.ogg|1987456321
+100120102|Home with You|3:20|9.4|/users/storage/fkatwigs/audio/home_with_you_128.ogg|/users/storage/fkatwigs/audio/home_with_you_320.ogg|1785496321
+100120103|Sad Day|3:51|9.6|/users/storage/fkatwigs/audio/sad_day_128.ogg|/users/storage/fkatwigs/audio/sad_day_320.ogg|2147896531
+100120104|Holy Terrain|3:16|9.2|/users/storage/fkatwigs/audio/holy_terrain_128.ogg|/users/storage/fkatwigs/audio/holy_terrain_320.ogg|1658974231
+100120105|Mary Magdalene|3:52|9.8|/users/storage/fkatwigs/audio/mary_magdalene_128.ogg|/users/storage/fkatwigs/audio/mary_magdalene_320.ogg|2658974321
+100120106|Fallen Alien|3:49|9.3|/users/storage/fkatwigs/audio/fallen_alien_128.ogg|/users/storage/fkatwigs/audio/fallen_alien_320.ogg|1785496321
+100120107|Mirrored Heart|4:47|9.4|/users/storage/fkatwigs/audio/mirrored_heart_128.ogg|/users/storage/fkatwigs/audio/mirrored_heart_320.ogg|1987456321
+100120108|Daybed|3:32|9.1|/users/storage/fkatwigs/audio/daybed_128.ogg|/users/storage/fkatwigs/audio/daybed_320.ogg|1478963251
+100120109|Cellophane|4:45|9.9|/users/storage/fkatwigs/audio/cellophane_128.ogg|/users/storage/fkatwigs/audio/cellophane_320.ogg|2987456321
+100120201|Preface|0:51|8.9|/users/storage/fkatwigs/audio/preface_128.ogg|/users/storage/fkatwigs/audio/preface_320.ogg|987456321
+100120202|Lights On|4:05|9.3|/users/storage/fkatwigs/audio/lights_on_128.ogg|/users/storage/fkatwigs/audio/lights_on_320.ogg|1785496321
+100120203|Two Weeks|4:06|9.7|/users/storage/fkatwigs/audio/two_weeks_128.ogg|/users/storage/fkatwigs/audio/two_weeks_320.ogg|2458741963
+100120204|Hours|3:42|9.2|/users/storage/fkatwigs/audio/hours_128.ogg|/users/storage/fkatwigs/audio/hours_320.ogg|1658974231
+100120205|Pendulum|5:03|9.5|/users/storage/fkatwigs/audio/pendulum_128.ogg|/users/storage/fkatwigs/audio/pendulum_320.ogg|2014789632
+100120206|Video Girl|4:24|9.1|/users/storage/fkatwigs/audio/video_girl_128.ogg|/users/storage/fkatwigs/audio/video_girl_320.ogg|1478963251
+100120207|Numbers|3:41|9.4|/users/storage/fkatwigs/audio/numbers_128.ogg|/users/storage/fkatwigs/audio/numbers_320.ogg|1785496321
+100120208|Closer|3:48|9.3|/users/storage/fkatwigs/audio/closer_128.ogg|/users/storage/fkatwigs/audio/closer_320.ogg|1658974231
+100120209|Give Up|4:32|9.0|/users/storage/fkatwigs/audio/give_up_128.ogg|/users/storage/fkatwigs/audio/give_up_320.ogg|1478523691
+100120210|Kicks|3:39|9.6|/users/storage/fkatwigs/audio/kicks_128.ogg|/users/storage/fkatwigs/audio/kicks_320.ogg|2147896531
+100120301|ride the dragon|2:39|9.0|/users/storage/fkatwigs/audio/ride_the_dragon_128.ogg|/users/storage/fkatwigs/audio/ride_the_dragon_320.ogg|1478523691
+100120302|honda|2:14|8.8|/users/storage/fkatwigs/audio/honda_128.ogg|/users/storage/fkatwigs/audio/honda_320.ogg|1254789631
+100120303|meta angel|2:39|9.2|/users/storage/fkatwigs/audio/meta_angel_128.ogg|/users/storage/fkatwigs/audio/meta_angel_320.ogg|1658974231
+100120304|tears in the club|3:29|9.4|/users/storage/fkatwigs/audio/tears_in_club_128.ogg|/users/storage/fkatwigs/audio/tears_in_club_320.ogg|1785496321
+100120305|oh my love|2:43|9.1|/users/storage/fkatwigs/audio/oh_my_love_128.ogg|/users/storage/fkatwigs/audio/oh_my_love_320.ogg|1478963251
+100120306|pamplemousse|2:51|8.9|/users/storage/fkatwigs/audio/pamplemousse_128.ogg|/users/storage/fkatwigs/audio/pamplemousse_320.ogg|1254789631
+100120307|caprisongs interlude|1:45|8.7|/users/storage/fkatwigs/audio/caprisongs_interlude_128.ogg|/users/storage/fkatwigs/audio/caprisongs_interlude_320.ogg|987456321
+100120308|lightbeamers|3:18|9.3|/users/storage/fkatwigs/audio/lightbeamers_128.ogg|/users/storage/fkatwigs/audio/lightbeamers_320.ogg|1658974231
+100120309|papi bones|2:04|8.8|/users/storage/fkatwigs/audio/papi_bones_128.ogg|/users/storage/fkatwigs/audio/papi_bones_320.ogg|1147852369
+100120310|which way|2:34|9.0|/users/storage/fkatwigs/audio/which_way_128.ogg|/users/storage/fkatwigs/audio/which_way_320.ogg|1369874521
+100120311|jealousy|3:27|9.2|/users/storage/fkatwigs/audio/jealousy_128.ogg|/users/storage/fkatwigs/audio/jealousy_320.ogg|1658974231
+100120312|carmine|2:48|8.9|/users/storage/fkatwigs/audio/carmine_128.ogg|/users/storage/fkatwigs/audio/carmine_320.ogg|1254789631
+100120313|minds of men|2:35|9.1|/users/storage/fkatwigs/audio/minds_of_men_128.ogg|/users/storage/fkatwigs/audio/minds_of_men_320.ogg|1478523691
+100120314|track girl interlude|1:12|8.6|/users/storage/fkatwigs/audio/track_girl_128.ogg|/users/storage/fkatwigs/audio/track_girl_320.ogg|856741239
+100120315|darjeeling|2:48|9.0|/users/storage/fkatwigs/audio/darjeeling_128.ogg|/users/storage/fkatwigs/audio/darjeeling_320.ogg|1369874521
+100120316|christi interlude|1:35|8.7|/users/storage/fkatwigs/audio/christi_interlude_128.ogg|/users/storage/fkatwigs/audio/christi_interlude_320.ogg|925631478
+100120317|thank you song|2:41|9.2|/users/storage/fkatwigs/audio/thank_you_song_128.ogg|/users/storage/fkatwigs/audio/thank_you_song_320.ogg|1478523691
+100130101|Robot Stop|4:34|9.4|/users/storage/kinggizzard/audio/robot_stop_128.ogg|/users/storage/kinggizzard/audio/robot_stop_320.ogg|1785496321
+100130102|Big Fig Wasp|3:28|9.2|/users/storage/kinggizzard/audio/big_fig_wasp_128.ogg|/users/storage/kinggizzard/audio/big_fig_wasp_320.ogg|1658974231
+100130103|Gamma Knife|3:58|9.5|/users/storage/kinggizzard/audio/gamma_knife_128.ogg|/users/storage/kinggizzard/audio/gamma_knife_320.ogg|2014789632
+100130104|People-Vultures|3:08|9.1|/users/storage/kinggizzard/audio/people_vultures_128.ogg|/users/storage/kinggizzard/audio/people_vultures_320.ogg|1478963251
+100130105|Mr. Beat|4:10|9.3|/users/storage/kinggizzard/audio/mr_beat_128.ogg|/users/storage/kinggizzard/audio/mr_beat_320.ogg|1785496321
+100130106|Evil Death Roll|5:22|9.6|/users/storage/kinggizzard/audio/evil_death_roll_128.ogg|/users/storage/kinggizzard/audio/evil_death_roll_320.ogg|2147896531
+100130107|Invisible Face|4:08|9.2|/users/storage/kinggizzard/audio/invisible_face_128.ogg|/users/storage/kinggizzard/audio/invisible_face_320.ogg|1658974231
+100130108|Wah Wah|3:58|9.0|/users/storage/kinggizzard/audio/wah_wah_128.ogg|/users/storage/kinggizzard/audio/wah_wah_320.ogg|1478523691
+100130109|Road Train|6:49|9.4|/users/storage/kinggizzard/audio/road_train_128.ogg|/users/storage/kinggizzard/audio/road_train_320.ogg|1987456321
+100130201|Crumbling Castle|9:14|9.5|/users/storage/kinggizzard/audio/crumbling_castle_128.ogg|/users/storage/kinggizzard/audio/crumbling_castle_320.ogg|2147896531
+100130202|Polygondwanaland|5:43|9.4|/users/storage/kinggizzard/audio/polygondwanaland_128.ogg|/users/storage/kinggizzard/audio/polygondwanaland_320.ogg|1987456321
+100130203|The Castle in the Air|5:42|9.3|/users/storage/kinggizzard/audio/castle_in_air_128.ogg|/users/storage/kinggizzard/audio/castle_in_air_320.ogg|1785496321
+100130204|Deserted Dunes Welcome Weary Feet|4:38|9.2|/users/storage/kinggizzard/audio/deserted_dunes_128.ogg|/users/storage/kinggizzard/audio/deserted_dunes_320.ogg|1658974231
+100130205|Inner Cell|8:58|9.6|/users/storage/kinggizzard/audio/inner_cell_128.ogg|/users/storage/kinggizzard/audio/inner_cell_320.ogg|2258741963
+100130206|Loyalty|5:50|9.1|/users/storage/kinggizzard/audio/loyalty_128.ogg|/users/storage/kinggizzard/audio/loyalty_320.ogg|1785496321
+100130207|Horology|6:23|9.4|/users/storage/kinggizzard/audio/horology_128.ogg|/users/storage/kinggizzard/audio/horology_320.ogg|1987456321
+100130301|I'm in Your Mind|2:31|9.2|/users/storage/kinggizzard/audio/im_in_your_mind_128.ogg|/users/storage/kinggizzard/audio/im_in_your_mind_320.ogg|1478963251
+100130302|I'm Not in Your Mind|3:05|9.0|/users/storage/kinggizzard/audio/im_not_in_your_mind_128.ogg|/users/storage/kinggizzard/audio/im_not_in_your_mind_320.ogg|1369874521
+100130303|Cellophane|3:44|9.3|/users/storage/kinggizzard/audio/cellophane_kg_128.ogg|/users/storage/kinggizzard/audio/cellophane_kg_320.ogg|1658974231
+100130304|I'm in Your Mind Fuzz|5:00|9.5|/users/storage/kinggizzard/audio/im_in_your_mind_fuzz_128.ogg|/users/storage/kinggizzard/audio/im_in_your_mind_fuzz_320.ogg|1987456321
+100130305|Empty|4:52|9.1|/users/storage/kinggizzard/audio/empty_128.ogg|/users/storage/kinggizzard/audio/empty_320.ogg|1478963251
+100130306|Hot Water|4:53|9.4|/users/storage/kinggizzard/audio/hot_water_128.ogg|/users/storage/kinggizzard/audio/hot_water_320.ogg|1785496321
+100130307|Am I in Heaven?|4:05|9.2|/users/storage/kinggizzard/audio/am_i_in_heaven_128.ogg|/users/storage/kinggizzard/audio/am_i_in_heaven_320.ogg|1658974231
+100130308|Slow Jam 1|4:17|8.9|/users/storage/kinggizzard/audio/slow_jam_1_128.ogg|/users/storage/kinggizzard/audio/slow_jam_1_320.ogg|1369874521
+100130309|Satan Speeds Up|5:08|9.3|/users/storage/kinggizzard/audio/satan_speeds_up_128.ogg|/users/storage/kinggizzard/audio/satan_speeds_up_320.ogg|1785496321
+100130310|Her and I (Slow Jam 2)|4:00|9.0|/users/storage/kinggizzard/audio/her_and_i_128.ogg|/users/storage/kinggizzard/audio/her_and_i_320.ogg|1478523691
+100140101|Geyser|3:56|9.7|/users/storage/mitski/audio/geyser_128.ogg|/users/storage/mitski/audio/geyser_320.ogg|2458741963
+100140102|Why Didn't You Stop Me?|2:54|9.4|/users/storage/mitski/audio/why_didnt_you_128.ogg|/users/storage/mitski/audio/why_didnt_you_320.ogg|1785496321
+100140103|Old Friend|2:38|9.2|/users/storage/mitski/audio/old_friend_128.ogg|/users/storage/mitski/audio/old_friend_320.ogg|1478963251
+100140104|A Pearl|2:42|9.3|/users/storage/mitski/audio/a_pearl_128.ogg|/users/storage/mitski/audio/a_pearl_320.ogg|1658974231
+100140105|Lonesome Love|2:39|9.5|/users/storage/mitski/audio/lonesome_love_128.ogg|/users/storage/mitski/audio/lonesome_love_320.ogg|1987456321
+100140106|Remember My Name|2:26|9.1|/users/storage/mitski/audio/remember_my_name_128.ogg|/users/storage/mitski/audio/remember_my_name_320.ogg|1478963251
+100140107|Me and My Husband|2:32|9.6|/users/storage/mitski/audio/me_and_my_husband_128.ogg|/users/storage/mitski/audio/me_and_my_husband_320.ogg|2258741963
+100140108|Come into the Water|2:47|9.0|/users/storage/mitski/audio/come_into_water_128.ogg|/users/storage/mitski/audio/come_into_water_320.ogg|1369874521
+100140109|Nobody|3:33|9.8|/users/storage/mitski/audio/nobody_128.ogg|/users/storage/mitski/audio/nobody_320.ogg|2789654321
+100140110|Pink in the Night|2:34|9.4|/users/storage/mitski/audio/pink_in_night_128.ogg|/users/storage/mitski/audio/pink_in_night_320.ogg|1785496321
+100140111|A Horse Named Cold Air|2:43|9.2|/users/storage/mitski/audio/horse_named_128.ogg|/users/storage/mitski/audio/horse_named_320.ogg|1658974231
+100140112|Washing Machine Heart|2:08|9.7|/users/storage/mitski/audio/washing_machine_128.ogg|/users/storage/mitski/audio/washing_machine_320.ogg|2547896321
+100140113|Blue Light|2:36|9.3|/users/storage/mitski/audio/blue_light_128.ogg|/users/storage/mitski/audio/blue_light_320.ogg|1785496321
+100140114|Two Slow Dancers|3:41|9.9|/users/storage/mitski/audio/two_slow_dancers_128.ogg|/users/storage/mitski/audio/two_slow_dancers_320.ogg|2658974321
+100140201|Happy|3:16|9.4|/users/storage/mitski/audio/happy_128.ogg|/users/storage/mitski/audio/happy_320.ogg|1785496321
+100140202|Your Best American Girl|3:35|9.8|/users/storage/mitski/audio/your_best_american_128.ogg|/users/storage/mitski/audio/your_best_american_320.ogg|2789654321
+100140203|Fireworks|2:17|9.2|/users/storage/mitski/audio/fireworks_128.ogg|/users/storage/mitski/audio/fireworks_320.ogg|1478963251
+100140204|Thursday Girl|2:57|9.1|/users/storage/mitski/audio/thursday_girl_128.ogg|/users/storage/mitski/audio/thursday_girl_320.ogg|1369874521
+100140205|A Burning Hill|2:01|9.5|/users/storage/mitski/audio/a_burning_hill_128.ogg|/users/storage/mitski/audio/a_burning_hill_320.ogg|1987456321
+100140206|Once More to See You|2:22|9.3|/users/storage/mitski/audio/once_more_128.ogg|/users/storage/mitski/audio/once_more_320.ogg|1658974231
+100140207|Crack Baby|3:02|8.9|/users/storage/mitski/audio/crack_baby_128.ogg|/users/storage/mitski/audio/crack_baby_320.ogg|1254789631
+100140208|My Body's Made of Crushed Little Stars|3:00|9.4|/users/storage/mitski/audio/my_bodys_made_128.ogg|/users/storage/mitski/audio/my_bodys_made_320.ogg|1785496321
+100140209|A Loving Feeling|2:39|9.2|/users/storage/mitski/audio/a_loving_feeling_128.ogg|/users/storage/mitski/audio/a_loving_feeling_320.ogg|1658974231
+100140210|I Don't Smoke|2:35|9.0|/users/storage/mitski/audio/i_dont_smoke_128.ogg|/users/storage/mitski/audio/i_dont_smoke_320.ogg|1478523691
+100140211|I Bet on Losing Dogs|2:46|9.7|/users/storage/mitski/audio/i_bet_on_losing_128.ogg|/users/storage/mitski/audio/i_bet_on_losing_320.ogg|2458741963
+100140301|Everyone|3:28|9.5|/users/storage/mitski/audio/everyone_128.ogg|/users/storage/mitski/audio/everyone_320.ogg|1987456321
+100140302|Buffalo Replaced|3:14|9.3|/users/storage/mitski/audio/buffalo_replaced_128.ogg|/users/storage/mitski/audio/buffalo_replaced_320.ogg|1658974231
+100140303|Heaven|2:31|9.2|/users/storage/mitski/audio/heaven_128.ogg|/users/storage/mitski/audio/heaven_320.ogg|1478963251
+100140304|I Don't Like My Mind|2:37|9.4|/users/storage/mitski/audio/i_dont_like_my_mind_128.ogg|/users/storage/mitski/audio/i_dont_like_my_mind_320.ogg|1785496321
+100140305|The Deal|3:01|9.1|/users/storage/mitski/audio/the_deal_128.ogg|/users/storage/mitski/audio/the_deal_320.ogg|1478523691
+100140306|When Memories Snow|3:01|9.3|/users/storage/mitski/audio/when_memories_snow_128.ogg|/users/storage/mitski/audio/when_memories_snow_320.ogg|1658974231
+100140307|My Love Mine All Mine|2:17|9.9|/users/storage/mitski/audio/my_love_mine_128.ogg|/users/storage/mitski/audio/my_love_mine_320.ogg|2987456321
+100140308|The Frost|3:19|9.2|/users/storage/mitski/audio/the_frost_128.ogg|/users/storage/mitski/audio/the_frost_320.ogg|1658974231
+100140309|Star|2:48|9.4|/users/storage/mitski/audio/star_128.ogg|/users/storage/mitski/audio/star_320.ogg|1785496321
+100140310|I'm Your Man|2:49|9.6|/users/storage/mitski/audio/im_your_man_128.ogg|/users/storage/mitski/audio/im_your_man_320.ogg|2147896531
+100140311|I Love Me After You|3:34|9.3|/users/storage/mitski/audio/i_love_me_after_you_128.ogg|/users/storage/mitski/audio/i_love_me_after_you_320.ogg|1785496321
+100150101|K.|4:29|9.3|/users/storage/cigarettesaftersex/audio/k_128.ogg|/users/storage/cigarettesaftersex/audio/k_320.ogg|1785496321
+100150102|Each Time You Fall in Love|4:21|9.5|/users/storage/cigarettesaftersex/audio/each_time_128.ogg|/users/storage/cigarettesaftersex/audio/each_time_320.ogg|1987456321
+100150103|Sunsetz|5:03|9.4|/users/storage/cigarettesaftersex/audio/sunsetz_128.ogg|/users/storage/cigarettesaftersex/audio/sunsetz_320.ogg|1785496321
+100150104|Apocalypse|5:08|9.8|/users/storage/cigarettesaftersex/audio/apocalypse_128.ogg|/users/storage/cigarettesaftersex/audio/apocalypse_320.ogg|2987456321
+100150105|Flash|4:08|9.1|/users/storage/cigarettesaftersex/audio/flash_128.ogg|/users/storage/cigarettesaftersex/audio/flash_320.ogg|1478963251
+100150106|Sweet|4:22|9.3|/users/storage/cigarettesaftersex/audio/sweet_128.ogg|/users/storage/cigarettesaftersex/audio/sweet_320.ogg|1785496321
+100150107|Affection|5:31|9.2|/users/storage/cigarettesaftersex/audio/affection_128.ogg|/users/storage/cigarettesaftersex/audio/affection_320.ogg|1658974231
+100150108|Keep On Loving You|4:40|9.4|/users/storage/cigarettesaftersex/audio/keep_on_loving_128.ogg|/users/storage/cigarettesaftersex/audio/keep_on_loving_320.ogg|1785496321
+100150109|Young & Dumb|4:30|9.0|/users/storage/cigarettesaftersex/audio/young_and_dumb_128.ogg|/users/storage/cigarettesaftersex/audio/young_and_dumb_320.ogg|1478523691
+100150110|Truly|5:31|9.3|/users/storage/cigarettesaftersex/audio/truly_128.ogg|/users/storage/cigarettesaftersex/audio/truly_320.ogg|1785496321
+100150111|Nothing's Gonna Hurt You Baby|6:49|9.6|/users/storage/cigarettesaftersex/audio/nothings_gonna_128.ogg|/users/storage/cigarettesaftersex/audio/nothings_gonna_320.ogg|2258741963
+100150201|Don't Let Me Go|5:01|9.2|/users/storage/cigarettesaftersex/audio/dont_let_me_go_128.ogg|/users/storage/cigarettesaftersex/audio/dont_let_me_go_320.ogg|1658974231
+100150202|Falling in Love|4:54|9.4|/users/storage/cigarettesaftersex/audio/falling_in_love_128.ogg|/users/storage/cigarettesaftersex/audio/falling_in_love_320.ogg|1785496321
+100150203|Cry|5:12|9.6|/users/storage/cigarettesaftersex/audio/cry_128.ogg|/users/storage/cigarettesaftersex/audio/cry_320.ogg|2147896531
+100150204|Heavenly|5:33|9.3|/users/storage/cigarettesaftersex/audio/heavenly_128.ogg|/users/storage/cigarettesaftersex/audio/heavenly_320.ogg|1785496321
+100150205|You're the Only Good Thing in My Life|4:48|9.5|/users/storage/cigarettesaftersex/audio/youre_the_only_128.ogg|/users/storage/cigarettesaftersex/audio/youre_the_only_320.ogg|1987456321
+100150206|Touch|5:07|9.2|/users/storage/cigarettesaftersex/audio/touch_128.ogg|/users/storage/cigarettesaftersex/audio/touch_320.ogg|1658974231
+100150207|Hentai|4:27|9.1|/users/storage/cigarettesaftersex/audio/hentai_128.ogg|/users/storage/cigarettesaftersex/audio/hentai_320.ogg|1478963251
+100150208|Pure|4:52|9.4|/users/storage/cigarettesaftersex/audio/pure_128.ogg|/users/storage/cigarettesaftersex/audio/pure_320.ogg|1785496321
+100150209|Smile|5:18|9.0|/users/storage/cigarettesaftersex/audio/smile_128.ogg|/users/storage/cigarettesaftersex/audio/smile_320.ogg|1478523691
+100150210|Crush|5:21|9.3|/users/storage/cigarettesaftersex/audio/crush_128.ogg|/users/storage/cigarettesaftersex/audio/crush_320.ogg|1785496321
+100150301|X's|4:12|9.2|/users/storage/cigarettesaftersex/audio/xs_128.ogg|/users/storage/cigarettesaftersex/audio/xs_320.ogg|1658974231
+100150302|Tejano Blue|4:48|9.4|/users/storage/cigarettesaftersex/audio/tejano_blue_128.ogg|/users/storage/cigarettesaftersex/audio/tejano_blue_320.ogg|1785496321
+100150303|Hot|3:36|9.1|/users/storage/cigarettesaftersex/audio/hot_128.ogg|/users/storage/cigarettesaftersex/audio/hot_320.ogg|1478963251
+100150304|Dreams from Bunker Hill|4:21|9.3|/users/storage/cigarettesaftersex/audio/dreams_bunker_128.ogg|/users/storage/cigarettesaftersex/audio/dreams_bunker_320.ogg|1658974231
+100150305|Ambien Slide|3:58|9.0|/users/storage/cigarettesaftersex/audio/ambien_slide_128.ogg|/users/storage/cigarettesaftersex/audio/ambien_slide_320.ogg|1478523691
+100150306|Baby Blue Movie|3:44|8.9|/users/storage/cigarettesaftersex/audio/baby_blue_movie_128.ogg|/users/storage/cigarettesaftersex/audio/baby_blue_movie_320.ogg|1254789631
+100150307|Holding You, Holding Me|3:52|9.2|/users/storage/cigarettesaftersex/audio/holding_you_128.ogg|/users/storage/cigarettesaftersex/audio/holding_you_320.ogg|1658974231
+100150308|Dark Vacay|4:15|9.1|/users/storage/cigarettesaftersex/audio/dark_vacay_128.ogg|/users/storage/cigarettesaftersex/audio/dark_vacay_320.ogg|1478963251
+100150309|Away from You|4:19|9.3|/users/storage/cigarettesaftersex/audio/away_from_you_128.ogg|/users/storage/cigarettesaftersex/audio/away_from_you_320.ogg|1785496321
+100160101|Paprika|3:33|9.4|/users/storage/japanesebreakfast/audio/paprika_128.ogg|/users/storage/japanesebreakfast/audio/paprika_320.ogg|1785496321
+100160102|Be Sweet|3:41|9.7|/users/storage/japanesebreakfast/audio/be_sweet_128.ogg|/users/storage/japanesebreakfast/audio/be_sweet_320.ogg|258741963
+100160103|Kokomo, IN|4:01|9.2|/users/storage/japanesebreakfast/audio/kokomo_in_128.ogg|/users/storage/japanesebreakfast/audio/kokomo_in_320.ogg|1658974231
+100160104|Slide Tackle|3:17|9.1|/users/storage/japanesebreakfast/audio/slide_tackle_128.ogg|/users/storage/japanesebreakfast/audio/slide_tackle_320.ogg|1478963251
+100160105|Posing in Bondage|3:28|9.3|/users/storage/japanesebreakfast/audio/posing_bondage_128.ogg|/users/storage/japanesebreakfast/audio/posing_bondage_320.ogg|1658974231
+100160106|Sit|2:41|8.9|/users/storage/japanesebreakfast/audio/sit_128.ogg|/users/storage/japanesebreakfast/audio/sit_320.ogg|1254789631
+100160107|Savage Good Boy|4:18|9.4|/users/storage/japanesebreakfast/audio/savage_good_boy_128.ogg|/users/storage/japanesebreakfast/audio/savage_good_boy_320.ogg|1785496321
+100160108|In Hell|3:47|9.5|/users/storage/japanesebreakfast/audio/in_hell_128.ogg|/users/storage/japanesebreakfast/audio/in_hell_320.ogg|1987456321
+100160109|Tactics|3:12|9.0|/users/storage/japanesebreakfast/audio/tactics_128.ogg|/users/storage/japanesebreakfast/audio/tactics_320.ogg|1478523691
+100160110|Posing for Cars|3:31|9.2|/users/storage/japanesebreakfast/audio/posing_for_cars_128.ogg|/users/storage/japanesebreakfast/audio/posing_for_cars_320.ogg|1658974231
+100160201|Diving Woman|3:44|9.3|/users/storage/japanesebreakfast/audio/diving_woman_128.ogg|/users/storage/japanesebreakfast/audio/diving_woman_320.ogg|1785496321
+100160202|Road Head|3:26|9.1|/users/storage/japanesebreakfast/audio/road_head_128.ogg|/users/storage/japanesebreakfast/audio/road_head_320.ogg|1478963251
+100160203|Boyish|3:31|9.4|/users/storage/japanesebreakfast/audio/boyish_128.ogg|/users/storage/japanesebreakfast/audio/boyish_320.ogg|1785496321
+100160204|12 Steps|3:48|9.2|/users/storage/japanesebreakfast/audio/12_steps_128.ogg|/users/storage/japanesebreakfast/audio/12_steps_320.ogg|1658974231
+100160205|The Body Is a Blade|4:02|9.5|/users/storage/japanesebreakfast/audio/body_is_blade_128.ogg|/users/storage/japanesebreakfast/audio/body_is_blade_320.ogg|1987456321
+100160206|Till Death|2:54|9.0|/users/storage/japanesebreakfast/audio/till_death_128.ogg|/users/storage/japanesebreakfast/audio/till_death_320.ogg|1478523691
+100160207|Machinist|3:12|9.1|/users/storage/japanesebreakfast/audio/machinist_128.ogg|/users/storage/japanesebreakfast/audio/machinist_320.ogg|1478963251
+100160208|Here Come the Tubular Bells|3:08|8.8|/users/storage/japanesebreakfast/audio/tubular_bells_128.ogg|/users/storage/japanesebreakfast/audio/tubular_bells_320.ogg|1254789631
+100160209|Soft Sounds from Another Planet|3:18|9.3|/users/storage/japanesebreakfast/audio/soft_sounds_128.ogg|/users/storage/japanesebreakfast/audio/soft_sounds_320.ogg|1658974231
+100160210|Jimmy Fallon Big!|3:26|9.2|/users/storage/japanesebreakfast/audio/jimmy_fallon_128.ogg|/users/storage/japanesebreakfast/audio/jimmy_fallon_320.ogg|1658974231
+100160301|In Heaven|2:57|9.2|/users/storage/japanesebreakfast/audio/in_heaven_128.ogg|/users/storage/japanesebreakfast/audio/in_heaven_320.ogg|1478963251
+100160302|The Woman That Loves You|3:28|9.4|/users/storage/japanesebreakfast/audio/woman_loves_you_128.ogg|/users/storage/japanesebreakfast/audio/woman_loves_you_320.ogg|1785496321
+100160303|Road Head|2:54|9.1|/users/storage/japanesebreakfast/audio/road_head_pp_128.ogg|/users/storage/japanesebreakfast/audio/road_head_pp_320.ogg|1478963251
+100160304|Rugged Country|3:15|9.0|/users/storage/japanesebreakfast/audio/rugged_country_128.ogg|/users/storage/japanesebreakfast/audio/rugged_country_320.ogg|1369874521
+100160305|Jane Cum|2:38|8.9|/users/storage/japanesebreakfast/audio/jane_cum_128.ogg|/users/storage/japanesebreakfast/audio/jane_cum_320.ogg|1254789631
+100160306|Heft|2:45|9.2|/users/storage/japanesebreakfast/audio/heft_128.ogg|/users/storage/japanesebreakfast/audio/heft_320.ogg|1478963251
+100160307|Everybody Wants to Love You|2:37|9.3|/users/storage/japanesebreakfast/audio/everybody_wants_128.ogg|/users/storage/japanesebreakfast/audio/everybody_wants_320.ogg|1658974231
+100160308|The Moon|2:51|9.1|/users/storage/japanesebreakfast/audio/the_moon_128.ogg|/users/storage/japanesebreakfast/audio/the_moon_320.ogg|1478963251
+100160309|Psychopomp|3:26|9.4|/users/storage/japanesebreakfast/audio/psychopomp_128.ogg|/users/storage/japanesebreakfast/audio/psychopomp_320.ogg|1785496321
+100160310|Triple 7|3:35|9.2|/users/storage/japanesebreakfast/audio/triple_7_128.ogg|/users/storage/japanesebreakfast/audio/triple_7_320.ogg|1658974231
+100170101|In Undertow|4:03|9.5|/users/storage/alvvays/audio/in_undertow_128.ogg|/users/storage/alvvays/audio/in_undertow_320.ogg|1987456321
+100170102|Dreams Tonite|3:58|9.6|/users/storage/alvvays/audio/dreams_tonite_128.ogg|/users/storage/alvvays/audio/dreams_tonite_320.ogg|247896531
+100170103|Plimsoll Punks|2:58|9.3|/users/storage/alvvays/audio/plimsoll_punks_128.ogg|/users/storage/alvvays/audio/plimsoll_punks_320.ogg|1658974231
+100170104|Your Type|3:29|9.4|/users/storage/alvvays/audio/your_type_128.ogg|/users/storage/alvvays/audio/your_type_320.ogg|1785496321
+100170105|Not My Baby|3:25|9.2|/users/storage/alvvays/audio/not_my_baby_128.ogg|/users/storage/alvvays/audio/not_my_baby_320.ogg|1658974231
+100170106|Hey|3:45|9.1|/users/storage/alvvays/audio/hey_128.ogg|/users/storage/alvvays/audio/hey_320.ogg|1478963251
+100170107|Lollipop (Ode to Jim)|3:12|9.3|/users/storage/alvvays/audio/lollipop_128.ogg|/users/storage/alvvays/audio/lollipop_320.ogg|1658974231
+100170108|Already Gone|3:14|9.0|/users/storage/alvvays/audio/already_gone_128.ogg|/users/storage/alvvays/audio/already_gone_320.ogg|1478523691
+100170109|Saved by a Waif|2:51|9.2|/users/storage/alvvays/audio/saved_by_waif_128.ogg|/users/storage/alvvays/audio/saved_by_waif_320.ogg|1478963251
+100170110|Forget About Life|3:24|9.4|/users/storage/alvvays/audio/forget_about_life_128.ogg|/users/storage/alvvays/audio/forget_about_life_320.ogg|1785496321
+100170201|Pharmacist|3:47|9.5|/users/storage/alvvays/audio/pharmacist_128.ogg|/users/storage/alvvays/audio/pharmacist_320.ogg|1987456321
+100170202|Easy on Your Own?|4:12|9.6|/users/storage/alvvays/audio/easy_on_your_own_128.ogg|/users/storage/alvvays/audio/easy_on_your_own_320.ogg|217896531
+100170203|After the Earthquake|3:35|9.3|/users/storage/alvvays/audio/after_earthquake_128.ogg|/users/storage/alvvays/audio/after_earthquake_320.ogg|1785496321
+100170204|Tom Verlaine|3:09|9.2|/users/storage/alvvays/audio/tom_verlaine_128.ogg|/users/storage/alvvays/audio/tom_verlaine_320.ogg|1478963251
+100170205|Pressed|3:24|9.4|/users/storage/alvvays/audio/pressed_128.ogg|/users/storage/alvvays/audio/pressed_320.ogg|1785496321
+100170206|Many Mirrors|3:53|9.1|/users/storage/alvvays/audio/many_mirrors_128.ogg|/users/storage/alvvays/audio/many_mirrors_320.ogg|1658974231
+100170207|Very Online Guy|3:18|9.3|/users/storage/alvvays/audio/very_online_guy_128.ogg|/users/storage/alvvays/audio/very_online_guy_320.ogg|1658974231
+100170208|Tile by Tile|3:37|9.0|/users/storage/alvvays/audio/tile_by_tile_128.ogg|/users/storage/alvvays/audio/tile_by_tile_320.ogg|1478523691
+100170209|Pomeranian Spinster|3:42|9.2|/users/storage/alvvays/audio/pomeranian_spinster_128.ogg|/users/storage/alvvays/audio/pomeranian_spinster_320.ogg|1658974231
+100170210|Belinda Says|4:17|9.4|/users/storage/alvvays/audio/belinda_says_128.ogg|/users/storage/alvvays/audio/belinda_says_320.ogg|1785496321
+100170211|Bored in Heaven|4:00|9.5|/users/storage/alvvays/audio/bored_in_heaven_128.ogg|/users/storage/alvvays/audio/bored_in_heaven_320.ogg|1987456321
+100170301|Adult Diversion|3:15|9.4|/users/storage/alvvays/audio/adult_diversion_128.ogg|/users/storage/alvvays/audio/adult_diversion_320.ogg|1785496321
+100170302|Archie, Marry Me|2:59|9.7|/users/storage/alvvays/audio/archie_marry_me_128.ogg|/users/storage/alvvays/audio/archie_marry_me_320.ogg|248741963
+100170303|Ones Who Love You|3:37|9.2|/users/storage/alvvays/audio/ones_who_love_128.ogg|/users/storage/alvvays/audio/ones_who_love_320.ogg|1658974231
+100170304|Next of Kin|3:23|9.3|/users/storage/alvvays/audio/next_of_kin_128.ogg|/users/storage/alvvays/audio/next_of_kin_320.ogg|1785496321
+100170305|Party Police|2:47|9.1|/users/storage/alvvays/audio/party_police_128.ogg|/users/storage/alvvays/audio/party_police_320.ogg|1478963251
+100170306|The Agency Group|2:35|9.0|/users/storage/alvvays/audio/agency_group_128.ogg|/users/storage/alvvays/audio/agency_group_320.ogg|1369874521
+100170307|Dives|2:51|9.2|/users/storage/alvvays/audio/dives_128.ogg|/users/storage/alvvays/audio/dives_320.ogg|1478963251
+100170308|Atop a Cake|3:24|9.4|/users/storage/alvvays/audio/atop_a_cake_128.ogg|/users/storage/alvvays/audio/atop_a_cake_320.ogg|1785496321
+100170309|Red Planet|3:48|9.3|/users/storage/alvvays/audio/red_planet_128.ogg|/users/storage/alvvays/audio/red_planet_320.ogg|1785496321
+100180101|Big|5:02|9.6|/users/storage/fontainesdc/audio/big_128.ogg|/users/storage/fontainesdc/audio/big_320.ogg|217896531
+100180102|How Cold Love Is|4:38|9.4|/users/storage/fontainesdc/audio/how_cold_love_128.ogg|/users/storage/fontainesdc/audio/how_cold_love_320.ogg|1785496321
+100180103|I Love You|5:23|9.7|/users/storage/fontainesdc/audio/i_love_you_128.ogg|/users/storage/fontainesdc/audio/i_love_you_320.ogg|248741963
+100180104|Jackie Down the Line|4:08|9.3|/users/storage/fontainesdc/audio/jackie_down_128.ogg|/users/storage/fontainesdc/audio/jackie_down_320.ogg|1785496321
+100180105|Bloomsday|4:09|9.2|/users/storage/fontainesdc/audio/bloomsday_128.ogg|/users/storage/fontainesdc/audio/bloomsday_320.ogg|1658974231
+100180106|In ár gCroíthe go deo|3:27|9.5|/users/storage/fontainesdc/audio/in_ar_gcroithe_128.ogg|/users/storage/fontainesdc/audio/in_ar_gcroithe_320.ogg|1987456321
+100180107|The Couple Across the Way|4:18|9.1|/users/storage/fontainesdc/audio/couple_across_128.ogg|/users/storage/fontainesdc/audio/couple_across_320.ogg|1478963251
+100180108|Skinty Fia|4:58|9.4|/users/storage/fontainesdc/audio/skinty_fia_128.ogg|/users/storage/fontainesdc/audio/skinty_fia_320.ogg|1987456321
+100180109|Roman Holiday|4:04|9.3|/users/storage/fontainesdc/audio/roman_holiday_128.ogg|/users/storage/fontainesdc/audio/roman_holiday_320.ogg|1785496321
+100180110|The Couple Across the Way|5:15|9.2|/users/storage/fontainesdc/audio/nabokov_128.ogg|/users/storage/fontainesdc/audio/nabokov_320.ogg|1658974231
+100180201|I Don't Belong|3:42|9.4|/users/storage/fontainesdc/audio/i_dont_belong_128.ogg|/users/storage/fontainesdc/audio/i_dont_belong_320.ogg|1785496321
+100180202|Love Is the Main Thing|4:21|9.3|/users/storage/fontainesdc/audio/love_is_main_128.ogg|/users/storage/fontainesdc/audio/love_is_main_320.ogg|1785496321
+100180203|Televised Mind|3:56|9.5|/users/storage/fontainesdc/audio/televised_mind_128.ogg|/users/storage/fontainesdc/audio/televised_mind_320.ogg|1987456321
+100180204|A Lucid Dream|4:44|9.2|/users/storage/fontainesdc/audio/a_lucid_dream_128.ogg|/users/storage/fontainesdc/audio/a_lucid_dream_320.ogg|1658974231
+100180205|You Said|4:18|9.4|/users/storage/fontainesdc/audio/you_said_128.ogg|/users/storage/fontainesdc/audio/you_said_320.ogg|1785496321
+100180206|Oh Such a Spring|5:11|9.6|/users/storage/fontainesdc/audio/oh_such_spring_128.ogg|/users/storage/fontainesdc/audio/oh_such_spring_320.ogg|217896531
+100180207|Sunny|4:37|9.1|/users/storage/fontainesdc/audio/sunny_128.ogg|/users/storage/fontainesdc/audio/sunny_320.ogg|1478963251
+100180208|A Hero's Death|4:22|9.7|/users/storage/fontainesdc/audio/a_heros_death_128.ogg|/users/storage/fontainesdc/audio/a_heros_death_320.ogg|2458741963
+100180209|Living in America|4:44|9.3|/users/storage/fontainesdc/audio/living_in_america_128.ogg|/users/storage/fontainesdc/audio/living_in_america_320.ogg|1785496321
+100180210|I Was Not Born|4:55|9.4|/users/storage/fontainesdc/audio/i_was_not_born_128.ogg|/users/storage/fontainesdc/audio/i_was_not_born_320.ogg|1987456321
+100180211|No|3:22|9.2|/users/storage/fontainesdc/audio/no_128.ogg|/users/storage/fontainesdc/audio/no_320.ogg|1658974231
+100180301|Big|5:02|9.5|/users/storage/fontainesdc/audio/big_dogrel_128.ogg|/users/storage/fontainesdc/audio/big_dogrel_320.ogg|2014789632
+100180302|Sha Sha Sha|3:39|9.7|/users/storage/fontainesdc/audio/sha_sha_sha_128.ogg|/users/storage/fontainesdc/audio/sha_sha_sha_320.ogg|2458741963
+100180303|Too Real|3:55|9.4|/users/storage/fontainesdc/audio/too_real_128.ogg|/users/storage/fontainesdc/audio/too_real_320.ogg|1785496321
+100180304|Television Screens|3:40|9.2|/users/storage/fontainesdc/audio/television_screens_128.ogg|/users/storage/fontainesdc/audio/television_screens_320.ogg|1658974231
+100180305|Hurricane Laughter|2:12|9.1|/users/storage/fontainesdc/audio/hurricane_laughter_128.ogg|/users/storage/fontainesdc/audio/hurricane_laughter_320.ogg|1478963251
+100180306|Roy's Tune|3:48|9.3|/users/storage/fontainesdc/audio/roys_tune_128.ogg|/users/storage/fontainesdc/audio/roys_tune_320.ogg|1785496321
+100180307|The Lotts|3:08|9.0|/users/storage/fontainesdc/audio/the_lotts_128.ogg|/users/storage/fontainesdc/audio/the_lotts_320.ogg|1478523691
+100180308|Chequeless Reckless|2:50|9.2|/users/storage/fontainesdc/audio/chequeless_reckless_128.ogg|/users/storage/fontainesdc/audio/chequeless_reckless_320.ogg|1478963251
+100180309|Liberty Belle|3:26|9.4|/users/storage/fontainesdc/audio/liberty_belle_128.ogg|/users/storage/fontainesdc/audio/liberty_belle_320.ogg|1785496321
+100180310|Boys in the Better Land|4:37|9.6|/users/storage/fontainesdc/audio/boys_in_better_128.ogg|/users/storage/fontainesdc/audio/boys_in_better_320.ogg|2147896531
+100180311|Dublin City Sky|5:05|9.5|/users/storage/fontainesdc/audio/dublin_city_sky_128.ogg|/users/storage/fontainesdc/audio/dublin_city_sky_320.ogg|2014789632
+100190101|Elevator Operator|3:42|9.4|/users/storage/courtneybarnett/audio/elevator_operator_128.ogg|/users/storage/courtneybarnett/audio/elevator_operator_320.ogg|1785496321
+100190102|Pedestrian at Best|3:29|9.7|/users/storage/courtneybarnett/audio/pedestrian_best_128.ogg|/users/storage/courtneybarnett/audio/pedestrian_best_320.ogg|248741963
+100190103|An Illustration of Loneliness|3:45|9.3|/users/storage/courtneybarnett/audio/illustration_loneliness_128.ogg|/users/storage/courtneybarnett/audio/illustration_loneliness_320.ogg|1785496321
+100190104|Small Poppies|4:38|9.5|/users/storage/courtneybarnett/audio/small_poppies_128.ogg|/users/storage/courtneybarnett/audio/small_poppies_320.ogg|1987456321
+100190105|Depreston|5:31|9.8|/users/storage/courtneybarnett/audio/depreston_128.ogg|/users/storage/courtneybarnett/audio/depreston_320.ogg|289654321
+100190106|Aqua Profunda!|3:38|9.1|/users/storage/courtneybarnett/audio/aqua_profunda_128.ogg|/users/storage/courtneybarnett/audio/aqua_profunda_320.ogg|1478963251
+100190107|Dead Fox|4:03|9.2|/users/storage/courtneybarnett/audio/dead_fox_128.ogg|/users/storage/courtneybarnett/audio/dead_fox_320.ogg|1658974231
+100190108|Nobody Really Cares If You Don't Go|3:47|9.4|/users/storage/courtneybarnett/audio/nobody_cares_128.ogg|/users/storage/courtneybarnett/audio/nobody_cares_320.ogg|1785496321
+100190109|Debbie Downer|4:12|9.0|/users/storage/courtneybarnett/audio/debbie_downer_128.ogg|/users/storage/courtneybarnett/audio/debbie_downer_320.ogg|1478523691
+100190110|Kim's Caravan|3:54|9.3|/users/storage/courtneybarnett/audio/kims_caravan_128.ogg|/users/storage/courtneybarnett/audio/kims_caravan_320.ogg|1785496321
+100190111|Boxing Day Blues|4:36|9.5|/users/storage/courtneybarnett/audio/boxing_day_blues_128.ogg|/users/storage/courtneybarnett/audio/boxing_day_blues_320.ogg|1987456321
+100190201|Hopefulessness|4:03|9.3|/users/storage/courtneybarnett/audio/hopefulessness_128.ogg|/users/storage/courtneybarnett/audio/hopefulessness_320.ogg|1785496321
+100190202|City Looks Pretty|3:52|9.5|/users/storage/courtneybarnett/audio/city_looks_pretty_128.ogg|/users/storage/courtneybarnett/audio/city_looks_pretty_320.ogg|1987456321
+100190203|Charity|3:37|9.1|/users/storage/courtneybarnett/audio/charity_128.ogg|/users/storage/courtneybarnett/audio/charity_320.ogg|1478963251
+100190204|Need a Little Time|4:48|9.4|/users/storage/courtneybarnett/audio/need_little_time_128.ogg|/users/storage/courtneybarnett/audio/need_little_time_320.ogg|1785496321
+100190205|Nameless, Faceless|4:06|9.6|/users/storage/courtneybarnett/audio/nameless_faceless_128.ogg|/users/storage/courtneybarnett/audio/nameless_faceless_320.ogg|27896531
+100190206|I'm Not Your Mother, I'm Not Your Bitch|3:25|9.2|/users/storage/courtneybarnett/audio/not_your_mother_128.ogg|/users/storage/courtneybarnett/audio/not_your_mother_320.ogg|1658974231
+100190207|Crippling Self Doubt|3:08|9.0|/users/storage/courtneybarnett/audio/crippling_self_doubt_128.ogg|/users/storage/courtneybarnett/audio/crippling_self_doubt_320.ogg|1478523691
+100190208|Help Your Self|3:45|9.3|/users/storage/courtneybarnett/audio/help_your_self_128.ogg|/users/storage/courtneybarnett/audio/help_your_self_320.ogg|1785496321
+100190209|Walkin' on Eggshells|4:22|9.1|/users/storage/courtneybarnett/audio/walkin_on_eggshells_128.ogg|/users/storage/courtneybarnett/audio/walkin_on_eggshells_320.ogg|1478963251
+100190210|Sunday Roast|3:59|9.4|/users/storage/courtneybarnett/audio/sunday_roast_128.ogg|/users/storage/courtneybarnett/audio/sunday_roast_320.ogg|1785496321
+100190301|Rae Street|5:17|9.5|/users/storage/courtneybarnett/audio/rae_street_128.ogg|/users/storage/courtneybarnett/audio/rae_street_320.ogg|1987456321
+100190302|Sunfair Sundown|3:29|9.3|/users/storage/courtneybarnett/audio/sunfair_sundown_128.ogg|/users/storage/courtneybarnett/audio/sunfair_sundown_320.ogg|1785496321
+100190303|Here's the Thing|3:42|9.2|/users/storage/courtneybarnett/audio/heres_the_thing_128.ogg|/users/storage/courtneybarnett/audio/heres_the_thing_320.ogg|1658974231
+100190304|Before You Gotta Go|3:58|9.4|/users/storage/courtneybarnett/audio/before_you_gotta_go_128.ogg|/users/storage/courtneybarnett/audio/before_you_gotta_go_320.ogg|1785496321
+100190305|Turning Green|3:15|9.1|/users/storage/courtneybarnett/audio/turning_green_128.ogg|/users/storage/courtneybarnett/audio/turning_green_320.ogg|1478963251
+100190306|Take It Day by Day|3:28|9.0|/users/storage/courtneybarnett/audio/take_it_day_128.ogg|/users/storage/courtneybarnett/audio/take_it_day_320.ogg|1369874521
+100190307|If I Don't Hear from You Tonight|4:12|9.3|/users/storage/courtneybarnett/audio/if_i_dont_hear_128.ogg|/users/storage/courtneybarnett/audio/if_i_dont_hear_320.ogg|1785496321
+100190308|Write a List of Things to Look Forward To|4:33|9.6|/users/storage/courtneybarnett/audio/write_a_list_128.ogg|/users/storage/courtneybarnett/audio/write_a_list_320.ogg|27896531
+100190309|Splendour|3:47|9.2|/users/storage/courtneybarnett/audio/splendour_128.ogg|/users/storage/courtneybarnett/audio/splendour_320.ogg|1658974231
+100190310|Oh the Night|4:05|9.4|/users/storage/courtneybarnett/audio/oh_the_night_128.ogg|/users/storage/courtneybarnett/audio/oh_the_night_320.ogg|1785496321
+100200101|bloodstream|4:22|9.3|/users/storage/soccermommy/audio/bloodstream_128.ogg|/users/storage/soccermommy/audio/bloodstream_320.ogg|1785496321
+100200102|circle the drain|4:08|9.5|/users/storage/soccermommy/audio/circle_the_drain_128.ogg|/users/storage/soccermommy/audio/circle_the_drain_320.ogg|1987456321
+100200103|royal screw up|3:42|9.2|/users/storage/soccermommy/audio/royal_screw_up_128.ogg|/users/storage/soccermommy/audio/royal_screw_up_320.ogg|1658974231
+100200104|nightswimming|3:58|9.4|/users/storage/soccermommy/audio/nightswimming_128.ogg|/users/storage/soccermommy/audio/nightswimming_320.ogg|1785496321
+100200105|crawling in my skin|4:13|9.1|/users/storage/soccermommy/audio/crawling_in_my_skin_128.ogg|/users/storage/soccermommy/audio/crawling_in_my_skin_320.ogg|1478963251
+100200106|yellow is the color of her eyes|5:47|9.6|/users/storage/soccermommy/audio/yellow_is_color_128.ogg|/users/storage/soccermommy/audio/yellow_is_color_320.ogg|247896531
+100200107|up the walls|3:28|9.0|/users/storage/soccermommy/audio/up_the_walls_128.ogg|/users/storage/soccermommy/audio/up_the_walls_320.ogg|1478523691
+100200108|lucy|3:54|9.3|/users/storage/soccermommy/audio/lucy_128.ogg|/users/storage/soccermommy/audio/lucy_320.ogg|1785496321
+100200109|stain|4:35|9.2|/users/storage/soccermommy/audio/stain_128.ogg|/users/storage/soccermommy/audio/stain_320.ogg|1658974231
+100200110|gray light|5:19|9.4|/users/storage/soccermommy/audio/gray_light_128.ogg|/users/storage/soccermommy/audio/gray_light_320.ogg|1987456321
+100200201|Still Clean|3:52|9.3|/users/storage/soccermommy/audio/still_clean_128.ogg|/users/storage/soccermommy/audio/still_clean_320.ogg|1785496321
+100200202|Cool|3:18|9.5|/users/storage/soccermommy/audio/cool_128.ogg|/users/storage/soccermommy/audio/cool_320.ogg|1987456321
+100200203|Skin|2:48|9.1|/users/storage/soccermommy/audio/skin_128.ogg|/users/storage/soccermommy/audio/skin_320.ogg|1478963251
+100200204|Blossom (Wasting All My Time)|3:33|9.4|/users/storage/soccermommy/audio/blossom_128.ogg|/users/storage/soccermommy/audio/blossom_320.ogg|1785496321
+100200205|Try|3:12|9.0|/users/storage/soccermommy/audio/try_128.ogg|/users/storage/soccermommy/audio/try_320.ogg|1478523691
+100200206|Last Girl|3:44|9.2|/users/storage/soccermommy/audio/last_girl_128.ogg|/users/storage/soccermommy/audio/last_girl_320.ogg|1658974231
+100200207|Wildflowers|2:59|9.3|/users/storage/soccermommy/audio/wildflowers_128.ogg|/users/storage/soccermommy/audio/wildflowers_320.ogg|1658974231
+100200208|Your Dog|3:27|9.6|/users/storage/soccermommy/audio/your_dog_128.ogg|/users/storage/soccermommy/audio/your_dog_320.ogg|2147896531
+100200209|Scorpio Rising|3:06|9.1|/users/storage/soccermommy/audio/scorpio_rising_128.ogg|/users/storage/soccermommy/audio/scorpio_rising_320.ogg|1478963251
+100200210|Flaw|2:43|9.4|/users/storage/soccermommy/audio/flaw_128.ogg|/users/storage/soccermommy/audio/flaw_320.ogg|1785496321
+100200301|Bones|3:38|9.2|/users/storage/soccermommy/audio/bones_128.ogg|/users/storage/soccermommy/audio/bones_320.ogg|1658974231
+100200302|With U|3:47|9.4|/users/storage/soccermommy/audio/with_u_128.ogg|/users/storage/soccermommy/audio/with_u_320.ogg|1785496321
+100200303|Unholy Affliction|3:14|9.1|/users/storage/soccermommy/audio/unholy_affliction_128.ogg|/users/storage/soccermommy/audio/unholy_affliction_320.ogg|1478963251
+100200304|Shotgun|3:29|9.5|/users/storage/soccermommy/audio/shotgun_128.ogg|/users/storage/soccermommy/audio/shotgun_320.ogg|1987456321
+100200305|newdemo|2:57|9.0|/users/storage/soccermommy/audio/newdemo_128.ogg|/users/storage/soccermommy/audio/newdemo_320.ogg|1369874521
+100200306|Feel It All the Time|4:12|9.3|/users/storage/soccermommy/audio/feel_it_all_128.ogg|/users/storage/soccermommy/audio/feel_it_all_320.ogg|1785496321
+100200307|Don't Ask Me|3:52|9.2|/users/storage/soccermommy/audio/dont_ask_me_128.ogg|/users/storage/soccermommy/audio/dont_ask_me_320.ogg|1658974231
+100200308|Darkness Forever|3:33|9.4|/users/storage/soccermommy/audio/darkness_forever_128.ogg|/users/storage/soccermommy/audio/darkness_forever_320.ogg|1785496321
+100200309|Fire in the Driveway|4:28|9.1|/users/storage/soccermommy/audio/fire_in_driveway_128.ogg|/users/storage/soccermommy/audio/fire_in_driveway_320.ogg|1478963251
+100210101|Bambi|3:49|9.4|/users/storage/clairo/audio/bambi_128.ogg|/users/storage/clairo/audio/bambi_320.ogg|1785496321
+100210102|Alewife|3:36|9.6|/users/storage/clairo/audio/alewife_128.ogg|/users/storage/clairo/audio/alewife_320.ogg|27896531
+100210103|Impossible|3:14|9.2|/users/storage/clairo/audio/impossible_128.ogg|/users/storage/clairo/audio/impossible_320.ogg|1658974231
+100210104|Closer to You|3:28|9.5|/users/storage/clairo/audio/closer_to_you_128.ogg|/users/storage/clairo/audio/closer_to_you_320.ogg|1987456321
+100210105|North|3:43|9.3|/users/storage/clairo/audio/north_128.ogg|/users/storage/clairo/audio/north_320.ogg|1785496321
+100210106|Bags|3:41|9.7|/users/storage/clairo/audio/bags_128.ogg|/users/storage/clairo/audio/bags_320.ogg|2458741963
+100210107|Softly|3:52|9.4|/users/storage/clairo/audio/softly_128.ogg|/users/storage/clairo/audio/softly_320.ogg|1785496321
+100210108|Sofia|3:15|9.8|/users/storage/clairo/audio/sofia_128.ogg|/users/storage/clairo/audio/sofia_320.ogg|2789654321
+100210109|White Flag|4:08|9.2|/users/storage/clairo/audio/white_flag_128.ogg|/users/storage/clairo/audio/white_flag_320.ogg|1658974231
+100210110|Feel Something|3:37|9.1|/users/storage/clairo/audio/feel_something_128.ogg|/users/storage/clairo/audio/feel_something_320.ogg|1478963251
+100210111|I Wouldn't Ask You|4:24|9.5|/users/storage/clairo/audio/i_wouldnt_ask_128.ogg|/users/storage/clairo/audio/i_wouldnt_ask_320.ogg|1987456321
+100210201|Bambi|3:50|9.3|/users/storage/clairo/audio/bambi_sling_128.ogg|/users/storage/clairo/audio/bambi_sling_320.ogg|1785496321
+100210202|Alewife|3:37|9.5|/users/storage/clairo/audio/alewife_sling_128.ogg|/users/storage/clairo/audio/alewife_sling_320.ogg|1987456321
+100210203|Wade|3:54|9.2|/users/storage/clairo/audio/wade_128.ogg|/users/storage/clairo/audio/wade_320.ogg|1658974231
+100210204|Partridge|3:18|9.1|/users/storage/clairo/audio/partridge_128.ogg|/users/storage/clairo/audio/partridge_320.ogg|1478963251
+100210205|Zinnias|4:12|9.4|/users/storage/clairo/audio/zinnias_128.ogg|/users/storage/clairo/audio/zinnias_320.ogg|1785496321
+100210206|Blouse|5:08|9.6|/users/storage/clairo/audio/blouse_128.ogg|/users/storage/clairo/audio/blouse_320.ogg|21896531
+100210207|Just for Today|4:28|9.3|/users/storage/clairo/audio/just_for_today_128.ogg|/users/storage/clairo/audio/just_for_today_320.ogg|1785496321
+100210208|Harbor|3:42|9.2|/users/storage/clairo/audio/harbor_128.ogg|/users/storage/clairo/audio/harbor_320.ogg|1658974231
+100210209|Joanie|4:55|9.5|/users/storage/clairo/audio/joanie_128.ogg|/users/storage/clairo/audio/joanie_320.ogg|1987456321
+100210210|Reaper|4:17|9.4|/users/storage/clairo/audio/reaper_128.ogg|/users/storage/clairo/audio/reaper_320.ogg|1785496321
+100210211|Little Changes|3:38|9.1|/users/storage/clairo/audio/little_changes_128.ogg|/users/storage/clairo/audio/little_changes_320.ogg|1478963251
+100210212|Management|5:21|9.3|/users/storage/clairo/audio/management_128.ogg|/users/storage/clairo/audio/management_320.ogg|1785496321
+100210301|Nomad|3:27|9.4|/users/storage/clairo/audio/nomad_128.ogg|/users/storage/clairo/audio/nomad_320.ogg|1785496321
+100210302|Sexy to Someone|3:32|9.6|/users/storage/clairo/audio/sexy_to_someone_128.ogg|/users/storage/clairo/audio/sexy_to_someone_320.ogg|21896531
+100210303|Second Nature|3:45|9.3|/users/storage/clairo/audio/second_nature_128.ogg|/users/storage/clairo/audio/second_nature_320.ogg|1785496321
+100210304|Slow Dance|3:18|9.2|/users/storage/clairo/audio/slow_dance_128.ogg|/users/storage/clairo/audio/slow_dance_320.ogg|1658974231
+100210305|Thank You|3:56|9.5|/users/storage/clairo/audio/thank_you_128.ogg|/users/storage/clairo/audio/thank_you_320.ogg|1987456321
+100210306|Terrapin|4:08|9.1|/users/storage/clairo/audio/terrapin_128.ogg|/users/storage/clairo/audio/terrapin_320.ogg|1478963251
+100210307|Juna|4:24|9.4|/users/storage/clairo/audio/juna_128.ogg|/users/storage/clairo/audio/juna_320.ogg|1785496321
+100210308|Add Up My Love|3:33|9.3|/users/storage/clairo/audio/add_up_my_love_128.ogg|/users/storage/clairo/audio/add_up_my_love_320.ogg|1785496321
+100210309|Echo|3:49|9.2|/users/storage/clairo/audio/echo_128.ogg|/users/storage/clairo/audio/echo_320.ogg|1658974231
+100210310|Glory of the Snow|3:41|9.5|/users/storage/clairo/audio/glory_of_snow_128.ogg|/users/storage/clairo/audio/glory_of_snow_320.ogg|1987456321
+100210311|Pier 4|4:18|9.6|/users/storage/clairo/audio/pier_4_128.ogg|/users/storage/clairo/audio/pier_4_320.ogg|2147896531
+100220101|Without You Without Them|3:28|9.7|/users/storage/boygenius/audio/without_you_128.ogg|/users/storage/boygenius/audio/without_you_320.ogg|2458741
+100220102|$20|3:22|9.6|/users/storage/boygenius/audio/20_dollars_128.ogg|/users/storage/boygenius/audio/20_dollars_320.ogg|27896531
+100220103|Emily I'm Sorry|4:44|9.8|/users/storage/boygenius/audio/emily_im_sorry_128.ogg|/users/storage/boygenius/audio/emily_im_sorry_320.ogg|27896543
+100220104|True Blue|4:08|9.5|/users/storage/boygenius/audio/true_blue_128.ogg|/users/storage/boygenius/audio/true_blue_320.ogg|1987456321
+100220105|Cool About It|3:39|9.7|/users/storage/boygenius/audio/cool_about_it_128.ogg|/users/storage/boygenius/audio/cool_about_it_320.ogg|28741963
+100220106|Not Strong Enough|4:24|9.9|/users/storage/boygenius/audio/not_strong_enough_128.ogg|/users/storage/boygenius/audio/not_strong_enough_320.ogg|27456321
+100220107|Revolution 0|3:37|9.4|/users/storage/boygenius/audio/revolution_0_128.ogg|/users/storage/boygenius/audio/revolution_0_320.ogg|1785496321
+100220108|Leonard Cohen|4:18|9.6|/users/storage/boygenius/audio/leonard_cohen_128.ogg|/users/storage/boygenius/audio/leonard_cohen_320.ogg|247896531
+100220109|Satanist|3:52|9.3|/users/storage/boygenius/audio/satanist_128.ogg|/users/storage/boygenius/audio/satanist_320.ogg|1785496321
+100220110|We're in Love|3:27|9.5|/users/storage/boygenius/audio/were_in_love_128.ogg|/users/storage/boygenius/audio/were_in_love_320.ogg|1987456321
+100220111|Anti-Curse|2:52|9.4|/users/storage/boygenius/audio/anti_curse_128.ogg|/users/storage/boygenius/audio/anti_curse_320.ogg|1785496321
+100220112|Letter to an Old Poet|4:15|9.8|/users/storage/boygenius/audio/letter_old_poet_128.ogg|/users/storage/boygenius/audio/letter_old_poet_320.ogg|28974321
+100220201|Black Hole|2:48|9.5|/users/storage/boygenius/audio/black_hole_128.ogg|/users/storage/boygenius/audio/black_hole_320.ogg|1987456321
+100220202|Afraid of Heights|3:12|9.6|/users/storage/boygenius/audio/afraid_of_heights_128.ogg|/users/storage/boygenius/audio/afraid_of_heights_320.ogg|27896531
+100220203|Voyager|3:38|9.4|/users/storage/boygenius/audio/voyager_128.ogg|/users/storage/boygenius/audio/voyager_320.ogg|1785496321
+100220204|Powers|4:27|9.7|/users/storage/boygenius/audio/powers_128.ogg|/users/storage/boygenius/audio/powers_320.ogg|28741963
+100220205|Sailor Song (Demo)|3:05|9.3|/users/storage/boygenius/audio/sailor_song_128.ogg|/users/storage/boygenius/audio/sailor_song_320.ogg|1658974231
+100220206|Basement Dream|4:52|9.5|/users/storage/boygenius/audio/basement_dream_128.ogg|/users/storage/boygenius/audio/basement_dream_320.ogg|1987456321
+100230101|Nobody Else Will Be There|4:28|9.4|/users/storage/thenational/audio/nobody_else_128.ogg|/users/storage/thenational/audio/nobody_else_320.ogg|1785496321
+100230102|Day I Die|4:08|9.6|/users/storage/thenational/audio/day_i_die_128.ogg|/users/storage/thenational/audio/day_i_die_320.ogg|2147896531
+100230103|Walk It Back|3:50|9.3|/users/storage/thenational/audio/walk_it_back_128.ogg|/users/storage/thenational/audio/walk_it_back_320.ogg|1785496321
+100230104|The System Only Dreams in Total Darkness|5:05|9.7|/users/storage/thenational/audio/system_only_dreams_128.ogg|/users/storage/thenational/audio/system_only_dreams_320.ogg|28741963
+100230105|Born to Beg|3:40|9.2|/users/storage/thenational/audio/born_to_beg_128.ogg|/users/storage/thenational/audio/born_to_beg_320.ogg|1658974231
+100230106|Turtleneck|5:38|9.5|/users/storage/thenational/audio/turtleneck_128.ogg|/users/storage/thenational/audio/turtleneck_320.ogg|24789632
+100230107|Empire Line|4:17|9.1|/users/storage/thenational/audio/empire_line_128.ogg|/users/storage/thenational/audio/empire_line_320.ogg|1478963251
+100230108|I'll Still Destroy You|5:10|9.4|/users/storage/thenational/audio/ill_still_destroy_128.ogg|/users/storage/thenational/audio/ill_still_destroy_320.ogg|1987456321
+100230109|Guilty Party|4:27|9.3|/users/storage/thenational/audio/guilty_party_128.ogg|/users/storage/thenational/audio/guilty_party_320.ogg|1785496321
+100230110|Carin at the Liquor Store|4:50|9.6|/users/storage/thenational/audio/carin_liquor_store_128.ogg|/users/storage/thenational/audio/carin_liquor_store_320.ogg|21896531
+100230111|Dark Side of the Gym|5:24|9.2|/users/storage/thenational/audio/dark_side_gym_128.ogg|/users/storage/thenational/audio/dark_side_gym_320.ogg|1658974231
+100230112|Sleep Well Beast|6:23|9.5|/users/storage/thenational/audio/sleep_well_beast_128.ogg|/users/storage/thenational/audio/sleep_well_beast_320.ogg|21896531
+100230201|You Had Your Soul with You|6:11|9.5|/users/storage/thenational/audio/you_had_your_soul_128.ogg|/users/storage/thenational/audio/you_had_your_soul_320.ogg|27896531
+100230202|Quiet Light|4:28|9.3|/users/storage/thenational/audio/quiet_light_128.ogg|/users/storage/thenational/audio/quiet_light_320.ogg|1785496321
+100230203|Roman Holiday|3:35|9.2|/users/storage/thenational/audio/roman_holiday_nat_128.ogg|/users/storage/thenational/audio/roman_holiday_nat_320.ogg|1658974231
+100230204|Oblivions|4:02|9.4|/users/storage/thenational/audio/oblivions_128.ogg|/users/storage/thenational/audio/oblivions_320.ogg|1785496321
+100230205|The Pull of You|4:18|9.1|/users/storage/thenational/audio/pull_of_you_128.ogg|/users/storage/thenational/audio/pull_of_you_320.ogg|1478963251
+100230206|Hey Rosey|5:48|9.6|/users/storage/thenational/audio/hey_rosey_128.ogg|/users/storage/thenational/audio/hey_rosey_320.ogg|27896531
+100230207|I Am Easy to Find|5:33|9.7|/users/storage/thenational/audio/i_am_easy_to_find_128.ogg|/users/storage/thenational/audio/i_am_easy_to_find_320.ogg|28741963
+100230208|Her Father in the Pool|3:27|9.2|/users/storage/thenational/audio/her_father_pool_128.ogg|/users/storage/thenational/audio/her_father_pool_320.ogg|1658974231
+100230209|Where Is Her Head|4:45|9.3|/users/storage/thenational/audio/where_is_her_head_128.ogg|/users/storage/thenational/audio/where_is_her_head_320.ogg|1785496321
+100230210|Not in Kansas|5:12|9.5|/users/storage/thenational/audio/not_in_kansas_128.ogg|/users/storage/thenational/audio/not_in_kansas_320.ogg|1987456321
+100230211|So Far So Fast|5:38|9.4|/users/storage/thenational/audio/so_far_so_fast_128.ogg|/users/storage/thenational/audio/so_far_so_fast_320.ogg|1987456321
+100230212|Dust Swirls in Strange Light|6:47|9.6|/users/storage/thenational/audio/dust_swirls_128.ogg|/users/storage/thenational/audio/dust_swirls_320.ogg|28741963
+100230213|Hairpin Turns|4:19|9.3|/users/storage/thenational/audio/hairpin_turns_128.ogg|/users/storage/thenational/audio/hairpin_turns_320.ogg|1785496321
+100230214|Rylan|5:42|9.5|/users/storage/thenational/audio/rylan_128.ogg|/users/storage/thenational/audio/rylan_320.ogg|2014789632
+100230215|Underwater|4:33|9.2|/users/storage/thenational/audio/underwater_128.ogg|/users/storage/thenational/audio/underwater_320.ogg|1658974231
+100230216|Light Years|6:28|9.7|/users/storage/thenational/audio/light_years_128.ogg|/users/storage/thenational/audio/light_years_320.ogg|28741963
+100230301|I Should Live in Salt|4:05|9.5|/users/storage/thenational/audio/i_should_live_salt_128.ogg|/users/storage/thenational/audio/i_should_live_salt_320.ogg|1987456321
+100230302|Demons|5:05|9.6|/users/storage/thenational/audio/demons_128.ogg|/users/storage/thenational/audio/demons_320.ogg|27896531
+100230303|Don't Swallow the Cap|4:18|9.7|/users/storage/thenational/audio/dont_swallow_cap_128.ogg|/users/storage/thenational/audio/dont_swallow_cap_320.ogg|28741963
+100230304|Fireproof|3:30|9.3|/users/storage/thenational/audio/fireproof_128.ogg|/users/storage/thenational/audio/fireproof_320.ogg|1785496321
+100230305|Sea of Love|5:18|9.4|/users/storage/thenational/audio/sea_of_love_128.ogg|/users/storage/thenational/audio/sea_of_love_320.ogg|1987456321
+100230306|Heavenfaced|4:31|9.2|/users/storage/thenational/audio/heavenfaced_128.ogg|/users/storage/thenational/audio/heavenfaced_320.ogg|1658974231
+100230307|This Is the Last Time|5:02|9.5|/users/storage/thenational/audio/this_is_last_time_128.ogg|/users/storage/thenational/audio/this_is_last_time_320.ogg|1987456321
+100230308|Graceless|5:02|9.8|/users/storage/thenational/audio/graceless_128.ogg|/users/storage/thenational/audio/graceless_320.ogg|29654321
+100230309|Slipped|4:09|9.1|/users/storage/thenational/audio/slipped_128.ogg|/users/storage/thenational/audio/slipped_320.ogg|1478963251
+100230310|I Need My Girl|3:50|9.7|/users/storage/thenational/audio/i_need_my_girl_128.ogg|/users/storage/thenational/audio/i_need_my_girl_320.ogg|28741963
+100230311|Humiliation|4:18|9.3|/users/storage/thenational/audio/humiliation_128.ogg|/users/storage/thenational/audio/humiliation_320.ogg|1785496321
+100230312|Pink Rabbits|4:55|9.6|/users/storage/thenational/audio/pink_rabbits_128.ogg|/users/storage/thenational/audio/pink_rabbits_320.ogg|247896531
+100230313|Trouble Will Find Me|4:36|9.4|/users/storage/thenational/audio/trouble_will_find_me_128.ogg|/users/storage/thenational/audio/trouble_will_find_me_320.ogg|1987456321
+100240101|A Lot's Gonna Change|4:51|9.5|/users/storage/weyesblood/audio/a_lots_gonna_change_128.ogg|/users/storage/weyesblood/audio/a_lots_gonna_change_320.ogg|1987456321
+100240102|Andromeda|4:20|9.7|/users/storage/weyesblood/audio/andromeda_128.ogg|/users/storage/weyesblood/audio/andromeda_320.ogg|28741963
+100240103|Everyday|4:03|9.4|/users/storage/weyesblood/audio/everyday_128.ogg|/users/storage/weyesblood/audio/everyday_320.ogg|1785496321
+100240104|Something to Believe|3:50|9.6|/users/storage/weyesblood/audio/something_to_believe_128.ogg|/users/storage/weyesblood/audio/something_to_believe_320.ogg|27896531
+100240105|Titanic Rising|5:14|9.8|/users/storage/weyesblood/audio/titanic_rising_128.ogg|/users/storage/weyesblood/audio/titanic_rising_320.ogg|28974321
+100240106|Movies|4:17|9.5|/users/storage/weyesblood/audio/movies_128.ogg|/users/storage/weyesblood/audio/movies_320.ogg|1987456321
+100240107|Mirror Forever|3:49|9.3|/users/storage/weyesblood/audio/mirror_forever_128.ogg|/users/storage/weyesblood/audio/mirror_forever_320.ogg|1785496321
+100240108|Wild Time|4:38|9.4|/users/storage/weyesblood/audio/wild_time_128.ogg|/users/storage/weyesblood/audio/wild_time_320.ogg|1987456321
+100240109|Picture Me Better|4:47|9.6|/users/storage/weyesblood/audio/picture_me_better_128.ogg|/users/storage/weyesblood/audio/picture_me_better_320.ogg|27896531
+100240110|Nearer to Thee|5:23|9.7|/users/storage/weyesblood/audio/nearer_to_thee_128.ogg|/users/storage/weyesblood/audio/nearer_to_thee_320.ogg|28741963
+100240201|It's Not Just Me, It's Everybody|5:03|9.6|/users/storage/weyesblood/audio/its_not_just_me_128.ogg|/users/storage/weyesblood/audio/its_not_just_me_320.ogg|21896531
+100240202|Children of the Empire|4:58|9.4|/users/storage/weyesblood/audio/children_empire_128.ogg|/users/storage/weyesblood/audio/children_empire_320.ogg|1987456321
+100240203|Grapevine|3:48|9.5|/users/storage/weyesblood/audio/grapevine_128.ogg|/users/storage/weyesblood/audio/grapevine_320.ogg|1987456321
+100240204|God Turn Me Into a Flower|4:27|9.7|/users/storage/weyesblood/audio/god_turn_me_flower_128.ogg|/users/storage/weyesblood/audio/god_turn_me_flower_320.ogg|28741963
+100240205|Hearts Aglow|3:42|9.3|/users/storage/weyesblood/audio/hearts_aglow_128.ogg|/users/storage/weyesblood/audio/hearts_aglow_320.ogg|1785496321
+100240206|And in the Darkness|4:13|9.6|/users/storage/weyesblood/audio/and_in_darkness_128.ogg|/users/storage/weyesblood/audio/and_in_darkness_320.ogg|27896531
+100240207|Twin Flame|4:36|9.4|/users/storage/weyesblood/audio/twin_flame_128.ogg|/users/storage/weyesblood/audio/twin_flame_320.ogg|1987456321
+100240208|In Holy Flux|3:55|9.2|/users/storage/weyesblood/audio/in_holy_flux_128.ogg|/users/storage/weyesblood/audio/in_holy_flux_320.ogg|1658974231
+100240209|The Worst Is Done|4:18|9.5|/users/storage/weyesblood/audio/worst_is_done_128.ogg|/users/storage/weyesblood/audio/worst_is_done_320.ogg|1987456321
+100240210|A Given Thing|5:25|9.7|/users/storage/weyesblood/audio/a_given_thing_128.ogg|/users/storage/weyesblood/audio/a_given_thing_320.ogg|28741963
+100240301|Diary|4:18|9.3|/users/storage/weyesblood/audio/diary_128.ogg|/users/storage/weyesblood/audio/diary_320.ogg|1785496321
+100240302|The Worst Is Done|3:52|9.4|/users/storage/weyesblood/audio/worst_is_done_fr_128.ogg|/users/storage/weyesblood/audio/worst_is_done_fr_320.ogg|1785496321
+100240303|Seven Words|4:28|9.6|/users/storage/weyesblood/audio/seven_words_128.ogg|/users/storage/weyesblood/audio/seven_words_320.ogg|2147896531
+100240304|Front Row Seat to Earth|4:36|9.5|/users/storage/weyesblood/audio/front_row_seat_128.ogg|/users/storage/weyesblood/audio/front_row_seat_320.ogg|1987456321
+100240305|Generation Why|3:43|9.2|/users/storage/weyesblood/audio/generation_why_128.ogg|/users/storage/weyesblood/audio/generation_why_320.ogg|1658974231
+100240306|Do You Need My Love|4:15|9.4|/users/storage/weyesblood/audio/do_you_need_128.ogg|/users/storage/weyesblood/audio/do_you_need_320.ogg|1785496321
+100240307|Be Free|3:29|9.1|/users/storage/weyesblood/audio/be_free_128.ogg|/users/storage/weyesblood/audio/be_free_320.ogg|1478963251
+100240308|Used to Be|4:47|9.5|/users/storage/weyesblood/audio/used_to_be_wb_128.ogg|/users/storage/weyesblood/audio/used_to_be_wb_320.ogg|1987456321
+100240309|Stay With Me|4:22|9.3|/users/storage/weyesblood/audio/stay_with_me_128.ogg|/users/storage/weyesblood/audio/stay_with_me_320.ogg|1785496321
+100250101|Death with Dignity|6:22|9.8|/users/storage/sufjanstevens/audio/death_with_dignity_128.ogg|/users/storage/sufjanstevens/audio/death_with_dignity_320.ogg|28974321
+100250102|Should Have Known Better|5:06|9.6|/users/storage/sufjanstevens/audio/should_have_known_128.ogg|/users/storage/sufjanstevens/audio/should_have_known_320.ogg|27896531
+100250103|All of Me Wants All of You|3:59|9.4|/users/storage/sufjanstevens/audio/all_of_me_128.ogg|/users/storage/sufjanstevens/audio/all_of_me_320.ogg|1785496321
+100250104|Drawn to the Blood|4:42|9.5|/users/storage/sufjanstevens/audio/drawn_to_blood_128.ogg|/users/storage/sufjanstevens/audio/drawn_to_blood_320.ogg|1987456321
+100250105|Eugene|4:13|9.7|/users/storage/sufjanstevens/audio/eugene_128.ogg|/users/storage/sufjanstevens/audio/eugene_320.ogg|28741963
+100250106|Fourth of July|4:37|9.9|/users/storage/sufjanstevens/audio/fourth_of_july_128.ogg|/users/storage/sufjanstevens/audio/fourth_of_july_320.ogg|27456321
+100250107|The Only Thing|5:55|9.6|/users/storage/sufjanstevens/audio/the_only_thing_128.ogg|/users/storage/sufjanstevens/audio/the_only_thing_320.ogg|28741963
+100250108|Carrie & Lowell|5:11|9.8|/users/storage/sufjanstevens/audio/carrie_and_lowell_128.ogg|/users/storage/sufjanstevens/audio/carrie_and_lowell_320.ogg|27654321
+100250109|John My Beloved|7:39|9.7|/users/storage/sufjanstevens/audio/john_my_beloved_128.ogg|/users/storage/sufjanstevens/audio/john_my_beloved_320.ogg|27896321
+100250110|No Shade in the Shadow of the Cross|3:10|9.5|/users/storage/sufjanstevens/audio/no_shade_128.ogg|/users/storage/sufjanstevens/audio/no_shade_320.ogg|1987456321
+100250111|Blue Bucket of Gold|4:59|9.6|/users/storage/sufjanstevens/audio/blue_bucket_128.ogg|/users/storage/sufjanstevens/audio/blue_bucket_320.ogg|27896531
+100250201|Concerning the UFO Sighting|2:18|9.3|/users/storage/sufjanstevens/audio/concerning_ufo_128.ogg|/users/storage/sufjanstevens/audio/concerning_ufo_320.ogg|1658974231
+100250202|The Black Hawk War|2:26|9.2|/users/storage/sufjanstevens/audio/black_hawk_war_128.ogg|/users/storage/sufjanstevens/audio/black_hawk_war_320.ogg|1478963251
+100250203|Come On! Feel the Illinoise!|6:45|9.7|/users/storage/sufjanstevens/audio/come_on_illinoise_128.ogg|/users/storage/sufjanstevens/audio/come_on_illinoise_320.ogg|28741963
+100250204|John Wayne Gacy, Jr.|3:19|9.8|/users/storage/sufjanstevens/audio/john_wayne_gacy_128.ogg|/users/storage/sufjanstevens/audio/john_wayne_gacy_320.ogg|28974321
+100250205|Jacksonville|5:38|9.4|/users/storage/sufjanstevens/audio/jacksonville_128.ogg|/users/storage/sufjanstevens/audio/jacksonville_320.ogg|1987456321
+100250206|A Short Reprise for Mary Todd|1:01|8.9|/users/storage/sufjanstevens/audio/short_reprise_128.ogg|/users/storage/sufjanstevens/audio/short_reprise_320.ogg|987456321
+100250207|Decatur|5:20|9.5|/users/storage/sufjanstevens/audio/decatur_128.ogg|/users/storage/sufjanstevens/audio/decatur_320.ogg|2014789632
+100250208|One Last "Whoo-hoo!"|1:16|9.1|/users/storage/sufjanstevens/audio/one_last_whoo_128.ogg|/users/storage/sufjanstevens/audio/one_last_whoo_320.ogg|1147852369
+100250209|Chicago|6:04|9.9|/users/storage/sufjanstevens/audio/chicago_128.ogg|/users/storage/sufjanstevens/audio/chicago_320.ogg|27456321
+100250210|Casimir Pulaski Day|5:53|9.8|/users/storage/sufjanstevens/audio/casimir_pulaski_128.ogg|/users/storage/sufjanstevens/audio/casimir_pulaski_320.ogg|29654321
+100250211|To the Workers of the Rock River Valley|2:17|9.2|/users/storage/sufjanstevens/audio/to_the_workers_128.ogg|/users/storage/sufjanstevens/audio/to_the_workers_320.ogg|1478963251
+100250212|The Man of Metropolis Steals Our Hearts|6:17|9.6|/users/storage/sufjanstevens/audio/man_of_metropolis_128.ogg|/users/storage/sufjanstevens/audio/man_of_metropolis_320.ogg|28741963
+100250213|Prairie Fire That Wanders About|2:13|9.1|/users/storage/sufjanstevens/audio/prairie_fire_128.ogg|/users/storage/sufjanstevens/audio/prairie_fire_320.ogg|1369874521
+100250214|A Conjunction of Drones|0:53|8.7|/users/storage/sufjanstevens/audio/conjunction_drones_128.ogg|/users/storage/sufjanstevens/audio/conjunction_drones_320.ogg|856741239
+100250215|The Predatory Wasp of the Palisades|5:22|9.7|/users/storage/sufjanstevens/audio/predatory_wasp_128.ogg|/users/storage/sufjanstevens/audio/predatory_wasp_320.ogg|28741963
+100250216|They Also Mourn Who Do Not Wear Black|4:20|9.4|/users/storage/sufjanstevens/audio/they_also_mourn_128.ogg|/users/storage/sufjanstevens/audio/they_also_mourn_320.ogg|1785496321
+100250217|The Tallest Man, the Broadest Shoulders|7:04|9.8|/users/storage/sufjanstevens/audio/tallest_man_128.ogg|/users/storage/sufjanstevens/audio/tallest_man_320.ogg|2658974
+100250218|The Seer's Tower|3:43|9.5|/users/storage/sufjanstevens/audio/seers_tower_128.ogg|/users/storage/sufjanstevens/audio/seers_tower_320.ogg|1987456321
+100250219|The Avalanche|5:10|9.3|/users/storage/sufjanstevens/audio/the_avalanche_128.ogg|/users/storage/sufjanstevens/audio/the_avalanche_320.ogg|1987456321
+100250220|Concerning the UFO Sighting|2:18|9.2|/users/storage/sufjanstevens/audio/concerning_ufo_2_128.ogg|/users/storage/sufjanstevens/audio/concerning_ufo_2_320.ogg|1478963251
+100250221|Riffs and Variations on a Single Note|2:49|9.1|/users/storage/sufjanstevens/audio/riffs_variations_128.ogg|/users/storage/sufjanstevens/audio/riffs_variations_320.ogg|1478523691
+100250222|Out of Egypt|4:47|9.6|/users/storage/sufjanstevens/audio/out_of_egypt_128.ogg|/users/storage/sufjanstevens/audio/out_of_egypt_320.ogg|47896531
+100250301|Futile Devices|3:15|9.5|/users/storage/sufjanstevens/audio/futile_devices_128.ogg|/users/storage/sufjanstevens/audio/futile_devices_320.ogg|19874563
+100250302|Too Much|5:13|9.6|/users/storage/sufjanstevens/audio/too_much_128.ogg|/users/storage/sufjanstevens/audio/too_much_320.ogg|47896531
+100250303|Age of Adz|7:37|9.7|/users/storage/sufjanstevens/audio/age_of_adz_128.ogg|/users/storage/sufjanstevens/audio/age_of_adz_320.ogg|58741963
+100250304|I Walked|5:04|9.4|/users/storage/sufjanstevens/audio/i_walked_128.ogg|/users/storage/sufjanstevens/audio/i_walked_320.ogg|1987456321
+100250305|Now That I'm Older|6:11|9.8|/users/storage/sufjanstevens/audio/now_that_im_older_128.ogg|/users/storage/sufjanstevens/audio/now_that_im_older_320.ogg|28974321
+100250306|Get Real Get Right|5:46|9.3|/users/storage/sufjanstevens/audio/get_real_get_right_128.ogg|/users/storage/sufjanstevens/audio/get_real_get_right_320.ogg|2014789632
+100250307|Bad Communication|3:43|9.2|/users/storage/sufjanstevens/audio/bad_communication_128.ogg|/users/storage/sufjanstevens/audio/bad_communication_320.ogg|1658974231
+100250308|Vesuvius|6:27|9.6|/users/storage/sufjanstevens/audio/vesuvius_128.ogg|/users/storage/sufjanstevens/audio/vesuvius_320.ogg|28741963
+100250309|All for Myself|6:47|9.4|/users/storage/sufjanstevens/audio/all_for_myself_128.ogg|/users/storage/sufjanstevens/audio/all_for_myself_320.ogg|147896531
+100250310|I Want to Be Well|5:53|9.5|/users/storage/sufjanstevens/audio/i_want_to_be_well_128.ogg|/users/storage/sufjanstevens/audio/i_want_to_be_well_320.ogg|24789632
+100250311|Impossible Soul|25:35|9.9|/users/storage/sufjanstevens/audio/impossible_soul_128.ogg|/users/storage/sufjanstevens/audio/impossible_soul_320.ogg|58974521
+100260101|Lark|3:49|9.5|/users/storage/angelolsen/audio/lark_128.ogg|/users/storage/angelolsen/audio/lark_320.ogg|19874563
+100260102|All Mirrors|5:01|9.7|/users/storage/angelolsen/audio/all_mirrors_128.ogg|/users/storage/angelolsen/audio/all_mirrors_320.ogg|28741963
+100260103|Too Easy|4:18|9.3|/users/storage/angelolsen/audio/too_easy_128.ogg|/users/storage/angelolsen/audio/too_easy_320.ogg|17854963
+100260104|Lark Song|1:31|9.0|/users/storage/angelolsen/audio/lark_song_128.ogg|/users/storage/angelolsen/audio/lark_song_320.ogg|11472369
+100260105|Spring|4:43|9.6|/users/storage/angelolsen/audio/spring_128.o100080101|Let It Happen|7:47|9.8|/users/storage/tameimpala/audio/let_it_happen_128.ogg|/users/storage/tameimpala/audio/let_it_happen_320.ogg|201450821
+100260106|What It Is|4:12|9.4|/users/storage/angelolsen/audio/what_it_is_128.ogg|/users/storage/angelolsen/audio/what_it_is_320.ogg|175496321
+100260107|Impasse|4:37|9.2|/users/storage/angelolsen/audio/impasse_128.ogg|/users/storage/angelolsen/audio/impasse_320.ogg|165897421
+100260108|Tonight|3:55|9.5|/users/storage/angelolsen/audio/tonight_128.ogg|/users/storage/angelolsen/audio/tonight_320.ogg|198745621
+100260109|Summer|5:46|9.7|/users/storage/angelolsen/audio/summer_128.ogg|/users/storage/angelolsen/audio/summer_320.ogg|28741963
+100260110|New Love Cassette|5:31|9.3|/users/storage/angelolsen/audio/new_love_cassette_128.ogg|/users/storage/angelolsen/audio/new_love_cassette_320.ogg|1987456321
+100260111|Chance|6:47|9.8|/users/storage/angelolsen/audio/chance_128.ogg|/users/storage/angelolsen/audio/chance_320.ogg|28974321
+100260112|Endlessly|4:54|9.4|/users/storage/angelolsen/audio/endlessly_128.ogg|/users/storage/angelolsen/audio/endlessly_320.ogg|1987456321
+100260201|All the Good Times|3:48|9.5|/users/storage/angelolsen/audio/all_good_times_128.ogg|/users/storage/angelolsen/audio/all_good_times_320.ogg|1987456321
+100260202|Big Time|4:13|9.6|/users/storage/angelolsen/audio/big_time_128.ogg|/users/storage/angelolsen/audio/big_time_320.ogg|27896531
+100260203|Ghost On|3:27|9.3|/users/storage/angelolsen/audio/ghost_on_128.ogg|/users/storage/angelolsen/audio/ghost_on_320.ogg|1785496321
+100260204|All the Flowers|4:08|9.4|/users/storage/angelolsen/audio/all_the_flowers_128.ogg|/users/storage/angelolsen/audio/all_the_flowers_320.ogg|1785496321
+100260205|Through the Fires|3:52|9.2|/users/storage/angelolsen/audio/through_the_fires_128.ogg|/users/storage/angelolsen/audio/through_the_fires_320.ogg|1658974231
+100260206|This Much I Know|4:23|9.5|/users/storage/angelolsen/audio/this_much_i_know_128.ogg|/users/storage/angelolsen/audio/this_much_i_know_320.ogg|1987456321
+100260207|Right Now|3:38|9.1|/users/storage/angelolsen/audio/right_now_128.ogg|/users/storage/angelolsen/audio/right_now_320.ogg|1478963251
+100260208|Go Home|4:42|9.3|/users/storage/angelolsen/audio/go_home_128.ogg|/users/storage/angelolsen/audio/go_home_320.ogg|1785496321
+100260209|Dream Thing|3:57|9.4|/users/storage/angelolsen/audio/dream_thing_128.ogg|/users/storage/angelolsen/audio/dream_thing_320.ogg|1785496321
+100260210|Cannot Be Changed|4:18|9.6|/users/storage/angelolsen/audio/cannot_be_changed_128.ogg|/users/storage/angelolsen/audio/cannot_be_changed_320.ogg|27896531
+100260211|Big Time (Reprise)|4:35|9.5|/users/storage/angelolsen/audio/big_time_reprise_128.ogg|/users/storage/angelolsen/audio/big_time_reprise_320.ogg|1987456321
+100260301|Fly on Your Wall|4:32|9.4|/users/storage/angelolsen/audio/fly_on_wall_128.ogg|/users/storage/angelolsen/audio/fly_on_wall_320.ogg|1785496321
+100260302|Give It Up|5:18|9.6|/users/storage/angelolsen/audio/give_it_up_128.ogg|/users/storage/angelolsen/audio/give_it_up_320.ogg|27896531
+100260303|Shut Up Kiss Me|3:48|9.7|/users/storage/angelolsen/audio/shut_up_kiss_me_128.ogg|/users/storage/angelolsen/audio/shut_up_kiss_me_320.ogg|28741963
+100260304|Heart Shaped Face|4:17|9.3|/users/storage/angelolsen/audio/heart_shaped_face_128.ogg|/users/storage/angelolsen/audio/heart_shaped_face_320.ogg|1785496321
+100260305|Never Be Mine|3:52|9.5|/users/storage/angelolsen/audio/never_be_mine_128.ogg|/users/storage/angelolsen/audio/never_be_mine_320.ogg|1987456321
+100260306|Sister|4:28|9.8|/users/storage/angelolsen/audio/sister_ao_128.ogg|/users/storage/angelolsen/audio/sister_ao_320.ogg|28974321
+100260307|Not Gonna Kill You|3:35|9.2|/users/storage/angelolsen/audio/not_gonna_kill_128.ogg|/users/storage/angelolsen/audio/not_gonna_kill_320.ogg|1658974231
+100260308|Those Were the Days|4:42|9.4|/users/storage/angelolsen/audio/those_were_days_128.ogg|/users/storage/angelolsen/audio/those_were_days_320.ogg|1785496321
+100260309|Woman|3:47|9.6|/users/storage/angelolsen/audio/woman_128.ogg|/users/storage/angelolsen/audio/woman_320.ogg|27896531
+100260310|Pops|5:13|9.5|/users/storage/angelolsen/audio/pops_128.ogg|/users/storage/angelolsen/audio/pops_320.ogg|1987456321
+100270101|Otherside|5:12|9.6|/users/storage/perfumegenius/audio/otherside_128.ogg|/users/storage/perfumegenius/audio/otherside_320.ogg|2147896531
+100270102|Slip Away|4:37|9.7|/users/storage/perfumegenius/audio/slip_away_128.ogg|/users/storage/perfumegenius/audio/slip_away_320.ogg|2458741963
+100270103|Valley|3:48|9.4|/users/storage/perfumegenius/audio/valley_128.ogg|/users/storage/perfumegenius/audio/valley_320.ogg|1785496321
+100270104|Wreath|4:22|9.5|/users/storage/perfumegenius/audio/wreath_128.ogg|/users/storage/perfumegenius/audio/wreath_320.ogg|1987456321
+100270105|Go Ahead|4:08|9.3|/users/storage/perfumegenius/audio/go_ahead_128.ogg|/users/storage/perfumegenius/audio/go_ahead_320.ogg|1785496321
+100270106|Choir|4:51|9.6|/users/storage/perfumegenius/audio/choir_128.ogg|/users/storage/perfumegenius/audio/choir_320.ogg|2196531
+100270107|Die 4 You|3:28|9.2|/users/storage/perfumegenius/audio/die_4_you_128.ogg|/users/storage/perfumegenius/audio/die_4_you_320.ogg|1658974231
+100270108|Braid|3:45|9.4|/users/storage/perfumegenius/audio/braid_128.ogg|/users/storage/perfumegenius/audio/braid_320.ogg|1785496321
+100270109|Sides|4:19|9.5|/users/storage/perfumegenius/audio/sides_128.ogg|/users/storage/perfumegenius/audio/sides_320.ogg|1987456321
+100270110|Every Night|3:33|9.1|/users/storage/perfumegenius/audio/every_night_128.ogg|/users/storage/perfumegenius/audio/every_night_320.ogg|1478963251
+100270111|Run Me Through|4:47|9.6|/users/storage/perfumegenius/audio/run_me_through_128.ogg|/users/storage/perfumegenius/audio/run_me_through_320.ogg|27896531
+100270112|Alan|5:40|9.8|/users/storage/perfumegenius/audio/alan_128.ogg|/users/storage/perfumegenius/audio/alan_320.ogg|28974321
+100270201|Whole Life|4:13|9.5|/users/storage/perfumegenius/audio/whole_life_128.ogg|/users/storage/perfumegenius/audio/whole_life_320.ogg|1987456321
+100270202|Nothing at All|3:48|9.6|/users/storage/perfumegenius/audio/nothing_at_all_128.ogg|/users/storage/perfumegenius/audio/nothing_at_all_320.ogg|27896531
+100270203|Describe|4:28|9.7|/users/storage/perfumegenius/audio/describe_128.ogg|/users/storage/perfumegenius/audio/describe_320.ogg|2458741963
+100270204|Without You|3:35|9.4|/users/storage/perfumegenius/audio/without_you_pg_128.ogg|/users/storage/perfumegenius/audio/without_you_pg_320.ogg|1785496321
+100270205|Jason|4:52|9.5|/users/storage/perfumegenius/audio/jason_128.ogg|/users/storage/perfumegenius/audio/jason_320.ogg|1987456321
+100270206|Leave|3:24|9.3|/users/storage/perfumegenius/audio/leave_128.ogg|/users/storage/perfumegenius/audio/leave_320.ogg|1785496321
+100270207|On the Floor|4:17|9.6|/users/storage/perfumegenius/audio/on_the_floor_128.ogg|/users/storage/perfumegenius/audio/on_the_floor_320.ogg|27896531
+100270208|借り|3:47|9.2|/users/storage/perfumegenius/audio/kari_128.ogg|/users/storage/perfumegenius/audio/kari_320.ogg|1658974231
+100270209|Some Dream|3:56|9.4|/users/storage/perfumegenius/audio/some_dream_128.ogg|/users/storage/perfumegenius/audio/some_dream_320.ogg|1785496321
+100270210|Borrowed Light|5:12|9.7|/users/storage/perfumegenius/audio/borrowed_light_128.ogg|/users/storage/perfumegenius/audio/borrowed_light_320.ogg|24741963
+100270301|Ugly Season|3:18|9.3|/users/storage/perfumegenius/audio/ugly_season_128.ogg|/users/storage/perfumegenius/audio/ugly_season_320.ogg|1658974231
+100270302|Teeth|3:42|9.5|/users/storage/perfumegenius/audio/teeth_128.ogg|/users/storage/perfumegenius/audio/teeth_320.ogg|1987456321
+100270303|Hellbent|2:58|9.2|/users/storage/perfumegenius/audio/hellbent_128.ogg|/users/storage/perfumegenius/audio/hellbent_320.ogg|1478963251
+100270304|Pop Song|3:27|9.4|/users/storage/perfumegenius/audio/pop_song_128.ogg|/users/storage/perfumegenius/audio/pop_song_320.ogg|1785496321
+100270305|Eye in the Wall|4:15|9.6|/users/storage/perfumegenius/audio/eye_in_wall_128.ogg|/users/storage/perfumegenius/audio/eye_in_wall_320.ogg|27896531
+100270306|Grim|3:53|9.1|/users/storage/perfumegenius/audio/grim_128.ogg|/users/storage/perfumegenius/audio/grim_320.ogg|1478963251
+100270307|Photograph|5:04|9.5|/users/storage/perfumegenius/audio/photograph_128.ogg|/users/storage/perfumegenius/audio/photograph_320.ogg|1987456321
+100280101|Chinatown|4:17|9.5|/users/storage/destroyer/audio/chinatown_128.ogg|/users/storage/destroyer/audio/chinatown_320.ogg|1987456321
+100280102|Blue Eyes|4:28|9.6|/users/storage/destroyer/audio/blue_eyes_128.ogg|/users/storage/destroyer/audio/blue_eyes_320.ogg|21496531
+100280103|Savage Night at the Opera|5:03|9.7|/users/storage/destroyer/audio/savage_night_128.ogg|/users/storage/destroyer/audio/savage_night_320.ogg|28741963
+100280104|Suicide Demo for Kara Walker|5:38|9.4|/users/storage/destroyer/audio/suicide_demo_128.ogg|/users/storage/destroyer/audio/suicide_demo_320.ogg|1987456321
+100280105|Poor in Love|4:52|9.3|/users/storage/destroyer/audio/poor_in_love_128.ogg|/users/storage/destroyer/audio/poor_in_love_320.ogg|1785496321
+100280106|Kaputt|5:47|9.8|/users/storage/destroyer/audio/kaputt_128.ogg|/users/storage/destroyer/audio/kaputt_320.ogg|28974321
+100280107|Downtown|3:48|9.2|/users/storage/destroyer/audio/downtown_128.ogg|/users/storage/destroyer/audio/downtown_320.ogg|1658974231
+100280108|Song for America|4:35|9.5|/users/storage/destroyer/audio/song_for_america_128.ogg|/users/storage/destroyer/audio/song_for_america_320.ogg|19456321
+100280109|Bay of Pigs|6:24|9.6|/users/storage/destroyer/audio/bay_of_pigs_128.ogg|/users/storage/destroyer/audio/bay_of_pigs_320.ogg|22741963
+100280201|Times Square|5:28|9.4|/users/storage/destroyer/audio/times_square_128.ogg|/users/storage/destroyer/audio/times_square_320.ogg|1987456321
+100280202|Dream Lover|6:12|9.6|/users/storage/destroyer/audio/dream_lover_128.ogg|/users/storage/destroyer/audio/dream_lover_320.ogg|21896531
+100280203|Hell|5:43|9.5|/users/storage/destroyer/audio/hell_128.ogg|/users/storage/destroyer/audio/hell_320.ogg|2014789632
+100280204|Solace's Bride|4:18|9.3|/users/storage/destroyer/audio/solaces_bride_128.ogg|/users/storage/destroyer/audio/solaces_bride_320.ogg|1785496321
+100280205|A Light Travels Down the Catwalk|5:52|9.4|/users/storage/destroyer/audio/light_travels_128.ogg|/users/storage/destroyer/audio/light_travels_320.ogg|19874563
+100280206|Midnight Meet the Rain|6:37|9.7|/users/storage/destroyer/audio/midnight_meet_rain_128.ogg|/users/storage/destroyer/audio/midnight_meet_rain_320.ogg|28741963
+100280207|The River|4:44|9.2|/users/storage/destroyer/audio/the_river_128.ogg|/users/storage/destroyer/audio/the_river_320.ogg|1658974231
+100280208|Forces from Above|5:18|9.5|/users/storage/destroyer/audio/forces_from_above_128.ogg|/users/storage/destroyer/audio/forces_from_above_320.ogg|1987456321
+100280209|The Laziest River|6:28|9.6|/users/storage/destroyer/audio/laziest_river_128.ogg|/users/storage/destroyer/audio/laziest_river_320.ogg|28741963
+100280210|Poison Season|5:46|9.8|/users/storage/destroyer/audio/poison_season_128.ogg|/users/storage/destroyer/audio/poison_season_320.ogg|26974321
+100280301|Crimson Tide|4:38|9.5|/users/storage/destroyer/audio/crimson_tide_128.ogg|/users/storage/destroyer/audio/crimson_tide_320.ogg|1987456321
+100280302|The Man in Black's Blues|5:12|9.4|/users/storage/destroyer/audio/man_in_black_128.ogg|/users/storage/destroyer/audio/man_in_black_320.ogg|19874563
+100280303|The Television Music Supervisor|4:47|9.6|/users/storage/destroyer/audio/television_music_128.ogg|/users/storage/destroyer/audio/television_music_320.ogg|21896531
+100280304|Have We Met|5:28|9.7|/users/storage/destroyer/audio/have_we_met_128.ogg|/users/storage/destroyer/audio/have_we_met_320.ogg|24741963
+100280305|The Raven|4:15|9.3|/users/storage/destroyer/audio/the_raven_128.ogg|/users/storage/destroyer/audio/the_raven_320.ogg|17854963
+100280306|Cue Synthesizer|3:52|9.2|/users/storage/destroyer/audio/cue_synthesizer_128.ogg|/users/storage/destroyer/audio/cue_synthesizer_320.ogg|1658974231
+100280307|The Hunt|5:08|9.5|/users/storage/destroyer/audio/the_hunt_128.ogg|/users/storage/destroyer/audio/the_hunt_320.ogg|1987456321
+100280308|It Just Doesn't Happen|4:33|9.4|/users/storage/destroyer/audio/just_doesnt_happen_128.ogg|/users/storage/destroyer/audio/just_doesnt_happen_320.ogg|1785496321
+100280309|Nibbling on the Excess|5:42|9.6|/users/storage/destroyer/audio/nibbling_excess_128.ogg|/users/storage/destroyer/audio/nibbling_excess_320.ogg|21496531
+100280310|foolssong|5:55|9.5|/users/storage/destroyer/audio/foolssong_128.ogg|/users/storage/destroyer/audio/foolssong_320.ogg|201478963
+100290101|Glory|3:28|9.4|/users/storage/snailmail/audio/glory_128.ogg|/users/storage/snailmail/audio/glory_320.ogg|1785496321
+100290102|Valentine|4:37|9.6|/users/storage/snailmail/audio/valentine_128.ogg|/users/storage/snailmail/audio/valentine_320.ogg|27896531
+100290103|Ben Franklin|4:18|9.5|/users/storage/snailmail/audio/ben_franklin_128.ogg|/users/storage/snailmail/audio/ben_franklin_320.ogg|1987456321
+100290104|Light Blue|3:52|9.3|/users/storage/snailmail/audio/light_blue_128.ogg|/users/storage/snailmail/audio/light_blue_320.ogg|1785496321
+100290105|Forever (Sailing)|4:43|9.7|/users/storage/snailmail/audio/forever_sailing_128.ogg|/users/storage/snailmail/audio/forever_sailing_320.ogg|2458741
+100290106|c. et al.|3:15|9.2|/users/storage/snailmail/audio/c_et_al_128.ogg|/users/storage/snailmail/audio/c_et_al_320.ogg|1658974231
+100290107|Automate|3:47|9.4|/users/storage/snailmail/audio/automate_128.ogg|/users/storage/snailmail/audio/automate_320.ogg|1785496321
+100290108|Madonna|4:28|9.5|/users/storage/snailmail/audio/madonna_128.ogg|/users/storage/snailmail/audio/madonna_320.ogg|1987456321
+100290109|Headlock|3:33|9.1|/users/storage/snailmail/audio/headlock_128.ogg|/users/storage/snailmail/audio/headlock_320.ogg|1478963251
+100290110|Mia|4:55|9.6|/users/storage/snailmail/audio/mia_128.ogg|/users/storage/snailmail/audio/mia_320.ogg|27896531
+100290201|Intro|0:47|8.9|/users/storage/snailmail/audio/intro_128.ogg|/users/storage/snailmail/audio/intro_320.ogg|856741239
+100290202|Heat Wave|4:25|9.5|/users/storage/snailmail/audio/heat_wave_128.ogg|/users/storage/snailmail/audio/heat_wave_320.ogg|1987456321
+100290203|Pristine|4:02|9.7|/users/storage/snailmail/audio/pristine_128.ogg|/users/storage/snailmail/audio/pristine_320.ogg|2458741963
+100290204|Speaking Terms|3:18|9.3|/users/storage/snailmail/audio/speaking_terms_128.ogg|/users/storage/snailmail/audio/speaking_terms_320.ogg|1785496321
+100290205|Let's Find an Out|3:42|9.4|/users/storage/snailmail/audio/lets_find_out_128.ogg|/users/storage/snailmail/audio/lets_find_out_320.ogg|1785496321
+100290206|Stick|3:58|9.2|/users/storage/snailmail/audio/stick_128.ogg|/users/storage/snailmail/audio/stick_320.ogg|1658974231
+100290207|Full Control|3:27|9.5|/users/storage/snailmail/audio/full_control_128.ogg|/users/storage/snailmail/audio/full_control_320.ogg|1987456321
+100290208|Deep Sea|3:35|9.1|/users/storage/snailmail/audio/deep_sea_128.ogg|/users/storage/snailmail/audio/deep_sea_320.ogg|1478963251
+100290209|Anytime|4:48|9.6|/users/storage/snailmail/audio/anytime_128.ogg|/users/storage/snailmail/audio/anytime_320.ogg|27896531
+100300101|Change|5:17|9.6|/users/storage/bigthief/audio/change_128.ogg|/users/storage/bigthief/audio/change_320.ogg|21496531
+100300102|Time Escaping|3:52|9.4|/users/storage/bigthief/audio/time_escaping_128.ogg|/users/storage/bigthief/audio/time_escaping_320.ogg|1785496321
+100300103|Sparrow|5:43|9.7|/users/storage/bigthief/audio/sparrow_128.ogg|/users/storage/bigthief/audio/sparrow_320.ogg|24541963
+100300104|Little Things|4:28|9.5|/users/storage/bigthief/audio/little_things_128.ogg|/users/storage/bigthief/audio/little_things_320.ogg|1987456321
+100300105|Two Hands|3:14|9.3|/users/storage/bigthief/audio/two_hands_bt_128.ogg|/users/storage/bigthief/audio/two_hands_bt_320.ogg|1785496321
+100300106|Certainty|4:47|9.6|/users/storage/bigthief/audio/certainty_128.ogg|/users/storage/bigthief/audio/certainty_320.ogg|27896531
+100300107|Dragon New Warm Mountain I Believe in You|6:15|9.8|/users/storage/bigthief/audio/dragon_new_warm_128.ogg|/users/storage/bigthief/audio/dragon_new_warm_320.ogg|28974321
+100300108|Simulation Swarm|4:03|9.2|/users/storage/bigthief/audio/simulation_swarm_128.ogg|/users/storage/bigthief/audio/simulation_swarm_320.ogg|1658974231
+100300109|Red Moon|5:28|9.5|/users/storage/bigthief/audio/red_moon_128.ogg|/users/storage/bigthief/audio/red_moon_320.ogg|1987456321
+100300110|Flower of Blood|3:37|9.4|/users/storage/bigthief/audio/flower_of_blood_128.ogg|/users/storage/bigthief/audio/flower_of_blood_320.ogg|1785496321
+100300111|Blurred View|4:52|9.6|/users/storage/bigthief/audio/blurred_view_128.ogg|/users/storage/bigthief/audio/blurred_view_320.ogg|27896531
+100300112|Heavy Bend|3:18|9.1|/users/storage/bigthief/audio/heavy_bend_128.ogg|/users/storage/bigthief/audio/heavy_bend_320.ogg|1478963251
+100300113|12,000 Lines|4:44|9.7|/users/storage/bigthief/audio/12000_lines_128.ogg|/users/storage/bigthief/audio/12000_lines_320.ogg|28741963
+100300114|The Only Place|5:39|9.5|/users/storage/bigthief/audio/the_only_place_128.ogg|/users/storage/bigthief/audio/the_only_place_320.ogg|20147896
+100300115|Wake Me Up to Drive|6:47|9.8|/users/storage/bigthief/audio/wake_me_up_128.ogg|/users/storage/bigthief/audio/wake_me_up_320.ogg|28974321
+100300201|Contact|4:18|9.5|/users/storage/bigthief/audio/contact_128.ogg|/users/storage/bigthief/audio/contact_320.ogg|1987456321
+100300202|UFOF|3:20|9.6|/users/storage/bigthief/audio/ufof_128.ogg|/users/storage/bigthief/audio/ufof_320.ogg|27896531
+100300203|Cattails|4:32|9.7|/users/storage/bigthief/audio/cattails_128.ogg|/users/storage/bigthief/audio/cattails_320.ogg|24741963
+100300204|Orange|3:48|9.4|/users/storage/bigthief/audio/orange_128.ogg|/users/storage/bigthief/audio/orange_320.ogg|1785496321
+100300205|Strange|4:55|9.5|/users/storage/bigthief/audio/strange_128.ogg|/users/storage/bigthief/audio/strange_320.ogg|1987456321
+100300206|Jenni|5:23|9.8|/users/storage/bigthief/audio/jenni_128.ogg|/users/storage/bigthief/audio/jenni_320.ogg|28974321
+100300207|From|2:47|9.2|/users/storage/bigthief/audio/from_128.ogg|/users/storage/bigthief/audio/from_320.ogg|1478963251
+100300208|Open Desert|4:12|9.6|/users/storage/bigthief/audio/open_desert_128.ogg|/users/storage/bigthief/audio/open_desert_320.ogg|27896531
+100300209|Century|3:35|9.3|/users/storage/bigthief/audio/century_128.ogg|/users/storage/bigthief/audio/century_320.ogg|1785496321
+100300210|Terminal Paradise|5:47|9.7|/users/storage/bigthief/audio/terminal_paradise_128.ogg|/users/storage/bigthief/audio/terminal_paradise_320.ogg|28741963
+100300301|Rock and Sing|3:42|9.4|/users/storage/bigthief/audio/rock_and_sing_128.ogg|/users/storage/bigthief/audio/rock_and_sing_320.ogg|1785496321
+100300302|The Toy|100220206|Basement Dream|4:52|9.5|/users/storage/boygenius/audio/basement_dream_128.ogg|/users/storage/boygenius/audio/basement_dream_320.ogg|1987456321
+100300303|Forgotten Eyes|3:27|9.3|/users/storage/bigthief/audio/forgotten_eyes_128.ogg|/users/storage/bigthief/audio/forgotten_eyes_320.ogg|1785496321
+100300304|Not|3:53|9.6|/users/storage/bigthief/audio/not_128.ogg|/users/storage/bigthief/audio/not_320.ogg|27896531
+100300305|Shoulders|4:35|9.7|/users/storage/bigthief/audio/shoulders_128.ogg|/users/storage/bigthief/audio/shoulders_320.ogg|28741963
+100300306|Replaced|3:48|9.2|/users/storage/bigthief/audio/replaced_128.ogg|/users/storage/bigthief/audio/replaced_320.ogg|1658974231
+100300307|Two Hands|3:15|9.5|/users/storage/bigthief/audio/two_hands_128.ogg|/users/storage/bigthief/audio/two_hands_320.ogg|1987456321
+100300308|Those Girls|4:22|9.4|/users/storage/bigthief/audio/those_girls_128.ogg|/users/storage/bigthief/audio/those_girls_320.ogg|1785496321
+100300309|Cut My Hair|5:08|9.8|/users/storage/bigthief/audio/cut_my_hair_128.ogg|/users/storage/bigthief/audio/cut_my_hair_320.ogg|28974321
+100300310|Wolf|4:47|9.6|/users/storage/bigthief/audio/wolf_128.ogg|/users/storage/bigthief/audio/wolf_320.ogg|27896531
+100310101|I Miss That|3:42|9.3|/users/storage/porches/audio/i_miss_that_128.ogg|/users/storage/porches/audio/i_miss_that_320.ogg|1785496321
+100310102|Lately|3:28|9.4|/users/storage/porches/audio/lately_128.ogg|/users/storage/porches/audio/lately_320.ogg|1785496321
+100310103|Rag|2:57|9.1|/users/storage/porches/audio/rag_128.ogg|/users/storage/porches/audio/rag_320.ogg|1478963251
+100310104|In a Lake|3:35|9.5|/users/storage/porches/audio/in_a_lake_128.ogg|/users/storage/porches/audio/in_a_lake_320.ogg|1987456321
+100310105|Back Like That|3:18|9.2|/users/storage/porches/audio/back_like_that_128.ogg|/users/storage/porches/audio/back_like_that_320.ogg|1658974231
+100310106|Grab the Phone|3:47|9.4|/users/storage/porches/audio/grab_the_phone_128.ogg|/users/storage/porches/audio/grab_the_phone_320.ogg|1785496321
+100310107|Patience|3:52|9.3|/users/storage/porches/audio/patience_128.ogg|/users/storage/porches/audio/patience_320.ogg|1785496321
+100310108|I Wanna Get Old With You|4:13|9.6|/users/storage/porches/audio/i_wanna_get_old_128.ogg|/users/storage/porches/audio/i_wanna_get_old_320.ogg|27896531
+100310109|Swimming Big|3:25|9.0|/users/storage/porches/audio/swimming_big_128.ogg|/users/storage/porches/audio/swimming_big_320.ogg|1478523691
+100310110|Inasense|3:48|9.2|/users/storage/porches/audio/inasense_128.ogg|/users/storage/porches/audio/inasense_320.ogg|1658974231
+100310201|Anymore|3:37|9.4|/users/storage/porches/audio/anymore_128.ogg|/users/storage/porches/audio/anymore_320.ogg|1785496321
+100310202|Madonna II|2:54|9.2|/users/storage/porches/audio/madonna_ii_128.ogg|/users/storage/porches/audio/madonna_ii_320.ogg|1478963251
+100310203|Do U Wanna|3:28|9.5|/users/storage/porches/audio/do_u_wanna_128.ogg|/users/storage/porches/audio/do_u_wanna_320.ogg|1987456321
+100310204|rangerover|2:47|9.1|/users/storage/porches/audio/rangerover_128.ogg|/users/storage/porches/audio/rangerover_320.ogg|1478963251
+100310205|Hair|3:15|9.3|/users/storage/porches/audio/hair_128.ogg|/users/storage/porches/audio/hair_320.ogg|1785496321
+100310206|Leave the House|3:42|9.6|/users/storage/porches/audio/leave_the_house_128.ogg|/users/storage/porches/audio/leave_the_house_320.ogg|27896531
+100310207|Country|2:58|9.0|/users/storage/porches/audio/country_128.ogg|/users/storage/porches/audio/country_320.ogg|1369874521
+100310208|Now the Water|3:53|9.4|/users/storage/porches/audio/now_the_water_128.ogg|/users/storage/porches/audio/now_the_water_320.ogg|1785496321
+100310209|W Longing|3:24|9.2|/users/storage/porches/audio/w_longing_128.ogg|/users/storage/porches/audio/w_longing_320.ogg|1658974231
+100310210|Wrote a Song|3:47|9.5|/users/storage/porches/audio/wrote_a_song_128.ogg|/users/storage/porches/audio/wrote_a_song_320.ogg|1987456321
+100310301|Lipstick Song|3:32|9.3|/users/storage/porches/audio/lipstick_song_128.ogg|/users/storage/porches/audio/lipstick_song_320.ogg|1785496321
+100310302|Mood|3:18|9.4|/users/storage/porches/audio/mood_128.ogg|/users/storage/porches/audio/mood_320.ogg|1785496321
+100310303|Now I Know|3:45|9.5|/users/storage/porches/audio/now_i_know_128.ogg|/users/storage/porches/audio/now_i_know_320.ogg|1987456321
+100310304|Car|2:57|9.1|/users/storage/porches/audio/car_128.ogg|/users/storage/porches/audio/car_320.ogg|1478963251
+100310305|Find Me|3:28|9.6|/users/storage/porches/audio/find_me_128.ogg|/users/storage/porches/audio/find_me_320.ogg|27896531
+100310306|Goodbye|3:52|9.3|/users/storage/porches/audio/goodbye_128.ogg|/users/storage/porches/audio/goodbye_320.ogg|1785496321
+100310307|Innocent|3:37|9.2|/users/storage/porches/audio/innocent_128.ogg|/users/storage/porches/audio/innocent_320.ogg|1658974231
+100310308|After Glow|4:15|9.4|/users/storage/porches/audio/after_glow_128.ogg|/users/storage/porches/audio/after_glow_320.ogg|1785496321
+100310309|Underwater|3:43|9.5|/users/storage/porches/audio/underwater_p_128.ogg|/users/storage/porches/audio/underwater_p_320.ogg|1987456321
+100310310|Shaving|4:05|9.7|/users/storage/porches/audio/shaving_128.ogg|/users/storage/porches/audio/shaving_320.ogg|2458741
+100320101|Arkadelphia|4:38|9.5|/users/storage/waxahatchee/audio/arkadelphia_128.ogg|/users/storage/waxahatchee/audio/arkadelphia_320.ogg|1987456321
+100320102|Fire|4:22|9.7|/users/storage/waxahatchee/audio/fire_128.ogg|/users/storage/waxahatchee/audio/fire_320.ogg|28741963
+100320103|Can't Do Much|3:47|9.4|/users/storage/waxahatchee/audio/cant_do_much_128.ogg|/users/storage/waxahatchee/audio/cant_do_much_320.ogg|1785496321
+100320104|Lilacs|4:15|9.8|/users/storage/waxahatchee/audio/lilacs_128.ogg|/users/storage/waxahatchee/audio/lilacs_320.ogg|29654321
+100320105|The Eye|3:52|9.3|/users/storage/waxahatchee/audio/the_eye_128.ogg|/users/storage/waxahatchee/audio/the_eye_320.ogg|1785496321
+100320106|Hell|3:28|9.2|/users/storage/waxahatchee/audio/hell_wax_128.ogg|/users/storage/waxahatchee/audio/hell_wax_320.ogg|1658974231
+100320107|Witches|4:03|9.6|/users/storage/waxahatchee/audio/witches_128.ogg|/users/storage/waxahatchee/audio/witches_320.ogg|2147896
+100320108|War|3:35|9.1|/users/storage/waxahatchee/audio/war_128.ogg|/users/storage/waxahatchee/audio/war_320.ogg|14789632
+100320109|Oxbow|4:28|9.5|/users/storage/waxahatchee/audio/oxbow_128.ogg|/users/storage/waxahatchee/audio/oxbow_320.ogg|19874563
+100320110|Ruby Falls|3:47|9.4|/users/storage/waxahatchee/audio/ruby_falls_128.ogg|/users/storage/waxahatchee/audio/ruby_falls_320.ogg|17854963
+100320111|St. Cloud|5:12|9.7|/users/storage/waxahatchee/audio/st_cloud_128.ogg|/users/storage/waxahatchee/audio/st_cloud_320.ogg|24587419
+100320201|Sparks Fly|4:18|9.4|/users/storage/waxahatchee/audio/sparks_fly_128.ogg|/users/storage/waxahatchee/audio/sparks_fly_320.ogg|1785496321
+100320202|Never Been Wrong|3:52|9.6|/users/storage/waxahatchee/audio/never_been_wrong_128.ogg|/users/storage/waxahatchee/audio/never_been_wrong_320.ogg|27896531
+100320203|Silver|3:37|9.3|/users/storage/waxahatchee/audio/silver_128.ogg|/users/storage/waxahatchee/audio/silver_320.ogg|1785496321
+100320204|8 Ball|4:03|9.5|/users/storage/waxahatchee/audio/8_ball_128.ogg|/users/storage/waxahatchee/audio/8_ball_320.ogg|1987456321
+100320205|Brass Beam|3:28|9.2|/users/storage/waxahatchee/audio/brass_beam_128.ogg|/users/storage/waxahatchee/audio/brass_beam_320.ogg|1658974231
+100320206|Recite Remorse|4:42|9.4|/users/storage/waxahatchee/audio/recite_remorse_128.ogg|/users/storage/waxahatchee/audio/recite_remorse_320.ogg|17854963
+100320207|No Question|3:15|9.1|/users/storage/waxahatchee/audio/no_question_128.ogg|/users/storage/waxahatchee/audio/no_question_320.ogg|1478963251
+100320208|Half Moon|3:58|9.6|/users/storage/waxahatchee/audio/half_moon_128.ogg|/users/storage/waxahatchee/audio/half_moon_320.ogg|27896531
+100320209|Fade|4:27|9.3|/users/storage/waxahatchee/audio/fade_128.ogg|/users/storage/waxahatchee/audio/fade_320.ogg|1785496321
+100320210|Out in the Storm|3:48|9.5|/users/storage/waxahatchee/audio/out_in_storm_128.ogg|/users/storage/waxahatchee/audio/out_in_storm_320.ogg|1987456321
+100320301|3 Sisters|3:42|9.4|/users/storage/waxahatchee/audio/3_sisters_128.ogg|/users/storage/waxahatchee/audio/3_sisters_320.ogg|1785496321
+100320302|Right Back to It|4:15|9.6|/users/storage/waxahatchee/audio/right_back_to_it_128.ogg|/users/storage/waxahatchee/audio/right_back_to_it_320.ogg|27896531
+100320303|365|3:28|9.5|/users/storage/waxahatchee/audio/365_128.ogg|/users/storage/waxahatchee/audio/365_320.ogg|1987456321
+100320304|Evil Spawn|3:52|9.3|/users/storage/waxahatchee/audio/evil_spawn_128.ogg|/users/storage/waxahatchee/audio/evil_spawn_320.ogg|17854963
+100320305|Bored|3:18|9.2|/users/storage/waxahatchee/audio/bored_128.ogg|/users/storage/waxahatchee/audio/bored_320.ogg|1658974231
+100320306|Lone Star Lake|4:03|9.7|/users/storage/waxahatchee/audio/lone_star_lake_128.ogg|/users/storage/waxahatchee/audio/lone_star_lake_320.ogg|28741963
+100320307|Tigers Blood|3:47|9.4|/users/storage/waxahatchee/audio/tigers_blood_128.ogg|/users/storage/waxahatchee/audio/tigers_blood_320.ogg|1785496321
+100320308|Ice Cold|3:35|9.5|/users/storage/waxahatchee/audio/ice_cold_128.ogg|/users/storage/waxahatchee/audio/ice_cold_320.ogg|1987456321
+100320309|Much Ado About Nothing|4:28|9.6|/users/storage/waxahatchee/audio/much_ado_128.ogg|/users/storage/waxahatchee/audio/much_ado_320.ogg|27896531
+100320310|Burns Out at Midnight|3:58|9.3|/users/storage/waxahatchee/audio/burns_out_midnight_128.ogg|/users/storage/waxahatchee/audio/burns_out_midnight_320.ogg|1785496321
+100320311|The Wolves|4:47|9.8|/users/storage/waxahatchee/audio/the_wolves_128.ogg|/users/storage/waxahatchee/audio/the_wolves_320.ogg|26589745

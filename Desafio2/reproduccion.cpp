@@ -34,7 +34,7 @@ int Totalcanciones(const string& NombreArchivo){
     if (total == 0) {
         throw ListaVaciaException("El archivo no contiene canciones");
     }
-
+    cout << "Hay un total de " << total << " canciones en la plataforma" << endl;
     return total;
 }
 
@@ -124,9 +124,9 @@ int seleccionarAnuncioAleatorio(Anuncio anuncios[], int totalAnuncios, int ultim
             case 'B': pesos[i] = 3; break;
             case 'C': pesos[i] = 1; break;
             default: pesos[i] = 1;
+            }
             cout << "Se utilizaron " << i + 1 << " espacios de memoria para anuncios disponibles." << endl;
             cout << "Se hicieron " << i + 1 << " comparaciones para incluir todos los anuncios." << endl;
-            }
         }
         cantDisponibles = totalAnuncios;
 

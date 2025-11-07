@@ -44,7 +44,7 @@ void Cancion::mostrarInfo() const {
 }
 
 void Cancion::reproducir(bool premium, const string& portadaAlbum, const string& nombreAlbum, const string& nombreArtista) {
-    cout << endl << "Reproduciendo cancion..." << endl;
+    //cout << endl << "Reproduciendo cancion..." << endl;
     cout << "Artista: " << nombreArtista << endl;
     cout << "Album: " << nombreAlbum << endl;
     cout << "Ruta a la Portada del album: " << portadaAlbum << endl << endl;

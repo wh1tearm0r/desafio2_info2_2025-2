@@ -1,1 +1,32 @@
-10001|Bad Bunny|30|Puerto Rico|102304740|1
+10001|Bon Jovi|42|Estados Unidos|31242568|177
+10002|Celine Dion|57|Canada|18275429|473
+10003|Jaci Velasquez|46|Estados Unidos|2233264|1800
+10004|Claudia Lorelle|48|Estados Unidos|10654|5000
+10005|Bad Bunny|30|Puerto Rico|102304740|1
+10006|Bjork|59|Islandia|3654025|500
+10007|Charli xcx|33|Reino Unido|8015214|45
+10008|Tame Impala|38|Australia|12456789|150
+10009|Phoebe Bridgers|30|Estados Unidos|6789234|280
+10010|Mac DeMarco|34|Canada|4521367|420
+10011|Beach House|42|Estados Unidos|3987654|550
+10012|FKA twigs|36|Reino Unido|5234876|380
+10013|King Gizzard|35|Australia|2876543|890
+10014|Mitski|34|Estados Unidos|7654321|210
+10015|Cigarettes After Sex|41|Estados Unidos|9876543|95
+10016|Japanese Breakfast|35|Estados Unidos|3456789|680
+10017|Alvvays|35|Canada|2345678|1200
+10018|Fontaines D.C.|28|Irlanda|4567890|460
+10019|Courtney Barnett|36|Australia|2987654|850
+10020|Soccer Mommy|27|Estados Unidos|1876543|1650
+10021|Clairo|26|Estados Unidos|8765432|130
+10022|boygenius|30|Estados Unidos|6543210|295
+10023|The National|48|Estados Unidos|8234567|160
+10024|Weyes Blood|35|Estados Unidos|2654321|920
+10025|Sufjan Stevens|49|Estados Unidos|5876543|340
+10026|Angel Olsen|37|Estados Unidos|2123456|1350
+10027|Perfume Genius|43|Estados Unidos|1987654|1580
+10028|Destroyer|52|Canada|1456789|2100
+10029|Snail Mail|25|Estados Unidos|2234567|1280
+10030|Big Thief|34|Estados Unidos|5432109|390
+10031|Porches|32|Estados Unidos|987654|2850
+10032|Waxahatchee|36|Estados Unidos|3123456|780

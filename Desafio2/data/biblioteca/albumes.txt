@@ -1,1 +1,92 @@
-1000101|Un Verano Sin Ti|Reggaeton|Pop|Trap||2022-05-06|1:21:00|Rimas|/users/storage/badbunny/image/un_verano_sin_ti.png|9.9
+1000101|Slippery When Wet|Rock|Hard Rock|Glam Metal|AOR|1986-08-18|0:46:00|Mercury|/users/storage/bonjovi/image/slippery_when_wet.png|9.8
+1000102|New Jersey|Rock|Hard Rock|Pop Rock|Heartland Rock|1988-09-19|1:03:00|Mercury|/users/storage/bonjovi/image/new_jersey.png|9.5
+1000103|Keep the Faith|Rock|Hard Rock|Arena Rock|AOR|1992-11-03|1:06:00|Jambco|/users/storage/bonjovi/image/keep_the_faith.png|9.3
+1000104|Cross Road|Rock|Hard Rock|Greatest Hits|Pop Rock|1994-10-11|1:15:00|Mercury|/users/storage/bonjovi/image/cross_road.png|9.7
+1000105|These Days|Rock|Alternative Rock|Pop Rock|AOR|1995-06-27|1:03:00|Mercury|/users/storage/bonjovi/image/these_days.png|9.2
+1000201|Falling into You|Pop|Adult Contemporary|Soft Rock|90s|1996-03-11|1:12:00|Columbia|/users/storage/celinedion/image/falling_into_you.png|9.8
+1000202|Let's Talk About Love|Pop|Adult Contemporary|Soul|90s|1997-11-14|1:16:00|Columbia|/users/storage/celinedion/image/lets_talk_about_love.png|9.6
+1000203|A New Day Has Come|Pop|Adult Contemporary|R&B|00s|2002-03-25|1:03:00|Columbia|/users/storage/celinedion/image/new_day_has_come.png|9.2
+1000301|Diamond|Pop|Contemporary Christian|Latin Pop|Cristiano|2004-03-02|0:52:00|Word|/users/storage/jacivalasquez/image/diamond.png|9.4
+1000302|Heavenly Place|Pop|Contemporary Christian|Worship|Cristiano|1996-09-24|0:48:00|Myrrh|/users/storage/jacivalasquez/image/heavenly_place.png|9.2
+1000401|Lugar Secreto|Pop|Contemporary Christian|Worship|Cristiano|2005-08-15|0:54:00|Integrity|/users/storage/claudialorelle/image/lugar_secreto.png|9.3
+1000402|Es Navidad|Pop|Contemporary Christian|Christmas|Cristiano|2006-11-10|0:48:00|Integrity|/users/storage/claudialorelle/image/es_navidad.png|9.1
+1000501|Un Verano Sin Ti|Reggaeton|Pop|Trap|Latino|2022-05-06|1:21:00|Rimas|/users/storage/badbunny/image/un_verano_sin_ti.png|9.9
+1000502|YHLQMDLG|Reggaeton|Pop|Trap|Latino|2020-02-20|1:05:00|Rimas|/users/storage/badbunny/image/un_verano_sin_ti.png|9.9
+1000601|Debut|Pop|Alternativo|Icelandic Pop|90s|1993-06-03|0:51:39|One Little Independent|/users/storage/bjork/image/debut.png|9.9
+1000602|Homogenic|Pop|Alternativo|Experimental|90s|1997-09-22|0:45:35|One Little Independent|/users/storage/bjork/image/debut.png|9.9
+1000701|Pop 2|Pop|Bubblegum Pop|Experimental|Hyperpop|2017-12-15|0:40:32|Asylum|/users/storage/charli_xcx/image/pop_2.png|8.4
+1000702|how i'm feeling now|Pop|Glitch Pop|Experimental|Hyperpop|2020-05-15|0:37:05|Asylum|/users/storage/charli_xcx/image/how_im_feeling_now.png|10
+1000801|Currents|Rock|Psychedelic Pop|Electronic|Indie|2015-07-17|0:51:14|Interscope|/users/storage/tameimpala/image/currents.png|9.6
+1000802|The Slow Rush|Rock|Psychedelic Pop|Synth Pop|Indie|2020-02-14|0:57:31|Interscope|/users/storage/tameimpala/image/the_slow_rush.png|9.3
+1000803|Lonerism|Rock|Psychedelic Rock|Neo-Psychedelia|Indie|2012-10-05|0:51:47|Modular|/users/storage/tameimpala/image/lonerism.png|9.7
+1000901|Punisher|Indie|Indie Rock|Sadcore|Alternative|2020-06-18|0:40:46|Dead Oceans|/users/storage/phoebebridgers/image/punisher.png|9.5
+1000902|Stranger in the Alps|Indie|Indie Rock|Folk Rock|Alternative|2017-09-22|0:42:11|Dead Oceans|/users/storage/phoebebridgers/image/stranger_in_the_alps.png|9.3
+1000903|boygenius|Indie|Indie Rock|Folk Rock|Alternative|2018-10-26|0:18:42|Matador|/users/storage/phoebebridgers/image/boygenius.png|9.4
+1001001|Salad Days|Indie|Jangle Pop|Lo-Fi|Alternative|2014-04-01|0:35:18|Captured Tracks|/users/storage/macдemarco/image/salad_days.png|9.4
+1001002|This Old Dog|Indie|Indie Rock|Lo-Fi|Alternative|2017-05-05|0:35:56|Captured Tracks|/users/storage/macдemarco/image/this_old_dog.png|9.2
+1001003|2|Indie|Jangle Pop|Lo-Fi|Psychedelic|2012-10-16|0:34:52|Captured Tracks|/users/storage/macдemarco/image/2.png|9.5
+1001101|Teen Dream|Dream Pop|Indie Pop|Shoegaze|Alternative|2010-01-27|0:48:32|Sub Pop|/users/storage/beachhouse/image/teen_dream.png|9.6
+1001102|Bloom|Dream Pop|Indie Pop|Shoegaze|Alternative|2012-05-15|0:49:14|Sub Pop|/users/storage/beachhouse/image/bloom.png|9.7
+1001103|Depression Cherry|Dream Pop|Indie Pop|Shoegaze|Alternative|2015-08-28|0:44:51|Sub Pop|/users/storage/beachhouse/image/depression_cherry.png|9.4
+1001104|7|Dream Pop|Indie Pop|Shoegaze|Alternative|2018-05-11|0:48:56|Sub Pop|/users/storage/beachhouse/image/7.png|9.5
+1001201|MAGDALENE|Art Pop|Electronic|R&B|Experimental|2019-11-08|0:38:29|Young Turks|/users/storage/fkatwigs/image/magdalene.png|9.6
+1001202|LP1|Art Pop|Electronic|R&B|Experimental|2014-08-12|0:39:31|Young Turks|/users/storage/fkatwigs/image/lp1.png|9.4
+1001203|CAPRISONGS|Art Pop|Electronic|R&B|Experimental|2022-01-14|0:42:33|Young Turks|/users/storage/fkatwigs/image/caprisongs.png|8.9
+1001301|Nonagon Infinity|Rock|Psychedelic Rock|Garage Rock|Progressive|2016-04-29|0:41:35|ATO|/users/storage/kinggizzard/image/nonagon_infinity.png|9.3
+1001302|Polygondwanaland|Rock|Psychedelic Rock|Progressive Rock|Experimental|2017-11-17|0:46:28|ATO|/users/storage/kinggizzard/image/polygondwanaland.png|9.4
+1001303|I'm In Your Mind Fuzz|Rock|Psychedelic Rock|Garage Rock|Progressive|2014-10-31|0:41:35|Flightless|/users/storage/kinggizzard/image/im_in_your_mind_fuzz.png|9.2
+1001401|Be the Cowboy|Indie|Indie Rock|Art Pop|Alternative|2018-08-17|0:32:29|Dead Oceans|/users/storage/mitski/image/be_the_cowboy.png|9.5
+1001402|Puberty 2|Indie|Indie Rock|Art Rock|Alternative|2016-06-17|0:30:02|Dead Oceans|/users/storage/mitski/image/puberty_2.png|9.3
+1001403|The Land Is Inhospitable|Indie|Indie Rock|Folk|Alternative|2023-09-15|0:32:29|Dead Oceans|/users/storage/mitski/image/the_land_is_inhospitable.png|9.6
+1001501|Cigarettes After Sex|Dream Pop|Ambient Pop|Indie Pop|Alternative|2017-06-09|0:49:32|Partisan|/users/storage/cigarettesaftersex/image/cigarettes_after_sex.png|9.2
+1001502|Cry|Dream Pop|Ambient Pop|Indie Pop|Alternative|2019-10-25|0:50:18|Partisan|/users/storage/cigarettesaftersex/image/cry.png|9.1
+1001503|X's|Dream Pop|Ambient Pop|Indie Pop|Alternative|2024-07-12|0:42:15|Partisan|/users/storage/cigarettesaftersex/image/xs.png|8.9
+1001601|Jubilee|Indie|Indie Pop|Dream Pop|Alternative|2021-06-04|0:37:23|Dead Oceans|/users/storage/japanesbreakfast/image/jubilee.png|9.3
+1001602|Soft Sounds from Another Planet|Indie|Indie Pop|Shoegaze|Alternative|2017-07-14|0:36:48|Dead Oceans|/users/storage/japanesbreakfast/image/soft_sounds.png|9.1
+1001603|Psychopomp|Indie|Indie Pop|Lo-Fi|Alternative|2016-04-01|0:31:27|Dead Oceans|/users/storage/japanesbreakfast/image/psychopomp.png|9.0
+1001701|Antisocialites|Indie|Indie Pop|Jangle Pop|Alternative|2017-09-08|0:33:19|Polyvinyl|/users/storage/alvvays/image/antisocialites.png|9.4
+1001702|Blue Rev|Indie|Indie Pop|Shoegaze|Alternative|2022-10-07|0:39:44|Polyvinyl|/users/storage/alvvays/image/blue_rev.png|9.5
+1001703|Alvvays|Indie|Indie Pop|Jangle Pop|Alternative|2014-07-22|0:33:02|Polyvinyl|/users/storage/alvvays/image/alvvays.png|9.2
+1001801|Skinty Fia|Rock|Post-Punk|Indie Rock|Alternative|2022-04-22|0:45:18|Partisan|/users/storage/fontainесdc/image/skinty_fia.png|9.6
+1001802|A Hero's Death|Rock|Post-Punk|Indie Rock|Alternative|2020-07-31|0:46:35|Partisan|/users/storage/fontainесdc/image/a_heros_death.png|9.4
+1001803|Dogrel|Rock|Post-Punk|Indie Rock|Alternative|2019-04-12|0:40:32|Partisan|/users/storage/fontainесdc/image/dogrel.png|9.5
+1001901|Sometimes I Sit and Think|Rock|Indie Rock|Folk Rock|Alternative|2015-03-20|0:42:54|Mom + Pop|/users/storage/courtneybarnett/image/sometimes_i_sit.png|9.4
+1001902|Tell Me How You Really Feel|Rock|Indie Rock|Alternative Rock|Grunge|2018-05-18|0:41:13|Mom + Pop|/users/storage/courtneybarnett/image/tell_me_how.png|9.2
+1001903|Things Take Time, Take Time|Rock|Indie Rock|Folk Rock|Alternative|2021-11-12|0:36:48|Mom + Pop|/users/storage/courtneybarnett/image/things_take_time.png|9.1
+1002001|Color Theory|Indie|Indie Rock|Lo-Fi|Alternative|2020-02-28|0:43:25|Loma Vista|/users/storage/soccermommy/image/color_theory.png|9.2
+1002002|Clean|Indie|Indie Rock|Lo-Fi|Alternative|2018-03-02|0:33:41|Fat Possum|/users/storage/soccermommy/image/clean.png|9.1
+1002003|Sometimes, Forever|Indie|Indie Rock|Shoegaze|Alternative|2022-06-24|0:38:17|Loma Vista|/users/storage/soccermommy/image/sometimes_forever.png|9.0
+1002101|Immunity|Indie|Indie Pop|Bedroom Pop|Alternative|2019-08-02|0:35:47|Fader|/users/storage/clairo/image/immunity.png|9.3
+1002102|Sling|Indie|Indie Pop|Folk Pop|Alternative|2021-07-16|0:44:28|Fader|/users/storage/clairo/image/sling.png|9.2
+1002103|Charm|Indie|Indie Pop|Bedroom Pop|Alternative|2024-07-12|0:38:51|Fader|/users/storage/clairo/image/charm.png|9.1
+1002201|the record|Indie|Indie Rock|Folk Rock|Alternative|2023-03-31|0:41:24|Interscope|/users/storage/boygenius/image/the_record.png|9.7
+1002202|the rest|Indie|Indie Rock|Folk Rock|Alternative|2023-10-13|0:23:47|Interscope|/users/storage/boygenius/image/the_rest.png|9.4
+1002301|Sleep Well Beast|Indie|Indie Rock|Art Rock|Alternative|2017-09-08|0:52:43|4AD|/users/storage/thenational/image/sleep_well_beast.png|9.4
+1002302|I Am Easy to Find|Indie|Indie Rock|Art Rock|Alternative|2019-05-17|1:03:56|4AD|/users/storage/thenational/image/i_am_easy_to_find.png|9.3
+1002303|Trouble Will Find Me|Indie|Indie Rock|Art Rock|Alternative|2013-05-21|0:56:12|4AD|/users/storage/thenational/image/trouble_will_find_me.png|9.5
+1002401|Titanic Rising|Indie|Art Pop|Baroque Pop|Alternative|2019-04-05|0:43:12|Sub Pop|/users/storage/weyesblood/image/titanic_rising.png|9.6
+1002402|And in the Darkness, Hearts Aglow|Indie|Art Pop|Baroque Pop|Alternative|2022-11-18|0:44:37|Sub Pop|/users/storage/weyesblood/image/and_in_the_darkness.png|9.4
+1002403|Front Row Seat to Earth|Indie|Art Pop|Folk|Alternative|2016-10-21|0:41:28|Mexican Summer|/users/storage/weyesblood/image/front_row_seat.png|9.2
+1002501|Carrie & Lowell|Indie|Folk|Singer-Songwriter|Alternative|2015-03-31|0:43:48|Asthmatic Kitty|/users/storage/sufjanstevens/image/carrie_and_lowell.png|9.7
+1002502|Illinois|Indie|Folk|Baroque Pop|Alternative|2005-07-05|1:13:57|Asthmatic Kitty|/users/storage/sufjanstevens/image/illinois.png|9.8
+1002503|The Age of Adz|Indie|Electronic|Art Pop|Experimental|2010-10-12|1:14:03|Asthmatic Kitty|/users/storage/sufjanstevens/image/the_age_of_adz.png|9.5
+1002601|All Mirrors|Indie|Art Pop|Synth Pop|Alternative|2019-10-04|0:49:13|Jagjaguwar|/users/storage/angelolsen/image/all_mirrors.png|9.4
+1002602|Big Time|Indie|Country|Folk Rock|Alternative|2022-06-03|0:45:27|Jagjaguwar|/users/storage/angelolsen/image/big_time.png|9.3
+1002603|My Woman|Indie|Indie Rock|Art Rock|Alternative|2016-09-02|0:48:31|Jagjaguwar|/users/storage/angelolsen/image/my_woman.png|9.5
+1002701|No Shape|Indie|Art Pop|Synth Pop|Experimental|2017-05-05|0:48:56|Matador|/users/storage/perfumegenius/image/no_shape.png|9.5
+1002702|Set My Heart on Fire Immediately|Indie|Art Pop|Synth Pop|Experimental|2020-05-15|0:42:33|Matador|/users/storage/perfumegenius/image/set_my_heart.png|9.4
+1002703|Ugly Season|Indie|Art Pop|Synth Pop|Experimental|2022-06-17|0:26:35|Matador|/users/storage/perfumegenius/image/ugly_season.png|9.2
+1002801|Kaputt|Indie|Art Rock|Synth Pop|Experimental|2011-01-25|0:46:28|Merge|/users/storage/destroyer/image/kaputt.png|9.4
+1002802|Poison Season|Indie|Art Rock|Chamber Pop|Experimental|2015-08-28|0:56:42|Merge|/users/storage/destroyer/image/poison_season.png|9.2
+1002803|Have We Met|Indie|Art Rock|Synth Pop|Experimental|2020-01-31|0:46:15|Merge|/users/storage/destroyer/image/have_we_met.png|9.3
+1002901|Valentine|Indie|Indie Rock|Lo-Fi|Alternative|2021-11-05|0:40:18|Matador|/users/storage/snailmail/image/valentine.png|9.2
+1002902|Lush|Indie|Indie Rock|Lo-Fi|Alternative|2018-06-08|0:32:47|Matador|/users/storage/snailmail/image/lush.png|9.3
+1003001|Dragon New Warm Mountain|Indie|Indie Rock|Folk Rock|Alternative|2021-02-19|1:20:17|4AD|/users/storage/bigthief/image/dragon_new_warm.png|9.5
+1003002|U.F.O.F.|Indie|Indie Rock|Folk Rock|Alternative|2019-05-03|0:47:23|4AD|/users/storage/bigthief/image/ufof.png|9.4
+1003003|Two Hands|Indie|Indie Rock|Folk Rock|Alternative|2019-10-11|0:42:38|4AD|/users/storage/bigthief/image/two_hands.png|9.6
+1003101|All of This Life Lost|Indie|Synth Pop|Dream Pop|Alternative|2024-03-15|0:36:24|Domino|/users/storage/porches/image/all_of_this_life.png|8.9
+1003102|Ricky Music|Indie|Synth Pop|Indie Pop|Alternative|2021-03-12|0:33:48|Domino|/users/storage/porches/image/ricky_music.png|9.0
+1003103|The House|Indie|Synth Pop|Indie Pop|Alternative|2018-01-19|0:37:52|Domino|/users/storage/porches/image/the_house.png|9.1
+1003201|Saint Cloud|Indie|Folk Rock|Americana|Alternative|2020-03-27|0:43:26|Merge|/users/storage/waxahatchee/image/saint_cloud.png|9.5
+1003202|Out in the Storm|Indie|Indie Rock|Alternative Rock|Punk|2017-07-14|0:38:47|Merge|/users/storage/waxahatchee/image/out_in_the_storm.png|9.3
+1003203|Tigers Blood|Indie|Folk Rock|Americana|Alternative|2024-03-22|0:42:19|Anti-|/users/storage/waxahatchee/image/tigers_blood.png|9.4
